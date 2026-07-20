@@ -1,0 +1,125 @@
+/* =========================================================
+   PÁGINA DE ACERVO
+   Estilos para as páginas internas de cada acervo (Mundo,
+   Narrativas, Personagens, etc.), com fundo temático e
+   grade de categorias em cartões.
+   ========================================================= */
+
+.pagina-acervo {
+    min-height: 100vh;
+    padding: 40px 5%;
+    /* Camada escura sobre a imagem de fundo definida
+       individualmente via --imagem-fundo. */
+    background:
+        linear-gradient(
+            rgba(0, 0, 0, .75),
+            rgba(0, 0, 0, .90)
+        ),
+        var(--imagem-fundo);
+    background-size: cover;
+    background-position: center;
+}
+
+/* =========================================================
+   LINK DE RETORNO
+   Botão para voltar à página anterior ou ao nível superior.
+   ========================================================= */
+
+.link-voltar {
+    display: inline-block;
+    margin-bottom: 60px;
+    color: var(--cor-destaque);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: .85rem;
+}
+
+/* =========================================================
+   CABEÇALHO DO ACERVO
+   Agrupa código, título e descrição principal.
+   ========================================================= */
+
+.cabecalho-acervo {
+    max-width: 850px;
+    margin-bottom: 60px;
+}
+
+.codigo-acervo {
+    color: var(--cor-destaque);
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: .85rem;
+}
+
+.cabecalho-acervo h1 {
+    margin-top: 14px;
+    font-size: clamp(3rem, 8vw, 6rem);
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.cabecalho-acervo p {
+    margin-top: 20px;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--cor-texto-secundario);
+}
+
+/* =========================================================
+   GRADE DE CATEGORIAS
+   Grid responsivo com colunas de largura mínima de 260px.
+   ========================================================= */
+
+.grade-categorias {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 20px;
+}
+
+/* =========================================================
+   CARTÃO DE CATEGORIA
+   Cada item da grade, com animação de elevação ao hover.
+   ========================================================= */
+
+.cartao-categoria {
+    min-height: 230px;
+    padding: 28px;
+    color: inherit;
+    border: 1px solid var(--cor-borda);
+    background: var(--cor-painel);
+    transition:
+        transform .35s ease,
+        border-color .35s ease,
+        background .35s ease;
+}
+
+.cartao-categoria:hover {
+    transform: translateY(-8px);
+    border-color: var(--cor-destaque);
+    background: rgba(20, 15, 10, .85);
+}
+
+/* ===== IDENTIFICAÇÃO DA CATEGORIA ===== */
+
+.cartao-categoria span {
+    color: var(--cor-destaque);
+    font-size: .8rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+/* ===== TÍTULO DA CATEGORIA ===== */
+
+.cartao-categoria h2 {
+    margin-top: 18px;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
+
+/* ===== DESCRIÇÃO DA CATEGORIA ===== */
+
+.cartao-categoria p {
+    margin-top: 16px;
+    color: var(--cor-texto-secundario);
+    line-height: 1.6;
+}
