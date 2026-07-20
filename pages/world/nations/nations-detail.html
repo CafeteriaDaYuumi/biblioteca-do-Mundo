@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <!-- =========================================================
+         CONFIGURAÇÕES BÁSICAS
+         Define codificação, responsividade e título da página.
+         ========================================================= -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ficha de Nação | Biblioteca do Mundo</title>
+
+    <!-- =========================================================
+         FOLHAS DE ESTILO
+         Global.css contém a base visual do site.
+         CategoriaDePages.css padroniza a página de categoria.
+         Nacao.css controla a ficha detalhada de nação.
+         ========================================================= -->
+    <link rel="stylesheet" href="../../../assets/styles/global.css">
+    <link rel="stylesheet" href="../../../assets/styles/pageCategory.css">
+    <link rel="stylesheet" href="../../../assets/styles/nation.css">
+</head>
+
+<body>
+
+    <!-- =========================================================
+         FICHA DE NAÇÃO
+         Página responsável por renderizar uma ficha completa
+         da nação a partir dos dados carregados via JSON.
+         ========================================================= -->
+    <main class="pagina-ficha-nacao" id="paginaFichaNacao">
+
+        <!-- ===== BARRA SUPERIOR ===== -->
+        <!-- Contém o botão de retorno à página anterior. -->
+        <header class="barra-superior">
+            <a href="index.html" class="botao-voltar">
+                ← Voltar
+            </a>
+        </header>
+
+        <!-- =========================================================
+             MÍDIA PRINCIPAL DO TOPO
+             Área dinâmica para vídeo local, imagem ou YouTube.
+             Conteúdo vindo de: midiaTopo.
+             ========================================================= -->
+        <header class="hero-nacao" id="midiaTopo"></header>
+
+        <!-- =========================================================
+             IDENTIFICAÇÃO DO REGISTRO
+             Exibe nome, categoria, código, subtítulo e tags.
+             Conteúdo vindo de: identificacao e tags.
+             ========================================================= -->
+        <section class="identificacao-registro" id="identificacao"></section>
+
+        <!-- =========================================================
+             FONTES DO REGISTRO
+             Exibe versão, origem, integridade e dados de atualização.
+             Conteúdo vindo de: versao e fontes.
+             ========================================================= -->
+        <section class="fontes-registro" id="fontes"></section>
+
+        <!-- =========================================================
+             RESUMO DO REGISTRO
+             Imagem principal e campos rápidos da ficha.
+             Conteúdo vindo de: resumo.
+             ========================================================= -->
+        <section class="resumo-registro" id="resumo"></section>
+
+        <!-- =========================================================
+             ESTATÍSTICAS DA NAÇÃO
+             Indicadores como população, PIB, moeda, estabilidade,
+             tecnologia e influência.
+             Conteúdo vindo de: estatisticas.
+             ========================================================= -->
+        <section class="estatisticas-registro" id="estatisticas"></section>
+
+        <!-- =========================================================
+             ÍNDICE AUTOMÁTICO
+             Navegação interna gerada a partir das seções principais
+             e subseções da ficha.
+             Conteúdo vindo de: indice e secoes.
+             ========================================================= -->
+        <nav class="indice-registro" id="indice"></nav>
+
+        <!-- =========================================================
+             CRONOLOGIA RESUMIDA
+             Eventos rápidos, marcos históricos ou linha temporal.
+             Conteúdo vindo de: cronologia.
+             ========================================================= -->
+        <section class="cronologia-registro" id="cronologia"></section>
+
+        <!-- =========================================================
+             CITAÇÕES IMPORTANTES
+             Frases, lemas, trechos históricos ou citações marcantes.
+             Conteúdo vindo de: citacoes.
+             ========================================================= -->
+        <section class="citacoes-registro" id="citacoes"></section>
+
+        <!-- =========================================================
+             SEÇÕES PRINCIPAIS DA FICHA
+             Área onde todas as grandes seções são renderizadas:
+             história, política, economia, população, cultura etc.
+             Conteúdo vindo de: secoes.
+             ========================================================= -->
+        <section class="secoes-registro" id="secoes"></section>
+
+        <!-- =========================================================
+             VÍDEO FINAL DO REGISTRO
+             Área opcional para vídeo antes das conexões
+             e dos registros relacionados.
+             Conteúdo vindo de: videoAntesDasConexoes.
+             ========================================================= -->
+        <section class="video-final-registro" id="videoAntesDasConexoes"></section>
+
+        <!-- =========================================================
+             REGISTROS RELACIONADOS
+             Conexões com personagens, localizações, tecnologias,
+             eventos, documentos e histórias.
+             Conteúdo vindo de: relacionados.
+             ========================================================= -->
+        <section class="relacionados-registro" id="relacionados"></section>
+
+        <!-- =========================================================
+             GALERIA FINAL
+             Imagens finais, artes, mapas ou referências visuais.
+             Conteúdo vindo de: galeria.
+             ========================================================= -->
+        <section class="galeria-registro" id="galeria"></section>
+
+    </main>
+
+    <!-- =========================================================
+         SCRIPT DA FICHA
+         Responsável por carregar o JSON da nação e renderizar
+         todas as áreas dinâmicas da página.
+         ========================================================= -->
+    <script src="../../../src/scripts/nation-Details.js"></script>
+
+</body>
+
+</html>

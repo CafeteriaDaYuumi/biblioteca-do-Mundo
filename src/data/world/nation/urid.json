@@ -1,0 +1,2266 @@
+{
+    "id": "urid",
+    "slug": "",
+    "tipo": "nacao",
+    "identificacao": {
+        "categoria": "Nação",
+        "codigo": "Republicas Imperiais de Diastlov",
+        "registro": "",
+        "nome": "U.R.I.D",
+        "subtitulo": "Que MoonClaus Assista sua batalha"
+    },
+    "versao": {
+        "criado": "",
+        "atualizado": "",
+        "versao": "1.0"
+    },
+    "tags": [
+        "Localização",
+        "Nação"
+    ],
+    "fontes": [
+        {
+            "tipo": "Reconstrução Memética",
+            "integridade": "~82%",
+            "origem": ""
+        }
+    ],
+    "midiaTopo": {
+        "tipo": "video",
+        "imagemCapa": "",
+        "videoLocal": "",
+        "youtube": ""
+    },
+    "resumo": {
+        "midia": {
+            "tipo": "imagem",
+            "src": "",
+            "alt": ""
+        },
+        "campos": [
+            {
+                "rotulo": "Nome oficial",
+                "valor": "União das Republicas Imperiais de Diastolv"
+            },
+            {
+                "rotulo": "Capital",
+                "valor": "Astroford: Capital do Ferro Negro"
+            },
+            {
+                "rotulo": "Dilema",
+                "valor": "Mantenha a estrutura que sustenta o império… ou evolua ao ponto de quebrá-la."
+            },
+            {
+                "rotulo": "Língua",
+                "valor": "Rusi"
+            },
+            {
+                "rotulo": "Religião",
+                "valor": "Diatlov"
+            },
+            {
+                "rotulo": "Cultura",
+                "valor": "Meldomarck "
+            },
+            {
+                "rotulo": "Moeda",
+                "valor": "Rushi (Nightblood e Astroford)"
+            },
+            {
+                "rotulo": "Padrão Fonotático",
+                "valor": "‘kr, vr, dr, st, kov, grad, vel, dor, isk, yor, zh, trak’"
+            },
+            {
+                "rotulo": "Tecnologia predominante",
+                "valor": "Thermopunk | Quiopunck | Híbrida"
+            },
+            {
+                "rotulo": "Situação política",
+                "valor": "Sistema dual de governo formado por dois imperadores pertencentes às linhagens de Diastlov, equilibrado por um Conselho das 7 Casas. O sistema combina autoridade imperial e representação política, com um parlamento responsável pela tomada de decisões através de votação. A estabilidade da nação é mantida por meio do equilíbrio de poder entre as linhagens imperiais, as Casas e as instituições governamentais."
+            }
+        ]
+    },
+    "estatisticas": {
+        "titulo": "Status da nação",
+        "indicadores": [
+            {
+                "indicador": "População",
+                "pontuacao": "1,485 Bilhão",
+                "notas": "Grande população concentrada em megaestruturas e distritos industriais de alta densidade urbana e força de trabalho massiva"
+            },
+            {
+                "indicador": "PIB",
+                "pontuacao": "8.7",
+                "notas": "Considerada a Fabrica do mundo, urid produz em larga escala diversos equipamentos industrias utilizados no mundo todo"
+            },
+            {
+                "indicador": "Moeda",
+                "pontuacao": "Rushi (~2 Rbkz)",
+                "notas": "Forte e valorizada globalmente pela dependência internacional dos produtos da URID"
+            },
+            {
+                "indicador": "Estabilidade política",
+                "pontuacao": "7.8",
+                "notas": "Estrutura sólida, mas dependente do equilíbrio entre as 2 famílias imperiais e as 7 casas"
+            },
+            {
+                "indicador": "Poder militar (M.A.T)",
+                "pontuacao": "7|5|8.8",
+                "notas": "Exército imperial forte + forças privadas das casas podendo dobrar capacidade em guerra"
+            },
+            {
+                "indicador": "Nível tecnológico",
+                "pontuacao": "8",
+                "notas": "Altíssimo em escala e engenharia pesada porem menos refinado em miniaturização e precisão"
+            },
+            {
+                "indicador": "IDH",
+                "pontuacao": "6.2",
+                "notas": "Boa infraestrutura geral, mas desigualdade forte entre classes e niveis internos dentro das casas"
+            },
+            {
+                "indicador": "Influência Global",
+                "pontuacao": "8",
+                "notas": "O Império é a maior superpotência continental do mundo moderno, Controla o maior estoque conhecido de Nightblood"
+            }
+        ]
+    },
+    "indice": {
+        "automatico": true,
+        "fixo": true
+    },
+    "cronologia": [],
+    "citacoes": [
+        {
+            "texto": "O frio não perdoa, mas também não mente.",
+            "autor": "Strelkov Vradiy Yorik"
+        },
+        {
+            "texto": "A casa ergue o homem, mas é o homem que sustenta a casa",
+            "autor": "Stravograd Velkor Barakov Drask"
+        }
+    ],
+    "secoes": [
+        {
+            "id": "historia",
+            "icone": "🕰️",
+            "titulo": "História",
+            "subsecoes": [
+                {
+                    "id": "resumo",
+                    "titulo": "Resumo",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": "Antes de existir um império, o extremo norte era um lugar onde sobreviver já era uma conquista. Isoladas por montanhas, soterradas pelo inverno e cercadas por uma natureza que jamais oferecia misericórdia, pequenas tribos viviam espalhadas pelo território, moldadas pela escassez e pela necessidade constante de provar seu valor. Nesse ambiente, força nunca significou apenas poder físico, mas a capacidade de continuar existindo quando tudo parecia querer apagar sua presença.  \n \nQuando as nações Taballkainas  chegou ao norte durante a Primeira Guerra Mundial, essas tribos descobriram que sobreviver ao ambiente não era suficiente para sobreviver ao mundo. Divididas, foram derrotadas por exércitos mais organizados e por uma tecnologia que jamais haviam visto. A derrota, porém, não destruiu aquele povo; tornou-se a primeira grande lição de sua história. Pela primeira vez compreenderam que, sozinhos, estavam condenados a desaparecer. \n \n Nas décadas seguintes, antigos rivais deixaram de lutar entre si para enfrentar um inimigo maior. As tribos se reuniram em torno de grandes senhores da guerra, formando as Sete Nações do Norte. Dessas alianças nasceram as primeiras grandes Casas, famílias que deixaram de representar apenas sangue e passaram a representar conhecimento, produção, estratégia e sobrevivência. Foi também nesse período que a tecnologia a vapor, trazida de fora, começou a ser estudada. Em vez de copiá-la, os povos do norte fizeram dela algo próprio, adaptando-a às necessidades de um território onde tudo precisava resistir ao frio, ao peso e ao tempo. \n \n Foi durante os últimos anos da Guerra dos Cem Anos que surgiu Diastlov, um general capaz de enxergar além das vitórias imediatas. Ele compreendeu que as Sete Nações jamais alcançariam estabilidade enquanto permanecessem unidas apenas pela guerra. Sob sua liderança nasceu uma nova estrutura política, onde duas linhagens imperiais dividiriam o poder ao lado do Conselho das Sete Casas, criando um equilíbrio que impediria qualquer força de dominar sozinha o império. Em 1700, essa reorganização marcou oficialmente o nascimento da União das Repúblicas Imperiais de Diastlov, conhecida posteriormente apenas como Império de Urid. \n \n Nos séculos seguintes, o império transformou sua maior fraqueza em sua maior virtude. O frio impulsionou a engenharia, a escassez incentivou a eficiência e a necessidade de sobreviver levou à criação de cidades colossais, distritos industriais e tecnologias próprias baseadas no vapor, no Quiopunk e no NigthBlood. Em vez de buscar expansão territorial desenfreada, a URID passou a conquistar influência através da produção, tornando-se a principal potência industrial do mundo conhecido. Onde seu exército não chegava, suas máquinas chegavam primeiro, onde sua bandeira não era hasteada, sua economia criava dependência. \n \n Hoje, a URID permanece como uma das nações mais poderosas do mundo, sustentada por uma estrutura construída ao longo de séculos de adaptação e disciplina. Entretanto, aquilo que garantiu sua ascensão também representa sua maior ameaça. O delicado equilíbrio entre as duas Famílias Imperiais, o Conselho das Sete Casas, a dependência do NigthBlood e as tensões entre tradição e mudança fazem com que muitos acreditem que o império jamais será derrotado por um inimigo estrangeiro. Se um dia cair, será porque a própria estrutura que o tornou grandioso deixou de conseguir sustentar o peso de sua existência."
+                        }
+                    ]
+                },
+                {
+                    "id": "eventos",
+                    "titulo": "Eventos",
+                    "blocos": [
+                        {
+                            "titulo": "Era da Sobrevivência (pré-Diastlov)",
+                            "descricao": "Grupos isolados lutando contra o ambiente. Formação das primeiras casas baseadas em função e resistência.",
+                            "data": ""
+                        },
+                        {
+                            "titulo": "Unificação de Diastlov",
+                            "descricao": "Criação da estrutura imperial. Surgimento das 7 casas principais e das duas linhagens imperiais. Definição do modelo político que sustenta o império até hoje.",
+                            "data": ""
+                        },
+                        {
+                            "titulo": "Contato com a Aliança e Domínio do Vapor",
+                            "descricao": "Acesso à tecnologia a vapor vinda de fora. Estudo, adaptação e reconstrução do conhecimento dentro da lógica da URID.",
+                            "data": ""
+                        },
+                        {
+                            "titulo": "Ascensão do Quiopunk",
+                            "descricao": "Integração entre alquimia, Nightblood e sistemas mecânicos. Base do avanço tecnológico próprio do império.",
+                            "data": ""
+                        },
+                        {
+                            "titulo": "Guerras de Resistência e Expansão",
+                            "descricao": "Tentativas de invasão contra a URID e sua resposta militar. Conflitos com Medrimart, Lakeland e os Emirados Arcaicos moldam o cenário político.",
+                            "data": ""
+                        },
+                        {
+                            "titulo": "Industrialização e Megaestruturas",
+                            "descricao": "Crescimento massivo da produção, surgimento de distritos industriais e construção das mega cidades.",
+                            "data": ""
+                        },
+                        {
+                            "titulo": "Era Atual – Expansão Controlada",
+                            "descricao": "Crescimento contínuo, tensões internas entre casas, abertura limitada ao exterior e conflitos políticos ainda ativos.",
+                            "data": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "linha-temporal",
+                    "titulo": "Linha Temporal",
+                    "blocos": [
+                        {
+                            "titulo": "Eras Passadas Relevantes",
+                            "inicio": "",
+                            "fim": "",
+                            "descricao": "A lógica de sobrevivência da era pré-Diastlov ainda define o comportamento atual. O sistema de casas, a hierarquia e a ideia de prova constante são heranças diretas desse período."
+                        },
+                        {
+                            "titulo": "Mudanças Recentes",
+                            "inicio": "",
+                            "fim": "",
+                            "descricao": "O crescimento de cidades como Sirius, o maior contato com estrangeiros e as disputas internas entre casas demonstram que o império está se tornando mais complexo e mais difícil de controlar."
+                        },
+                        {
+                            "titulo": "Tensões Futuras",
+                            "inicio": "",
+                            "fim": "",
+                            "descricao": "O equilíbrio entre as duas Famílias Imperiais e o Conselho das 7 Casas depende de alinhamento constante. Qualquer ruptura pode gerar instabilidade em larga escala. O Arquipélago da Condensa Carmesim continua sendo um dos principais pontos de possível conflito."
+                        },
+                        {
+                            "titulo": "Profecias e Previsões",
+                            "inicio": "",
+                            "fim": "",
+                            "descricao": "Entre grupos mais tradicionais existe a crença de que o maior teste da URID ainda não aconteceu. Segundo essa visão, o império não cairá por invasão externa, mas por uma falha interna. A Congregação do Último Jardim leva essa ideia ao extremo, acreditando que esse colapso é necessário para reiniciar o mundo."
+                        },
+                        {
+                            "titulo": "Planos de Expansão e Influência",
+                            "inicio": "",
+                            "fim": "",
+                            "descricao": "A URID nunca buscou expansão territorial direta. Sua estratégia atual é estrutural: ampliar influência através da produção, tecnologia e dependência econômica. Onde não governa, sustenta. E onde sustenta, eventualmente passa a controlar."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "estrutura-politica",
+            "icone": "⚖️",
+            "titulo": "Estrutura Política",
+            "subsecoes": [
+                {
+                    "id": "forma-de-governo",
+                    "titulo": "Forma de governo",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A União das Repúblicas Imperiais de URID constitui uma federação imperial composta por sete nações soberanas, unidas sob uma mesma Coroa Imperial. Cada nação preserva autonomia administrativa, legislativa e cultural por meio de seu próprio Parlamento Nacional e de suas instituições internas, compartilhando com a União apenas as competências estratégicas relacionadas à defesa, política externa, comércio interestatal e estabilidade imperial. \n \n O equilíbrio político da União é sustentado por quatro grandes pilares: as duas Famílias Imperiais, o Conselho das Sete Casas, o Senado Imperial Nacional e os Parlamentos Nacionais. Nenhuma dessas instituições exerce autoridade absoluta, formando um sistema de freios e contrapesos que impede a concentração permanente de poder e assegura a representatividade das sete nações. \n \n Sempre que uma matéria de interesse imperial exige deliberação, o Conselho das Sete Casas reúne-se em sessão conjunta com os dois Imperadores. Durante a sessão, os representantes das sete nações apresentam informações, argumentos e interesses de seus respectivos governos, promovendo um debate político antes de qualquer decisão. \n \n Encerradas as discussões, apenas os Imperadores possuem autoridade para apresentar propostas oficiais de resolução. Cada Imperador pode defender uma proposta distinta ou ambos podem apoiar uma mesma alternativa, mas o Conselho é obrigado a deliberar exclusivamente entre as propostas imperiais, não sendo permitido voto de abstenção ou a rejeição de ambas. \n \n Para que uma decisão seja aprovada, é necessário o voto favorável de, no mínimo, quatro das sete Casas representadas no Conselho. Esse modelo garante que nenhuma decisão estratégica seja imposta unilateralmente, obrigando à construção de consensos entre as Famílias Imperiais e assegurando que as principais políticas da União possuam o respaldo da maioria das nações que compõem o Império."
+                        }
+                    ]
+                },
+                {
+                    "id": "lideres-principais",
+                    "titulo": "Líderes principais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "O governo imperial é estruturado por quatro instituições fundamentais, responsáveis pela administração, representação política e manutenção do equilíbrio entre as nações da União."
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "Primeiro Imperador",
+                            "descricao": "Representante da primeira linhagem descendente de Diastlov, atua como um dos dois Chefes de Estado da União. Compartilha integralmente a autoridade imperial, possuindo o direito exclusivo de apresentar propostas oficiais ao Conselho das Sete Casas e representar os interesses estratégicos do Império."
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "Segundo Imperador",
+                            "descricao": "Representante da segunda linhagem imperial descendente de Diastlov. Exerce exatamente os mesmos poderes do Primeiro Imperador, formando uma diarquia permanente baseada no equilíbrio entre as duas Casas Imperiais. Ambos governam conjuntamente e nenhuma decisão imperial pode ser imposta por apenas um deles."
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "Conselho das 7 Casas",
+                            "descricao": "Órgão político formado pelas Casas Maiores das sete nações imperiais. Cada Parlamento Nacional escolhe, sem mandato fixo, qual de suas Grandes Casas exercerá a representação nacional no Conselho. A escolha pode ser alterada sempre que o Parlamento considerar necessário, refletindo as mudanças do equilíbrio político interno de cada nação. \n O Conselho representa diretamente os interesses nacionais dentro da União, participando das decisões imperiais de maior relevância e funcionando como principal órgão deliberativo do governo federal."
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "Senado Imperial",
+                            "descricao": "Instituição permanente composta por um Senador Imperial indicado por cada uma das sete nações fundadoras. O Senado atua como órgão técnico e legislativo responsável por revisar leis imperiais, fiscalizar a administração da União, harmonizar conflitos entre os Parlamentos Nacionais e preservar a estabilidade institucional do Império. \n Enquanto o Conselho representa as Casas governantes, o Senado representa as próprias nações da União."
+                        }
+                    ]
+                },
+                {
+                    "id": "sucessao-eleicao",
+                    "titulo": "Forma de sucessão ou eleição",
+                    "texto": "As duas Famílias Imperiais descendem diretamente de Diastlov, preservando a legitimidade histórica da Coroa Imperial. A sucessão ocorre exclusivamente dentro de cada linhagem, segundo as tradições e normas estabelecidas por suas respectivas Casas. \n Como os dois tronos pertencem a famílias distintas, a sucessão de um Imperador não interfere na continuidade do outro, assegurando estabilidade política mesmo durante períodos de transição dinástica."
+                },
+                {
+                    "id": "leis-sistema-judicial",
+                    "titulo": "Leis e sistema judicial",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A justiça da URID é baseada em responsabilidade funcional, dever para com a casa e preservação da estabilidade imperial. O sistema jurídico prioriza consequências práticas e impacto estrutural acima de conceitos abstratos de igualdade. Casas possuem autonomia para resolver muitos conflitos internos, enquanto crimes que afetam a ordem imperial podem ser julgados por instituições superiores."
+                        },
+                        {
+                            "tipo": "tabela",
+                            "titulo": "Princípios Fundamentais",
+                            "colunas": [
+                                "Princípio",
+                                "Descrição"
+                            ],
+                            "linhas": [
+                                [
+                                    "Utilidade",
+                                    "O valor das ações é medido pelo impacto que produzem."
+                                ],
+                                [
+                                    "Responsabilidade",
+                                    "Indivíduos respondem por seus atos e pelos danos causados."
+                                ],
+                                [
+                                    "Estabilidade",
+                                    "A preservação da ordem imperial possui prioridade elevada."
+                                ],
+                                [
+                                    "Autonomia das Casas",
+                                    "Casas possuem autoridade significativa sobre seus membros."
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "organizacao-militar",
+                    "titulo": "Organização militar e de defesa",
+                    "blocos": [
+                        {
+                            "tipo": "divisao",
+                            "titulo": "Exército Imperial",
+                            "descricao": "Força armada permanente responsável pela defesa territorial, campanhas militares e manutenção da soberania imperial, sendo divididos em 2 grandes grupos e obedecendo diretamente aos imperador a qual seu grupo jurou lealdade."
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "Marinha Imperial",
+                            "descricao": "Responsável pelo controle marítimo, rotas comerciais estratégicas e projeção de poder em águas internacionais, Obedecendo em tempos de paz a casa responsavel pela casa a qual seu porto se encontra porem sendo realocado a divisão igualitaria aos imperadores em declaração de guerra"
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "Força Aérea Imperial",
+                            "descricao": "Responsável pelo controle do espaço aéreo da União, patrulhamento das fronteiras, proteção das rotas comerciais estratégicas e manutenção da superioridade aérea imperial. Em tempos de paz, é administrada por uma Casa Militar independente do Conselho das Sete Casas, nomeada para exercer o comando durante todo o mandato de seu líder, podendo ser substituída apenas em caso de morte, destituição ou por nova deliberação imperial. Compete à Casa responsável a manutenção da frota aérea, treinamento das tripulações e defesa do território da União. Em caso de declaração oficial de guerra, toda a Força Aérea Imperial é retirada de seu comando administrativo e dividida igualmente entre os dois Imperadores, passando a integrar diretamente o Alto Comando Imperial até o encerramento do conflito."
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "Forças das Casas",
+                            "descricao": "Cada grande casa mantém tropas próprias, equipamentos especializados e infraestrutura militar independente. Em tempos de guerra, essas forças podem ser mobilizadas em conjunto com o exército imperial."
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "Corpos Especializados",
+                            "descricao": "Unidades focadas em engenharia militar, logística pesada, alquimia quiopunk, defesa de infraestrutura crítica e operações estratégicas."
+                        }
+                    ]
+                },
+                {
+                    "id": "faccoes-politicas",
+                    "titulo": "Facções políticas internas",
+                    "faccoes": [
+                        {
+                            "titulo": "Tradicionalistas Diastlov",
+                            "descricao": "Defendem a preservação rigorosa das estruturas herdadas da fundação do império e a manutenção do sistema de casas."
+                        },
+                        {
+                            "titulo": "Industrialistas",
+                            "descricao": "Buscam expansão econômica, aumento da produção e fortalecimento das megaestruturas industriais."
+                        },
+                        {
+                            "titulo": "Expansionistas Estruturais",
+                            "descricao": "Acreditam que a influência da URID deve crescer por meio de dependência econômica, tecnológica e logística."
+                        },
+                        {
+                            "titulo": "Reformistas Moderados",
+                            "descricao": "Defendem modernizações graduais para evitar estagnação sem romper a estabilidade imperial."
+                        }
+                    ]
+                },
+                {
+                    "id": "interesses-atuais",
+                    "titulo": "Interesses atuais",
+                    "blocos": [
+                        {
+                            "tipo": "interesse",
+                            "titulo": "Manutenção da Estabilidade Imperial",
+                            "descricao": "Preservar o equilíbrio entre as famílias imperiais e o Conselho das 7 Casas."
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "Proteção do Nightblood",
+                            "descricao": "Garantir controle sobre as reservas estratégicas do recurso mais valioso do império."
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "Expansão da Influência Econômica",
+                            "descricao": "Aumentar a dependência internacional da produção e tecnologia da URID."
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "Desenvolvimento Quiopunk",
+                            "descricao": "Avançar pesquisas envolvendo alquimia, implantes, Nightblood e sistemas híbridos."
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "Segurança das Megaestruturas",
+                            "descricao": "Garantir a integridade das cidades verticais que sustentam a população e a economia imperial."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "relacoes-internacionais",
+            "icone": "🌍",
+            "titulo": "Relações Internacionais e Diplomacia",
+            "subsecoes": [
+                {
+                    "id": "aliados-inimigos",
+                    "titulo": "Aliados e inimigos históricos",
+                    "blocos": [
+                        {
+                            "tipo": "comparacao",
+                            "titulo": "Relações Externas da URID",
+                            "ladoA": {
+                                "titulo": "Parceiros e Relações Funcionais",
+                                "descricao": "A URID mantém relações principalmente baseadas em interesse estratégico e comércio.",
+                                "itens": [
+                                    "Teiko",
+                                    "Solary",
+                                    "Federação de Yottsu hoshi",
+                                    "Kikimifia"
+                                ]
+                            },
+                            "ladoB": {
+                                "titulo": "Rivais e Fontes de Tensão",
+                                "descricao": "A influência econômica da URID frequentemente gera disputas geopolíticas.",
+                                "itens": [
+                                    "Medrimart",
+                                    "Lakeland",
+                                    "Emirados Arcaicos",
+                                    "Arquepelogo da Condensa Carmesim"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "tratados-acordos",
+                    "titulo": "Tratados e acordos vigentes",
+                    "blocos": [
+                        {
+                            "tipo": "acordo",
+                            "titulo": "Acordos Industriais",
+                            "descricao": "Diversos países dependem da produção da URID para manter cadeias produtivas, infraestrutura e fornecimento de equipamentos."
+                        },
+                        {
+                            "tipo": "acordo",
+                            "titulo": "Contratos de Recursos Estratégicos",
+                            "descricao": "Acordos relacionados à exploração, transporte e comercialização de Nightblood e tecnologias associadas."
+                        },
+                        {
+                            "tipo": "acordo",
+                            "titulo": "Rotas Comerciais Imperiais",
+                            "descricao": "Tratados que garantem circulação de mercadorias e proteção de interesses econômicos da URID."
+                        }
+                    ]
+                },
+                {
+                    "id": "influencia-cultural",
+                    "titulo": "Influência cultural externa",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "Embora a URID não seja a maior exportadora cultural do mundo, sua influência pode ser observada através da engenharia pesada, da arquitetura vertical, da filosofia de mérito funcional e da estética industrial. Produtos, tecnologias e métodos de organização imperial são frequentemente copiados por outras nações."
+                        },
+                        {
+                            "tipo": "influencia",
+                            "titulo": "Modelo Industrial",
+                            "descricao": "A eficiência produtiva da URID serve como referência para governos, corporações e organizações estrangeiras."
+                        },
+                        {
+                            "tipo": "influencia",
+                            "titulo": "Arquitetura Vertical",
+                            "descricao": "Megaestruturas urbanas inspiradas nos modelos imperiais começaram a surgir em outras regiões do mundo."
+                        }
+                    ]
+                },
+                {
+                    "id": "espionagem-diplomacia",
+                    "titulo": "Espionagem e diplomacia secreta",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A URID considera informação um recurso estratégico. Além da diplomacia oficial, o império utiliza redes de influência, agentes corporativos, casas comerciais e sistemas informais de coleta de dados para proteger seus interesses."
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "Espionagem Industrial",
+                            "conteudo": "Focada na obtenção de informações tecnológicas, projetos militares e avanços científicos estrangeiros."
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "Redes das Grandes Casas",
+                            "conteudo": "Cada uma das grandes casas mantém contatos, informantes e interesses próprios fora das fronteiras imperiais."
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "Influência Econômica",
+                            "conteudo": "A dependência industrial criada pela URID funciona como ferramenta diplomática tão importante quanto forças armadas ou tratados."
+                        }
+                    ]
+                },
+                {
+                    "id": "postura-internacional",
+                    "titulo": "Postura internacional atual",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A URID adota uma postura pragmática e calculista. O império raramente busca expansão territorial direta, preferindo ampliar sua influência através da indústria, do comércio, da tecnologia e da dependência estrutural. Sua política externa é guiada menos por ideologia e mais por estabilidade, crescimento e preservação de recursos estratégicos."
+                        }
+                    ]
+                },
+                {
+                    "id": "conflitos-ativos",
+                    "titulo": "Conflitos ativos e tensões escaláveis",
+                    "blocos": [
+                        {
+                            "tipo": "conflito",
+                            "titulo": "Arquipélago da Condensa Carmesim",
+                            "descricao": "Uma das regiões mais sensíveis da política externa imperial, envolvendo interesses estratégicos, recursos e projeção de influência."
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "Competição Econômica Global",
+                            "descricao": "Diversas nações buscam reduzir sua dependência dos produtos e tecnologias produzidos pela URID."
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "Disputas pelo Nightblood",
+                            "descricao": "O controle das reservas e do conhecimento associado ao recurso continua sendo fonte constante de atrito internacional."
+                        }
+                    ]
+                },
+                {
+                    "id": "percepcao-internacional",
+                    "titulo": "Percepção internacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A URID é vista simultaneamente como potência indispensável e ameaça potencial. Muitos países dependem diretamente de sua produção industrial, enquanto outros enxergam sua influência crescente com preocupação. Seu poder econômico, sua população gigantesca e suas reservas de Nightblood fazem com que quase nenhuma grande decisão internacional possa ignorar sua existência."
+                        }
+                    ]
+                },
+                {
+                    "id": "dependencias-estrategicas",
+                    "titulo": "Dependências estratégicas",
+                    "blocos": [
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "Nightblood",
+                            "descricao": "Base de grande parte do poder tecnológico, econômico e militar da URID."
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "Megaestrutura Industrial",
+                            "descricao": "A manutenção das cadeias produtivas é essencial para sustentar o modelo imperial."
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "Equilíbrio entre as 7 Casas",
+                            "descricao": "Grande parte da estabilidade externa depende da cooperação entre as principais forças internas do império."
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "Rotas Comerciais",
+                            "descricao": "O fluxo constante de matérias-primas, peças e produtos acabados sustenta a influência internacional da URID."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "geografia-territorio",
+            "icone": "🗺️",
+            "titulo": "Geografia e Território",
+            "subsecoes": [
+                {
+                    "id": "capital",
+                    "titulo": "Capital",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "Astroford, conhecida como a Capital do Ferro Negro, é o coração político, industrial e administrativo da URID. Sua origem, porém, remonta a uma época anterior ao próprio Império. \n \n Inicialmente, Astroford era uma gigantesca operação de mineração criada pelos colonizadores da Aliança Tabalkaina, estabelecida sobre uma das maiores reservas conhecidas do metal Astroford. Durante décadas, a região foi explorada intensamente, tornando-se um dos principais centros de extração mineral da antiga presença tabalkaina. \n \n Após a ascensão do Império da URID, a região foi reconquistada durante os grandes avanços imperiais pelo território ocupado. Quando as forças imperiais alcançaram o local, encontraram uma imensa cratera aberta pela exploração das antigas minas, uma cicatriz colossal deixada pela ocupação estrangeira. Aquela paisagem tornou-se um dos maiores símbolos da reconquista imperial: um território marcado pela exploração inimiga que agora retornava às mãos da URID. \n \n Apesar da devastação inicial, a riqueza mineral da região permaneceu incomparável. A antiga mina continuou ativa e, devido à sua posição estratégica, foi transformada em um posto avançado militar e industrial. Sob liderança do General Diastlov, o posto começou a crescer rapidamente, tornando-se um centro de defesa, produção e administração imperial. \n \n Com o passar das gerações, o posto avançado transformou-se em uma cidade monumental. Suas estruturas cresceram para dentro e para cima, utilizando o próprio Astroford como principal material de construção. Assim nasceu a primeira grande cidade vertical da URID, estabelecendo os princípios arquitetônicos que futuramente definiriam o estilo imperial: megatorres, fortalezas industriais e estruturas capazes de resistir aos ambientes mais extremos. \n \n Astroford tornou-se o palco de alguns dos conflitos mais decisivos da história imperial, sendo o principal ponto de resistência durante momentos críticos da guerra. Suas muralhas, torres e complexos industriais testemunharam batalhas que alteraram o destino do Império, transformando a cidade em um símbolo permanente de sobrevivência, conquista e resiliência. \n \n Atualmente, Astroford representa a fronteira histórica entre dois mundos: de um lado, os territórios profundamente transformados pela colonização e exploração da Aliança Tabalkaina. do outro, regiões que preservaram suas características originais e permaneceram afastadas das grandes mudanças provocadas pela ocupação estrangeira. \n \n No centro da cidade encontra-se a Torre Espírito Resiliente, a maior representação da continuidade imperial. Mais do que um palácio, a torre é um monumento à vida e ao legado do General Diastlov, preservando seus registros, conquistas e memórias. O complexo funciona como um museu da história imperial, símbolo da grandeza da URID e sede do Conselho Maior do Império, onde as principais decisões políticas e estratégicas da civilização são tomadas. \n \n Astroford não é apenas uma capital. É uma declaração de existência: a prova de que aquilo que um dia foi explorado e destruído pode ser reconstruído em algo ainda maior."
+                        }
+                    ]
+                },
+                {
+                    "id": "principais-cidades",
+                    "titulo": "Principais cidades",
+                    "blocos": [
+                        {
+                            "tipo": "cidade",
+                            "titulo": "Astroford",
+                            "descricao": "Capital imperial da URID, erguida sobre uma antiga mina tabalkaina e símbolo máximo da engenharia vertical e da resistência imperial."
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "Sirius",
+                            "descricao": "Antigo distrito portuário de Astroford, tornou-se uma cidade independente e principal porta de entrada da URID, conectando o Império ao comércio estrangeiro e aos imigrantes dos Emirados."
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "Vladinsk",
+                            "descricao": "Uma das primeiras cidades-fábrica da URID, criada durante as Grandes Guerras como pioneira da indústria imperial e hoje uma das maiores cidades horizontais do Império."
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "Krovagrad",
+                            "descricao": "Criada durante o projeto Veias de Ferro, tornou-se o principal núcleo ferroviário da URID, controlando rotas imperiais, definindo padrões de transporte e produzindo grande parte dos trens de Solary."
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "Velmorsk",
+                            "descricao": "Antiga fortaleza da Aliança Stalingrad conquistada nos avanços finais da guerra, tornou-se o Porto Velho da URID e um importante centro naval da rota glacial ocidental."
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "Atena 01-09",
+                            "descricao": "Série de cidades agrícolas subterrâneas cobertas por domos de vidro, criadas como megaestufas de clima controlado e responsáveis por parte da produção alimentar da URID."
+                        }
+                    ]
+                },
+                {
+                    "id": "clima-geografia",
+                    "titulo": "Clima e geografia natural",
+                    "blocos": [
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "Norte Glacial",
+                            "descricao": "Região marcada por temperaturas extremas, nevascas frequentes e longos períodos de inverno. Foi nesse ambiente hostil que surgiram as tribos ancestrais que dariam origem ao império."
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "Planícies Industriais",
+                            "descricao": "Áreas extensas ocupadas por infraestrutura, mineração, ferrovias e complexos industriais."
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "Florestas Boreais",
+                            "descricao": "Grandes regiões de vegetação resistente ao frio, fornecendo recursos naturais e habitats para diversas espécies."
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "Cordilheiras do Norte",
+                            "descricao": "Cadeias montanhosas geladas que funcionam como barreiras naturais e importantes reservas minerais."
+                        }
+                    ]
+                },
+                {
+                    "id": "recursos-naturais",
+                    "titulo": "Recursos naturais",
+                    "blocos": [
+                        {
+                            "tipo": "recurso",
+                            "titulo": "Nightblood",
+                            "descricao": "O recurso estratégico mais valioso da URID. Base de grande parte da tecnologia quiopunk, pesquisas alquímicas e poder econômico imperial."
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "Astroford",
+                            "descricao": "Material estrutural extremamente resistente que tornou possível a construção das megaestruturas verticais do império."
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "Carvão e Combustíveis Industriais",
+                            "descricao": "Fundamentais para alimentar a gigantesca máquina produtiva imperial."
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "Metais Pesados",
+                            "descricao": "Utilizados na indústria militar, infraestrutura, transporte e produção de implantes."
+                        }
+                    ]
+                },
+                {
+                    "id": "regioes-notaveis",
+                    "titulo": "Regiões notáveis",
+                    "blocos": [
+                        {
+                            "tipo": "regiao",
+                            "titulo": "Astroford Central",
+                            "descricao": "Centro administrativo e industrial da nação."
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "Condensa Carmesim",
+                            "descricao": "Arquipélago estratégico cercado por disputas políticas, interesses econômicos e operações militares."
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "Territórios Boreais",
+                            "descricao": "Áreas de frio extremo onde sobrevivência e adaptação moldaram a cultura imperial."
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "Cinturão Industrial Imperial",
+                            "descricao": "Conjunto de regiões dedicadas à produção em larga escala, mineração e manufatura pesada."
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "Complexos de Megaestruturas",
+                            "descricao": "Grandes concentrações urbanas compostas por torres interligadas, formando cidades verticais autossuficientes."
+                        }
+                    ]
+                },
+                {
+                    "id": "fronteiras-vizinhas",
+                    "titulo": "Fronteiras e nações vizinhas",
+                    "blocos": [
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "Emirados Arcaicos",
+                            "descricao": "Potência regional associada a disputas históricas, interesses comerciais e equilíbrio geopolítico."
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "Corredores Glaciais",
+                            "descricao": "Uma extensa rede de rotas marítimas naturais que se estende do extremo leste ao extremo oeste do continente. Formada por milhares de pequenas ilhas, bancos de gelo e mares rasos cuidadosamente mapeados ao longo dos séculos, permite uma navegação relativamente segura durante a maior parte do ano, reduzindo os riscos das águas oceânicas abertas. Os Corredores Glaciais constituem a principal ligação comercial, militar e diplomática entre os Emirados Arcadios, o Arquipélago da Condensa Carmesim, as regiões Oriental e Ocidental do Império e as demais nações do mundo, sendo considerados uma das rotas estratégicas mais importantes para a integração econômica e logística da União."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vida-selvagem",
+            "icone": "🐉",
+            "titulo": "Vida Selvagem e Ecossistema",
+            "subsecoes": [
+                {
+                    "id": "fauna-dominante",
+                    "titulo": "Fauna dominante",
+                    "blocos": [
+                        {
+                            "tipo": "especie",
+                            "titulo": "Predadores Boreais",
+                            "descricao": "Grandes carnívoros adaptados ao frio extremo dominam boa parte dos ecossistemas da URID. Resistência, agressividade e capacidade de sobrevivência são características comuns dessas espécies."
+                        },
+                        {
+                            "tipo": "especie",
+                            "titulo": "Megafauna das Planícies Geladas",
+                            "descricao": "Animais de grande porte adaptados a longos deslocamentos e temperaturas extremas. Muitos são utilizados como fonte de matéria-prima para a indústria e para práticas quiopunk."
+                        },
+                        {
+                            "tipo": "especie",
+                            "titulo": "Fauna Industrializada",
+                            "descricao": "Espécies estudadas intensivamente pelas casas imperiais devido às suas características biológicas úteis para engenharia, alquimia e sobrevivência."
+                        }
+                    ]
+                },
+                {
+                    "id": "especies-unicas",
+                    "titulo": "Espécies únicas ou simbólicas",
+                    "blocos": [
+                        {
+                            "tipo": "especie-simbolica",
+                            "titulo": "Corvos de Vapor",
+                            "descricao": "Uma das criaturas mais conhecidas da URID. Seu sistema respiratório e mecanismos naturais de filtragem inspiraram tecnologias de purificação de ar utilizadas em ambientes industriais."
+                        },
+                        {
+                            "tipo": "especie-simbolica",
+                            "titulo": "Fauna do Frio Extremo",
+                            "descricao": "Diversas espécies adaptadas a regiões glaciais servem como símbolo da capacidade de sobrevivência valorizada pela cultura imperial."
+                        }
+                    ]
+                },
+                {
+                    "id": "criaturas-lendarias",
+                    "titulo": "Criaturas ameaçadoras ou lendárias",
+                    "blocos": [
+                        {
+                            "tipo": "criatura-lendaria",
+                            "titulo": "Anomalias Biológicas",
+                            "descricao": "Criaturas raras que não seguem padrões ecológicos conhecidos. São frequentemente descritas como excessos, erros ou manifestações extremas da própria natureza."
+                        },
+                        {
+                            "tipo": "criatura-lendaria",
+                            "titulo": "Bestas das Regiões Inexploradas",
+                            "descricao": "Espécies pouco compreendidas que habitam áreas remotas do império e representam riscos significativos para exploradores e expedições."
+                        }
+                    ]
+                },
+                {
+                    "id": "humanos-natureza",
+                    "titulo": "Relação entre humanos e natureza",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A relação da URID com a natureza não é baseada em harmonia, mas em respeito funcional. Os habitantes do império entendem que a natureza pode ser explorada, estudada e utilizada, mas nunca subestimada. Sobreviver em ambientes hostis é considerado prova de valor pessoal. Animais fortes e resistentes recebem admiração cultural e frequentemente são incorporados como símbolos de força, disciplina e adaptação. A natureza não é vista como algo a ser protegido por idealismo, mas como uma força que precisa ser compreendida para que a sobrevivência seja possível."
+                        }
+                    ]
+                },
+                {
+                    "id": "fauna-tecnologia",
+                    "titulo": "Uso da fauna na tecnologia",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A URID aproveita extensivamente recursos biológicos em tecnologia, alquimia e sistemas quiopunk. Peles são utilizadas como isolantes térmicos, ossos servem de base para ferramentas e componentes estruturais, enquanto órgãos e fluidos são estudados por propriedades únicas. O objetivo não é apenas utilizar a natureza, mas compreender seus mecanismos para replicá-los artificialmente quando possível."
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "Filtragem Inspirada nos Corvos de Vapor",
+                            "descricao": "Os sistemas respiratórios dessas aves serviram como base para tecnologias de filtragem de ar utilizadas em ambientes industriais."
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "Equipamentos de Sobrevivência",
+                            "descricao": "Estruturas biológicas de animais adaptados ao frio extremo inspiraram roupas, armaduras e equipamentos utilizados em regiões congeladas."
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "Alquimia Biológica",
+                            "descricao": "Órgãos, fluidos e tecidos de diversas espécies são estudados e incorporados a processos alquímicos, médicos e quiopunk."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "arquitetura-monumentos",
+            "icone": "🏛️",
+            "titulo": "Arquitetura e Monumentos",
+            "subsecoes": [
+                {
+                    "id": "estilo-arquitetonico",
+                    "titulo": "Estilo arquitetônico predominante",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A arquitetura da URID é guiada por funcionalidade, resistência e permanência. Estruturas são construídas para sobreviver durante séculos, suportar crescimento contínuo e maximizar eficiência. O uso extensivo de Astroford permite edifícios colossais, megaestruturas verticais e complexos urbanos capazes de abrigar milhões de habitantes. Ornamentação existe, mas normalmente serve para demonstrar poder, prestígio ou feitos históricos."
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "Verticalidade Extrema",
+                            "descricao": "As cidades crescem para cima, formando verdadeiras montanhas artificiais de aço, pedra e Astroford."
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "Engenharia Funcional",
+                            "descricao": "Cada elemento estrutural possui uma função clara, reduzindo desperdícios e privilegiando eficiência."
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "Integração Industrial",
+                            "descricao": "Moradia, transporte, produção e armazenamento frequentemente coexistem dentro da mesma megaestrutura."
+                        }
+                    ]
+                },
+                {
+                    "id": "megaestruturas",
+                    "titulo": "Megaestruturas imperiais",
+                    "blocos": [
+                        {
+                            "tipo": "monumento",
+                            "titulo": "Astroford",
+                            "descricao": "A maior e mais importante megaestrutura do império. Capital política, econômica e industrial da URID, construída sobre enormes reservas do material Astroford."
+                        },
+                        {
+                            "tipo": "monumento",
+                            "titulo": "Complexos Verticais Imperiais",
+                            "descricao": "Gigantescas estruturas urbanas que funcionam como cidades inteiras, reunindo habitação, comércio, transporte e produção industrial."
+                        },
+                        {
+                            "tipo": "monumento",
+                            "titulo": "Pontes Elevadas de Conexão",
+                            "descricao": "Redes de passarelas, pontes e corredores suspensos que conectam torres inteiras sem necessidade de retornar ao solo."
+                        }
+                    ]
+                },
+                {
+                    "id": "monumentos-historicos",
+                    "titulo": "Monumentos históricos",
+                    "blocos": [
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "Monumentos de Diastlov",
+                            "descricao": "Diversas cidades mantêm estátuas, memoriais e estruturas dedicadas a Diastlov, figura central na fundação e unificação do império."
+                        },
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "Memoriais das Grandes Casas",
+                            "descricao": "Estruturas erguidas para celebrar feitos militares, industriais e políticos das casas que ajudaram a construir a URID."
+                        },
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "Salões dos Fundadores",
+                            "descricao": "Espaços destinados à preservação da memória dos pioneiros, inventores e líderes responsáveis pelo crescimento imperial."
+                        }
+                    ]
+                },
+                {
+                    "id": "edificios-importantes",
+                    "titulo": "Edifícios e instituições emblemáticas",
+                    "blocos": [
+                        {
+                            "tipo": "edificio",
+                            "titulo": "Palácio Imperial",
+                            "descricao": "Centro simbólico do poder das famílias imperiais e local de cerimônias de importância nacional."
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "Conselho das 7 Casas",
+                            "descricao": "Complexo administrativo onde representantes das grandes casas discutem decisões estratégicas do império."
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "Virtude Naval",
+                            "descricao": "Uma das instituições de ensino mais prestigiadas da URID, responsável pela formação de oficiais da marinha imperial."
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "Virtude de Engenharia",
+                            "descricao": "Centro de excelência dedicado à formação dos engenheiros que sustentam as megaestruturas e a indústria imperial."
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "Virtude de Alquimia Quiopunk Desembargador Barão Vermelho",
+                            "descricao": "Instituição de referência em pesquisas alquímicas, Nightblood e tecnologias quiopunk."
+                        }
+                    ]
+                },
+                {
+                    "id": "simbolismo-urbano",
+                    "titulo": "Simbolismo urbano",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A organização física das cidades reflete diretamente a estrutura social da URID. Quanto maior o prestígio de uma casa ou indivíduo, mais elevados e centrais tendem a ser seus espaços dentro das megaestruturas. A própria cidade funciona como representação visível da hierarquia imperial."
+                        },
+                        {
+                            "tipo": "simbolo",
+                            "titulo": "Altura como Prestígio",
+                            "descricao": "Os níveis superiores das megaestruturas são tradicionalmente ocupados pelas casas mais influentes."
+                        },
+                        {
+                            "tipo": "simbolo",
+                            "titulo": "Aço e Astroford",
+                            "descricao": "Representam permanência, resistência e a capacidade humana de dominar ambientes hostis."
+                        }
+                    ]
+                },
+                {
+                    "id": "obras-engenharia",
+                    "titulo": "Grandes obras de engenharia",
+                    "blocos": [
+                        {
+                            "tipo": "obra",
+                            "titulo": "Rede Imperial de Metrôs Industriais",
+                            "descricao": "Sistema de transporte de massa responsável por conectar setores inteiros das cidades verticais."
+                        },
+                        {
+                            "tipo": "obra",
+                            "titulo": "Sistema de Tubos Pressurizados",
+                            "descricao": "Rede de comunicação e transporte leve utilizada para envio de mensagens e pequenos objetos."
+                        },
+                        {
+                            "tipo": "obra",
+                            "titulo": "Megaestruturas de Astroford",
+                            "descricao": "O maior exemplo da capacidade tecnológica imperial, permitindo construções de escala impossível para a maioria das outras nações."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cultura-valores",
+            "icone": "🎭",
+            "titulo": "Cultura, Valores e Sociedade",
+            "subsecoes": [
+                {
+                    "id": "virtudes",
+                    "titulo": "Virtudes e ideais predominantes",
+                    "blocos": [
+                        {
+                            "tipo": "virtude",
+                            "titulo": "Relevância",
+                            "descricao": "O valor de uma pessoa não é herdado nem garantido. Ele precisa ser constantemente demonstrado através de ações, resultados e utilidade para a estrutura."
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "Resiliência",
+                            "descricao": "A capacidade de continuar funcionando diante de dificuldades é considerada uma das maiores qualidades que um indivíduo pode possuir."
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "Responsabilidade",
+                            "descricao": "Cada indivíduo é responsável pelas consequências de suas decisões e pelo impacto que gera dentro da casa, da comunidade e do império."
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "Capacidade de Sustentar",
+                            "descricao": "Manter pessoas, estruturas, recursos e instituições funcionando é visto como uma demonstração superior de competência."
+                        }
+                    ]
+                },
+                {
+                    "id": "cultura-profunda",
+                    "titulo": "Cultura profunda",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A cultura da URID é construída sobre a ideia de que a existência é um teste constante. Viver significa provar valor continuamente através das próprias ações. O reconhecimento não é concedido por nascimento, riqueza ou intenção, mas pelos resultados produzidos ao longo do tempo. A sociedade admira aqueles que suportam dificuldades, preservam estruturas e continuam relevantes mesmo diante de adversidades."
+                        }
+                    ]
+                },
+                {
+                    "id": "estrutura-social-cultural",
+                    "titulo": "Estrutura social",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A sociedade é organizada através das Casas. Elas funcionam simultaneamente como família, instituição social, rede de apoio, sistema educacional, estrutura econômica e núcleo de identidade. A posição de um indivíduo depende tanto do valor da casa quanto da sua própria capacidade de gerar resultados."
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "Casas Menores",
+                            "descricao": "Estruturas familiares focadas em sobrevivência, trabalho local e funções específicas dentro da economia imperial."
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "Casas Intermediárias",
+                            "descricao": "Possuem influência regional, controle de recursos e participação ativa na economia e política local."
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "Grandes Casas",
+                            "descricao": "Organizações de enorme poder econômico, militar e político que ajudam a sustentar a estrutura imperial."
+                        },
+                        {
+                            "tipo": "tabela",
+                            "titulo": "Lógica Social Imperial",
+                            "colunas": [
+                                "Conceito",
+                                "Importância"
+                            ],
+                            "linhas": [
+                                [
+                                    "Valor",
+                                    "Precisa ser demonstrado continuamente."
+                                ],
+                                [
+                                    "Falha",
+                                    "É aceita quando gera aprendizado útil."
+                                ],
+                                [
+                                    "Estagnação",
+                                    "Considerada mais perigosa que o fracasso."
+                                ],
+                                [
+                                    "Relevância",
+                                    "Base do reconhecimento social."
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "familia-relacoes",
+                    "titulo": "Família e relações pessoais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "Família e casa frequentemente se confundem. O pertencimento a uma casa cria obrigações mútuas de apoio, disciplina, treinamento e proteção. Relações pessoais são valorizadas, mas normalmente coexistem com expectativas de contribuição para a continuidade da estrutura familiar."
+                        }
+                    ]
+                },
+                {
+                    "id": "visao-morte",
+                    "titulo": "Visão sobre morte e legado",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A memória oficial da URID pertence aos mortos. Monumentos, estátuas e registros públicos existem para aqueles que concluíram sua trajetória e provaram seu valor ao longo da vida. O legado é considerado mais importante que a fama momentânea."
+                        }
+                    ]
+                },
+                {
+                    "id": "arte-narrativas",
+                    "titulo": "Arte e narrativas populares",
+                    "blocos": [
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "Teatro Histórico",
+                            "descricao": "Peças que reencenam guerras, eventos importantes, falhas e momentos decisivos da história imperial."
+                        },
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "Contos Narrados",
+                            "descricao": "Histórias transmitidas entre gerações para preservar feitos, erros e lições consideradas importantes."
+                        },
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "Marionetes e Fantoches",
+                            "descricao": "Uma das formas de entretenimento mais populares da URID, frequentemente utilizada para representar batalhas, eventos históricos e críticas sutis ao cotidiano."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "filosofia-tradicao",
+            "icone": "📖",
+            "titulo": "Filosofia e Tradição",
+            "subsecoes": [
+                {
+                    "id": "doutrina-moral",
+                    "titulo": "Doutrina moral e ética",
+                    "blocos": [
+                        {
+                            "tipo": "Resumo",
+                            "conteudo": "A filosofia da URID é baseada na ideia de que a existência é um processo contínuo de prova e adaptação. O indivíduo não possui valor simplesmente por nascer ou pertencer a uma família; seu valor precisa ser demonstrado através de ações, resultados e capacidade de sustentar estruturas. A sociedade imperial entende a sobrevivência como a maior demonstração de competência, uma herança direta das antigas tribos do norte que precisavam resistir ao ambiente extremo."
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "A Prova Constante",
+                            "descricao": "Nada é considerado garantido. Cada geração precisa provar sua capacidade de manter e melhorar aquilo que recebeu."
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "A Força da Adaptação",
+                            "descricao": "A capacidade de aprender, modificar métodos e sobreviver a novas condições é vista como superior à força bruta."
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "O Valor da Função",
+                            "descricao": "Todo indivíduo possui valor quando contribui para a continuidade da estrutura. Função, competência e resultado possuem grande importância social."
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "O Legado Acima da Vida",
+                            "descricao": "A morte não encerra a existência de uma pessoa; seu verdadeiro valor está naquilo que deixa para as próximas gerações."
+                        }
+                    ]
+                },
+                {
+                    "id": "feriados-celebracoes",
+                    "titulo": "Feriados e celebrações",
+                    "blocos": [
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "Dia da Fundação Imperial",
+                            "descricao": "Celebração da criação da União das Repúblicas Imperiais de Diastlov e da unificação das antigas tribos sob uma única estrutura."
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "Memória dos Fundadores",
+                            "descricao": "Data dedicada à lembrança daqueles que construíram as primeiras casas e garantiram a sobrevivência das gerações futuras."
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "Ritos de Passagem das Casas",
+                            "descricao": "Cerimônias onde jovens demonstram suas capacidades e recebem reconhecimento dentro da estrutura familiar e social."
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "Cerimônias de Honra",
+                            "descricao": "Eventos destinados a reconhecer indivíduos que alcançaram grandes feitos militares, científicos ou industriais."
+                        }
+                    ]
+                },
+                {
+                    "id": "costumes-ancestrais",
+                    "titulo": "Costumes ancestrais",
+                    "blocos": [
+                        {
+                            "tipo": "costume",
+                            "titulo": "O Sistema de Casas",
+                            "descricao": "A tradição mais importante da URID. Originado das antigas tribos de sobrevivência, o sistema transformou famílias em estruturas de apoio, treinamento e poder."
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "Provas de Capacidade",
+                            "descricao": "Desde a infância, indivíduos são avaliados para descobrir suas aptidões e direcionados para funções onde possam gerar maior impacto."
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "Respeito aos Ancestrais",
+                            "descricao": "Os mortos são lembrados através de monumentos, histórias e registros. O legado dos antepassados serve como guia para as próximas gerações."
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "Aceitação das Cicatrizes",
+                            "descricao": "Marcas físicas de batalhas, acidentes ou dificuldades são vistas como símbolos de experiência e sobrevivência."
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "Busca pela Melhoria",
+                            "descricao": "A estagnação é considerada uma das maiores falhas possíveis. Evoluir, adaptar e aperfeiçoar são valores centrais da cultura imperial."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "religiao",
+            "icone": "⛪",
+            "titulo": "Religião e Espiritualidade",
+            "subsecoes": [
+                {
+                    "id": "visao-espiritual",
+                    "titulo": "Visão espiritual predominante",
+                    "blocos": [
+                        {
+                            "tipo": "Resumo",
+                            "conteudo": "A espiritualidade da URID não é baseada em uma relação de submissão a entidades superiores, mas na interpretação da existência como um processo de prova, evolução e continuidade. A maioria das tradições imperiais acredita que a vida é um teste constante onde indivíduos demonstram seu valor através de escolhas, resistência e contribuições deixadas para o futuro."
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "A Existência como Prova",
+                            "descricao": "Viver significa enfrentar desafios e demonstrar capacidade diante das dificuldades impostas pelo mundo."
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "O Legado como Imortalidade",
+                            "descricao": "A verdadeira continuidade de uma pessoa ocorre através das obras, conhecimentos e impactos deixados após sua morte."
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "A Evolução Contínua",
+                            "descricao": "A humanidade deve buscar constantemente superar seus limites através de conhecimento, tecnologia e adaptação."
+                        }
+                    ]
+                },
+                {
+                    "id": "crencas-principais",
+                    "titulo": "Crenças principais",
+                    "blocos": [
+                        {
+                            "tipo": "crenca",
+                            "titulo": "Honra aos Antepassados",
+                            "descricao": "Os ancestrais são respeitados porque representam a origem das estruturas atuais. Suas conquistas e erros servem como ensinamento para as novas gerações."
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "O Espírito da Sobrevivência",
+                            "descricao": "A capacidade de resistir diante de situações impossíveis é vista como uma manifestação da força interior de um indivíduo."
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "Conhecimento como Ferramenta de Ascensão",
+                            "descricao": "Descobertas científicas e tecnológicas são consideradas formas de compreender melhor o mundo e ampliar a capacidade humana."
+                        }
+                    ]
+                },
+                {
+                    "id": "instituicoes-religiosas",
+                    "titulo": "Instituições religiosas",
+                    "blocos": [
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "Templos dos Fundadores",
+                            "descricao": "Locais dedicados à preservação da memória dos primeiros líderes, guerreiros e construtores da civilização imperial."
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "Ordem dos Guardiões do Legado",
+                            "descricao": "Grupos responsáveis por manter registros históricos, preservar tradições e transmitir ensinamentos antigos."
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "Santuários das Casas",
+                            "descricao": "Cada grande casa possui locais próprios de memória e homenagem aos seus antepassados importantes."
+                        }
+                    ]
+                },
+                {
+                    "id": "rituais-cerimonias",
+                    "titulo": "Rituais e cerimônias",
+                    "blocos": [
+                        {
+                            "tipo": "ritual",
+                            "titulo": "Cerimônia de Nomeação",
+                            "descricao": "Momento em que uma criança é oficialmente apresentada à sua casa e à sociedade imperial."
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "Rito de Provação",
+                            "descricao": "Cerimônia simbólica onde jovens demonstram preparação, disciplina e capacidade antes de assumir responsabilidades maiores."
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "Memorial dos Mortos",
+                            "descricao": "Cerimônias realizadas para lembrar aqueles que partiram e preservar seus feitos para as próximas gerações."
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "Juramento das Casas",
+                            "descricao": "Compromissos formais de lealdade entre indivíduos e suas casas."
+                        }
+                    ]
+                },
+                {
+                    "id": "morte-pos-vida",
+                    "titulo": "Morte e pós-vida",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": "A morte na visão espiritual da URID não representa simplesmente o fim, mas a passagem do indivíduo para a memória coletiva. Uma pessoa continua existindo através de suas realizações, ensinamentos e influência sobre aqueles que permanecem vivos."
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "O Arquivo dos Ancestrais",
+                            "descricao": "A memória acumulada das gerações anteriores funciona como uma forma de continuidade espiritual."
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "O Retorno pelo Legado",
+                            "descricao": "Aqueles que deixam grandes contribuições continuam presentes através das obras que sustentam a civilização."
+                        }
+                    ]
+                },
+                {
+                    "id": "relacao-ciencia",
+                    "titulo": "Religião e ciência",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": "Diferente de muitas sociedades, a URID geralmente não vê ciência e espiritualidade como forças opostas. A descoberta científica é frequentemente interpretada como uma forma de compreender melhor as leis do universo e aumentar a capacidade humana de sobreviver e evoluir."
+                        }
+                    ]
+                },
+                {
+                    "id": "variacoes-religiosas",
+                    "titulo": "Variações religiosas internas",
+                    "blocos": [
+                        {
+                            "tipo": "vertente",
+                            "titulo": "Tradição Diastloviana",
+                            "descricao": "Valoriza os fundadores do império, a disciplina e a continuidade histórica."
+                        },
+                        {
+                            "tipo": "vertente",
+                            "titulo": "Filosofia das Casas",
+                            "descricao": "Cada casa desenvolve interpretações próprias sobre honra, dever e legado."
+                        },
+                        {
+                            "tipo": "vertente",
+                            "titulo": "Ascensão Quiopunk",
+                            "descricao": "Corrente moderna que interpreta tecnologia e aprimoramento corporal como etapas naturais da evolução humana."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "populacao",
+            "icone": "👥",
+            "titulo": "População e Sociedade",
+            "subsecoes": [
+                {
+                    "id": "quantidade-distribuicao",
+                    "titulo": "Quantidade e distribuição populacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A população da URID está concentrada principalmente em grandes centros urbanos e megaestruturas verticais. Devido ao ambiente hostil de origem e à necessidade de eficiência industrial, a urbanização tornou-se o principal modelo de ocupação. Milhões de pessoas vivem dentro de cidades gigantescas que funcionam como sistemas integrados de habitação, produção, transporte e administração."
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "Alta Densidade Urbana",
+                            "descricao": "A maior parte da população vive em estruturas verticais extremamente densas, onde cada setor possui funções específicas."
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "Concentração Industrial",
+                            "descricao": "A população se organiza próxima aos centros produtivos, minas, fábricas e redes de transporte."
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "Expansão Vertical",
+                            "descricao": "O crescimento populacional ocorre principalmente através da expansão das megaestruturas, não pela ocupação horizontal do território."
+                        }
+                    ]
+                },
+                {
+                    "id": "composicao-social",
+                    "titulo": "Composição social",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A sociedade da URID é organizada principalmente através do sistema de Casas. Uma Casa representa mais do que uma família: ela funciona como uma instituição social, econômica, educacional e política. O pertencimento define identidade, oportunidades e responsabilidades."
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "Casas Astroford",
+                            "descricao": "As famílias mais poderosas do império. Possuem influência política, controle de grandes recursos e participação direta nas decisões imperiais."
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "Casas Diamantina",
+                            "descricao": "Grandes casas especializadas em setores estratégicos, com grande poder econômico e tecnológico."
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "Casas Ouro",
+                            "descricao": "Famílias de alto prestígio responsáveis por áreas importantes da indústria, ciência, comércio ou forças militares."
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "Casas Prata",
+                            "descricao": "Casas intermediárias com influência regional e participação significativa na estrutura econômica."
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "Casas Ferro e Cobre",
+                            "descricao": "A maior parte da população pertence a essas casas, exercendo funções técnicas, industriais e operacionais essenciais para o funcionamento do império."
+                        }
+                    ]
+                },
+                {
+                    "id": "vida-popular",
+                    "titulo": "Vida cotidiana da população",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A vida diária dos cidadãos da URID é marcada pela disciplina, especialização e integração com a estrutura imperial. Desde cedo, crianças são avaliadas para identificar capacidades e direcionadas para áreas onde possam contribuir melhor. O trabalho não é visto apenas como obrigação, mas como uma forma de demonstrar valor pessoal."
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "Educação Inicial",
+                            "descricao": "Realizada principalmente dentro das próprias casas, transmitindo conhecimento básico, disciplina e valores sociais."
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "Especialização",
+                            "descricao": "Após a formação inicial, indivíduos podem seguir caminhos técnicos, militares, científicos ou administrativos."
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "Identidade pela Função",
+                            "descricao": "Profissões e contribuições possuem grande influência na forma como uma pessoa é vista socialmente."
+                        }
+                    ]
+                },
+                {
+                    "id": "crescimento-populacional",
+                    "titulo": "Crescimento populacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "O crescimento populacional da URID foi historicamente incentivado pela necessidade de manter sua gigantesca estrutura industrial e militar. Entretanto, a sobrevivência em ambientes extremos e o alto custo de manutenção das cidades fizeram com que a qualidade e capacidade dos indivíduos fossem consideradas tão importantes quanto a quantidade."
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "Industrialização",
+                            "descricao": "A expansão das fábricas, minas e cidades aumentou a demanda por trabalhadores especializados."
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "Sistema de Casas",
+                            "descricao": "As casas funcionam como unidades de continuidade populacional e preservação de conhecimento."
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "Aprimoramento Tecnológico",
+                            "descricao": "Implantes, medicina avançada e tecnologias quiopunk aumentaram a capacidade de sobrevivência da população."
+                        }
+                    ]
+                },
+                {
+                    "id": "grupos-minoritarios",
+                    "titulo": "Grupos minoritários",
+                    "blocos": [
+                        {
+                            "tipo": "grupo",
+                            "titulo": "Comunidades Tradicionais do Norte",
+                            "descricao": "Descendentes das antigas tribos que originaram a cultura imperial. Mantêm costumes ancestrais ligados à sobrevivência e resistência."
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "Estrangeiros Integrados",
+                            "descricao": "Populações de outras nações que vivem dentro da URID por motivos comerciais, científicos ou políticos."
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "Especialistas Independentes",
+                            "descricao": "Indivíduos sem forte ligação com uma casa tradicional, geralmente profissionais altamente especializados."
+                        }
+                    ]
+                },
+                {
+                    "id": "identidade-populacional",
+                    "titulo": "Identidade e mentalidade coletiva",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "O cidadão da URID tende a enxergar a sociedade como uma grande máquina onde cada indivíduo possui uma função. Existe orgulho em pertencer a uma casa, construir algo duradouro e superar desafios. A ideia de inutilidade ou estagnação é vista como uma das maiores ameaças pessoais."
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "Orgulho de Construção",
+                            "descricao": "Criar, manter e melhorar estruturas é considerado uma das maiores formas de contribuição."
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "Memória Coletiva",
+                            "descricao": "Grandes feitos são preservados para fortalecer a identidade das próximas gerações."
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "Superação",
+                            "descricao": "Dificuldades são interpretadas como oportunidades para demonstrar capacidade."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "estrutura-social",
+            "icone": "🏰",
+            "titulo": "Estrutura Social",
+            "subsecoes": [
+                {
+                    "id": "sistema-casas",
+                    "titulo": "Sistema de Casas",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": "A sociedade da URID é organizada principalmente através das Casas. Diferente de uma simples família, uma Casa representa uma estrutura completa de identidade, proteção, educação, economia e influência política. O nascimento dentro de uma Casa define parte das oportunidades de um indivíduo, mas seu valor social depende da capacidade demonstrada ao longo da vida."
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "Casa como Instituição",
+                            "descricao": "Cada Casa funciona como uma mistura de família, corporação, escola e unidade política, mantendo seus próprios recursos, tradições e áreas de especialização."
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "Lealdade à Casa",
+                            "descricao": "A lealdade familiar possui grande importância. Um indivíduo representa não apenas a si mesmo, mas toda a história e reputação de sua Casa."
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "Valor Individual",
+                            "descricao": "Apesar da importância da origem, indivíduos podem elevar ou reduzir sua posição através de conquistas, falhas e contribuições."
+                        }
+                    ]
+                },
+                {
+                    "id": "hierarquia-social",
+                    "titulo": "Hierarquia social",
+                    "blocos": [
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "Casas Astroford",
+                            "descricao": "O topo da estrutura social imperial. Controlam grandes setores estratégicos, possuem influência política direta e participam das decisões de escala nacional."
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "Casas Diamantina",
+                            "descricao": "Casas extremamente poderosas ligadas a tecnologias avançadas, grandes recursos e funções essenciais ao império."
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "Casas Ouro",
+                            "descricao": "Elite administrativa, científica, militar e industrial. Possuem prestígio elevado e influência regional ou imperial."
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "Casas Prata",
+                            "descricao": "Classe intermediária com influência significativa, geralmente especializada em comércio, administração e produção."
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "Casas Ferro",
+                            "descricao": "Base técnica e operacional da sociedade. Engenheiros, trabalhadores especializados, soldados e profissionais essenciais."
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "Casas Cobre",
+                            "descricao": "Maior parte da população. Executam funções básicas, produção industrial, manutenção e serviços necessários ao funcionamento das cidades."
+                        }
+                    ]
+                },
+                {
+                    "id": "mobilidade-social",
+                    "titulo": "Mobilidade social",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": "Embora a URID possua uma hierarquia rígida, sua filosofia não é baseada apenas em nascimento. A ascensão social é possível através de feitos relevantes, descobertas científicas, conquistas militares, criação de tecnologias ou serviços excepcionais ao império."
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "Mérito Técnico",
+                            "descricao": "Engenheiros, cientistas e especialistas podem alcançar posições superiores através de suas contribuições."
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "Mérito Militar",
+                            "descricao": "Grandes vitórias e atos de liderança podem elevar o prestígio de indivíduos e suas famílias."
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "Inovação",
+                            "descricao": "Descobertas capazes de melhorar a estrutura imperial possuem enorme valor social."
+                        }
+                    ]
+                },
+                {
+                    "id": "papel-individuo",
+                    "titulo": "Papel do indivíduo",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": "Na visão imperial, cada pessoa possui uma função dentro de uma estrutura maior. O indivíduo ideal é aquele que identifica suas capacidades, aperfeiçoa suas habilidades e utiliza seus talentos para fortalecer sua Casa e a URID."
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "Competência",
+                            "descricao": "Ser capaz de realizar uma função com eficiência é uma das principais formas de reconhecimento."
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "Disciplina",
+                            "descricao": "Controle pessoal e dedicação são considerados essenciais para alcançar excelência."
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "Responsabilidade",
+                            "descricao": "As consequências das ações individuais afetam tanto a pessoa quanto sua Casa."
+                        }
+                    ]
+                },
+                {
+                    "id": "familia-e-criacao",
+                    "titulo": "Família e criação dos jovens",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": "A criação de crianças na URID é orientada para descobrir capacidades e preparar futuros membros da sociedade. Desde cedo, jovens passam por avaliações físicas, mentais e técnicas para identificar caminhos onde possam contribuir melhor."
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "Formação Inicial",
+                            "descricao": "Ensino de disciplina, história da Casa, habilidades básicas e valores imperiais."
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "Especialização",
+                            "descricao": "Direcionamento para áreas técnicas, militares, científicas ou administrativas."
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "Serviço à Casa",
+                            "descricao": "Adultos passam a representar sua Casa através de suas funções e conquistas."
+                        }
+                    ]
+                },
+                {
+                    "id": "conflitos-sociais",
+                    "titulo": "Conflitos sociais",
+                    "blocos": [
+                        {
+                            "tipo": "conflito",
+                            "titulo": "Tradição contra Mudança",
+                            "descricao": "Casas antigas defendem costumes históricos enquanto novas gerações buscam métodos mais modernos."
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "Desigualdade entre Casas",
+                            "descricao": "A concentração de poder nas grandes Casas gera disputas e ressentimentos entre diferentes níveis sociais."
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "Valor Individual contra Herança",
+                            "descricao": "Existe uma tensão constante entre aqueles que acreditam no mérito pessoal e aqueles que dependem da posição de nascimento."
+                        }
+                    ]
+                },
+                {
+                    "id": "visao-social",
+                    "titulo": "Visão coletiva da sociedade",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A URID não enxerga a sociedade como um conjunto de indivíduos isolados, mas como uma grande estrutura onde cada parte possui uma função. A força do império depende da capacidade de cada pessoa, Casa e instituição em cumprir seu papel e sustentar o sistema."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ciencia-tecnologia",
+            "icone": "⚙️",
+            "titulo": "Ciência e Tecnologia",
+            "subsecoes": [
+                {
+                    "id": "visao-cientifica",
+                    "titulo": "Visão científica e tecnológica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "Na URID, ciência e tecnologia são vistas como ferramentas fundamentais para a sobrevivência, expansão e manutenção do império. O conhecimento não possui valor apenas pela descoberta, mas pela capacidade de transformar recursos em soluções práticas. A pesquisa científica está profundamente ligada à indústria, ao exército e às necessidades das Casas."
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "Conhecimento Aplicado",
+                            "descricao": "Uma descoberta só alcança verdadeiro valor quando pode ser utilizada para melhorar estruturas, produção, defesa ou qualidade de vida."
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "Domínio sobre a Natureza",
+                            "descricao": "A tecnologia representa a capacidade humana de superar limitações impostas pelo ambiente extremo onde a civilização surgiu."
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "Evolução Artificial",
+                            "descricao": "A melhoria do corpo e das capacidades humanas através de tecnologia é considerada uma continuação natural da evolução."
+                        }
+                    ]
+                },
+                {
+                    "id": "areas-cientificas",
+                    "titulo": "Principais áreas científicas",
+                    "blocos": [
+                        {
+                            "tipo": "area",
+                            "titulo": "Engenharia Estrutural",
+                            "descricao": "Área responsável pelo desenvolvimento das megaestruturas, sistemas urbanos, transporte e utilização do Astroford."
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "Alquimia Quiopunk",
+                            "descricao": "Campo que combina processos alquímicos, biologia e tecnologia para criar soluções avançadas, incluindo pesquisas relacionadas ao Nightblood."
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "Medicina e Biotecnologia",
+                            "descricao": "Responsável por implantes, próteses, tratamentos avançados e integração entre corpo humano e máquinas."
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "Engenharia Militar",
+                            "descricao": "Desenvolvimento de armas, equipamentos defensivos, veículos e sistemas estratégicos."
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "Energia e Recursos",
+                            "descricao": "Pesquisa voltada para exploração, processamento e utilização eficiente dos recursos imperiais."
+                        }
+                    ]
+                },
+                {
+                    "id": "tecnologias-principais",
+                    "titulo": "Tecnologias principais",
+                    "blocos": [
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "Astroford",
+                            "descricao": "Material extremamente resistente utilizado como base para construções monumentais, equipamentos e estruturas imperiais."
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "Nightblood",
+                            "descricao": "Recurso estratégico utilizado em tecnologias avançadas, pesquisas alquímicas e sistemas quiopunk."
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "Implantes Mecânicos",
+                            "descricao": "Sistemas que substituem ou ampliam partes do corpo humano, permitindo maior resistência, capacidade física e adaptação."
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "Sistemas Quiopunk",
+                            "descricao": "Tecnologias híbridas que unem engenharia mecânica, química, alquimia e biologia."
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "Mecanismos Industriais",
+                            "descricao": "Máquinas de grande escala responsáveis por manter a produção, mineração e infraestrutura imperial."
+                        }
+                    ]
+                },
+                {
+                    "id": "instituicoes-cientificas",
+                    "titulo": "Instituições científicas",
+                    "blocos": [
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "Virtude de Engenharia",
+                            "descricao": "Principal centro de formação de engenheiros responsáveis pelas grandes obras, máquinas e estruturas da URID."
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "Virtude de Alquimia Quiopunk — Desembargador Barão Vermelho",
+                            "descricao": "Instituição de elite dedicada à pesquisa alquímica, Nightblood, aprimoramentos corporais e tecnologias híbridas."
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "Laboratórios das Grandes Casas",
+                            "descricao": "Centros privados mantidos pelas Casas mais poderosas para desenvolver tecnologias próprias e manter vantagem estratégica."
+                        }
+                    ]
+                },
+                {
+                    "id": "ciencia-e-casas",
+                    "titulo": "Controle das Casas sobre ciência",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "Grande parte do avanço tecnológico da URID é controlada pelas Casas. Cada família poderosa busca desenvolver conhecimentos exclusivos para aumentar sua influência. A ciência funciona tanto como ferramenta de progresso quanto como instrumento de poder político."
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "Pesquisa Privada",
+                            "descricao": "Grandes Casas financiam laboratórios próprios e mantêm segredos tecnológicos."
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "Competição Tecnológica",
+                            "descricao": "Casas disputam especialistas, recursos e descobertas para aumentar sua posição dentro do império."
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "Conhecimento Estratégico",
+                            "descricao": "Informações científicas importantes são tratadas como recursos de segurança nacional."
+                        }
+                    ]
+                },
+                {
+                    "id": "ciencia-militar",
+                    "titulo": "Aplicações militares",
+                    "blocos": [
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "Armas Avançadas",
+                            "descricao": "Uso de engenharia pesada, alquimia e tecnologia quiopunk para criar equipamentos militares superiores."
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "Soldados Aprimorados",
+                            "descricao": "Implantes e modificações permitem aumentar resistência, força e capacidade operacional."
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "Máquinas de Guerra",
+                            "descricao": "Veículos, mecanismos e sistemas industriais adaptados para combate e defesa imperial."
+                        }
+                    ]
+                },
+                {
+                    "id": "limites-eticos",
+                    "titulo": "Limites éticos e conflitos",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "O avanço tecnológico da URID frequentemente entra em conflito com questões éticas. Como a sociedade valoriza resultados e eficiência, experimentos considerados extremos por outras nações podem ser aceitos quando apresentam benefícios estratégicos."
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "Humanidade contra Aprimoramento",
+                            "descricao": "Debate sobre até onde implantes e modificações podem alterar a natureza humana."
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "Conhecimento contra Controle",
+                            "descricao": "Disputa entre o avanço científico e a necessidade das Casas de proteger informações estratégicas."
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "Eficiência contra Ética",
+                            "descricao": "Conflitos envolvendo experimentos e tecnologias desenvolvidas em nome do progresso imperial."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "economia",
+            "icone": "💰",
+            "titulo": "Economia",
+            "subsecoes": [
+                {
+                    "id": "modelo-economico",
+                    "titulo": "Modelo econômico predominante",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A economia da URID é baseada em uma combinação de indústria pesada, controle de recursos estratégicos, produção em larga escala e influência das Grandes Casas. O império funciona como uma gigantesca máquina produtiva onde mineração, engenharia, tecnologia e comércio trabalham de forma integrada."
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "Produção como Poder",
+                            "descricao": "A capacidade de produzir recursos, máquinas e tecnologias define grande parte da influência econômica de uma Casa ou região."
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "Eficiência Industrial",
+                            "descricao": "Redução de desperdícios, otimização de processos e aumento constante da produtividade são valores centrais."
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "Controle Estratégico",
+                            "descricao": "Recursos fundamentais são protegidos e administrados como elementos de segurança imperial."
+                        }
+                    ]
+                },
+                {
+                    "id": "setores-economicos",
+                    "titulo": "Principais setores econômicos",
+                    "blocos": [
+                        {
+                            "tipo": "setor",
+                            "titulo": "Mineração",
+                            "descricao": "Base histórica da economia imperial. A extração de Astroford, Nightblood e metais pesados sustenta grande parte da indústria."
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "Indústria Pesada",
+                            "descricao": "Produção de máquinas, estruturas, veículos, equipamentos militares e componentes industriais."
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "Engenharia e Construção",
+                            "descricao": "Responsável pelas megaestruturas, sistemas urbanos e grandes obras que caracterizam a URID."
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "Tecnologia Quiopunk",
+                            "descricao": "Área de alto valor envolvendo implantes, alquimia, biotecnologia e aprimoramentos humanos."
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "Comércio Internacional",
+                            "descricao": "Exportação de produtos industriais, tecnologias e materiais estratégicos para outras nações."
+                        }
+                    ]
+                },
+                {
+                    "id": "recursos-estrategicos",
+                    "titulo": "Recursos estratégicos",
+                    "blocos": [
+                        {
+                            "tipo": "recurso",
+                            "titulo": "Nightblood",
+                            "descricao": "Um dos recursos mais valiosos da URID. Possui importância científica, industrial e militar."
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "Astroford",
+                            "descricao": "Material fundamental para a construção das grandes estruturas imperiais devido à sua resistência excepcional."
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "Metais Industriais",
+                            "descricao": "Utilizados em máquinas, armas, transporte, construção e produção de implantes."
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "Conhecimento Técnico",
+                            "descricao": "Especialistas, engenheiros e pesquisadores são tratados como recursos estratégicos devido ao seu impacto econômico."
+                        }
+                    ]
+                },
+                {
+                    "id": "papel-das-casas",
+                    "titulo": "Papel das Casas na economia",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "As Casas possuem grande influência econômica dentro da URID. Cada uma tende a desenvolver especializações próprias, controlando setores, indústrias ou conhecimentos específicos. A competição entre Casas impulsiona inovação, mas também gera disputas por recursos e influência."
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "Casas Industriais",
+                            "descricao": "Controlam fábricas, produção pesada e cadeias de manufatura."
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "Casas Científicas",
+                            "descricao": "Investem em pesquisa, tecnologia e desenvolvimento de novas soluções."
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "Casas Comerciais",
+                            "descricao": "Administram rotas comerciais, contratos e relações econômicas externas."
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "Casas Militares",
+                            "descricao": "Controlam produção de equipamentos, armas e infraestrutura de defesa."
+                        }
+                    ]
+                },
+                {
+                    "id": "trabalho-profissoes",
+                    "titulo": "Trabalho e profissões",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "O trabalho na URID possui forte valor cultural. Uma profissão não é vista apenas como fonte de renda, mas como uma demonstração da função que um indivíduo exerce dentro da grande estrutura imperial."
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "Engenheiros",
+                            "descricao": "Considerados essenciais para manter as cidades, máquinas e sistemas industriais funcionando."
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "Mineradores",
+                            "descricao": "Responsáveis pela extração dos recursos que sustentam a economia imperial."
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "Cientistas e Alquimistas",
+                            "descricao": "Responsáveis pela criação de tecnologias avançadas e novos processos."
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "Operários Especializados",
+                            "descricao": "Profissionais técnicos que mantêm a produção diária das grandes estruturas."
+                        }
+                    ]
+                },
+                {
+                    "id": "comercio-internacional",
+                    "titulo": "Comércio internacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A URID utiliza seu poder industrial como principal ferramenta diplomática. Muitas nações dependem de seus produtos, máquinas e tecnologias, criando uma relação onde comércio e influência política estão diretamente ligados."
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "Máquinas Industriais",
+                            "descricao": "Equipamentos de produção e engenharia utilizados por outras nações."
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "Tecnologia Quiopunk",
+                            "descricao": "Soluções avançadas envolvendo medicina, implantes e engenharia híbrida."
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "Materiais Processados",
+                            "descricao": "Metais, ligas especiais e componentes produzidos pela indústria imperial."
+                        }
+                    ]
+                },
+                {
+                    "id": "desigualdade-economica",
+                    "titulo": "Desigualdade econômica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "Apesar da gigantesca capacidade produtiva, a riqueza da URID não é distribuída igualmente. A posição de uma Casa influencia acesso a recursos, educação, tecnologia e oportunidades."
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "Concentração de Poder",
+                            "descricao": "Grandes Casas acumulam influência econômica e política."
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "Competição Interna",
+                            "descricao": "Disputas entre Casas podem gerar conflitos econômicos e políticos."
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "Dependência Industrial",
+                            "descricao": "A complexidade do sistema torna difícil substituir setores essenciais rapidamente."
+                        }
+                    ]
+                },
+                {
+                    "id": "filosofia-economica",
+                    "titulo": "Filosofia econômica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": "A economia da URID segue a mesma filosofia de sua sociedade: tudo deve possuir função e gerar resultado. Recursos desperdiçados, estruturas ineficientes e indivíduos improdutivos são vistos como falhas que ameaçam a continuidade do império."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "curiosidade",
+            "icone": "💡",
+            "titulo": "Curiosidades da URID",
+            "subsecoes": [
+                {
+                    "id": "fatos-gerais",
+                    "titulo": "Fatos gerais",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "O Império que nunca esquece o passado",
+                            "descricao": "A URID não abandona suas tradições antigas. Mesmo sendo uma potência industrial extremamente avançada, muitos costumes modernos possuem origem nas antigas tribos de sobrevivência do norte."
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "Cidades que parecem montanhas artificiais",
+                            "descricao": "As megaestruturas imperiais são tão grandes que muitos habitantes passam toda a vida dentro de uma única cidade vertical sem conhecer completamente seus níveis superiores ou inferiores."
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "A cidade como símbolo de poder",
+                            "descricao": "Na URID, a arquitetura não serve apenas para abrigar pessoas. A altura, resistência e complexidade de uma construção representam diretamente a força da sociedade que a criou."
+                        }
+                    ]
+                },
+                {
+                    "id": "cultura-curiosa",
+                    "titulo": "Costumes curiosos",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "Falhar não é vergonha",
+                            "descricao": "Dentro da cultura imperial, uma falha pode ser aceita quando demonstra aprendizado e evolução. O maior problema é repetir erros ou permanecer incapaz de melhorar."
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "Cicatrizes como histórias",
+                            "descricao": "Marcas físicas de batalhas, acidentes ou dificuldades muitas vezes são vistas como registros pessoais de experiências superadas."
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "Profissões possuem status cultural",
+                            "descricao": "Um engenheiro, cientista ou trabalhador especializado pode possuir enorme respeito social porque sua função mantém partes importantes da estrutura imperial."
+                        }
+                    ]
+                },
+                {
+                    "id": "tecnologia-curiosa",
+                    "titulo": "Curiosidades tecnológicas",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "O corpo como máquina adaptável",
+                            "descricao": "A cultura quiopunk da URID trata implantes e aprimoramentos como uma continuação da evolução humana, não apenas como substituições artificiais."
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "Nightblood mudou a história",
+                            "descricao": "A descoberta e utilização do Nightblood transformaram a URID em uma das maiores potências tecnológicas do mundo."
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "Tecnologia inspirada na natureza",
+                            "descricao": "Muitas soluções imperiais foram desenvolvidas estudando animais adaptados ao ambiente extremo, transformando características biológicas em aplicações industriais."
+                        }
+                    ]
+                },
+                {
+                    "id": "curiosidades-historicas",
+                    "titulo": "Curiosidades históricas",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "A origem tribal da hierarquia",
+                            "descricao": "O sistema de Casas nasceu de grupos antigos que precisavam organizar funções, proteger conhecimento e aumentar as chances de sobrevivência."
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "Diastlov como símbolo",
+                            "descricao": "Mais do que um fundador político, Diastlov representa a ideia de união, sobrevivência e construção de uma civilização capaz de dominar um ambiente hostil."
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "O império das provas",
+                            "descricao": "Grande parte da cultura atual ainda carrega a antiga mentalidade de que cada geração precisa provar que merece continuar a obra dos antepassados."
+                        }
+                    ]
+                },
+                {
+                    "id": "curiosidades-sociais",
+                    "titulo": "Curiosidades sociais",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "Uma Casa é mais que uma família",
+                            "descricao": "Pertencer a uma Casa significa fazer parte de uma rede de proteção, treinamento, conhecimento e responsabilidades."
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "O nome da Casa possui peso",
+                            "descricao": "Um indivíduo pode ganhar ou perder prestígio dependendo de suas ações, pois seus feitos afetam a reputação de toda sua linhagem."
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "Memória dos mortos",
+                            "descricao": "Na URID, monumentos e registros históricos são principalmente dedicados àqueles que deixaram grandes contribuições."
+                        }
+                    ]
+                },
+                {
+                    "id": "fatos-incomuns",
+                    "titulo": "Fatos incomuns",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "A natureza é respeitada pelo perigo",
+                            "descricao": "A relação da URID com a vida selvagem não nasce de idealização, mas do reconhecimento de que a natureza representa uma força que precisa ser compreendida."
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "A economia funciona como uma máquina",
+                            "descricao": "O império frequentemente compara sua própria sociedade a um grande mecanismo onde cada pessoa, Casa e instituição possui uma função."
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "Tecnologia e tradição coexistem",
+                            "descricao": "Mesmo possuindo tecnologias extremamente avançadas, a URID mantém rituais, símbolos e valores herdados de períodos muito antigos."
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "videoAntesDasConexoes": {
+        "titulo": "",
+        "descricao": "",
+        "youtube": "",
+        "videoLocal": "",
+        "imagemCapa": ""
+    },
+    "relacionados": {
+        "personagens": [
+            ""
+        ],
+        "organizacoes": [
+            ""
+        ],
+        "localizacoes": [
+            ""
+        ],
+        "equipamentos": [
+            ""
+        ],
+        "eventos": [
+            ""
+        ],
+        "documentos": [
+            ""
+        ],
+        "tecnologias": [
+            ""
+        ],
+        "historias": [
+            ""
+        ],
+        "contos": [
+            ""
+        ]
+    },
+    "galeria": {
+        "titulo": "Imagens do Tema",
+        "descricao": "",
+        "imagens": [
+            {
+                "src": "",
+                "alt": "",
+                "legenda": ""
+            }
+        ]
+    }
+}
