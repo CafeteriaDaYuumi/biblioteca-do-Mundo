@@ -1,0 +1,245 @@
+/* =========================================================
+   PÁGINA INICIAL
+   Estilos para a landing page da Biblioteca do Mundo,
+   incluindo vídeo de destaque em tela cheia e grade de
+   acervos com cartões interativos.
+   ========================================================= */
+
+.pagina-inicial {
+    width: 100%;
+    min-height: 100vh;
+}
+
+/* =========================================================
+   VÍDEO DE DESTAQUE
+   Área principal com vídeo em loop como fundo imersivo.
+   ========================================================= */
+
+.video-destaque {
+    position: relative;
+    width: 100%;
+    height: 55vh;
+    overflow: hidden;
+    background: #000;
+}
+
+/* Posiciona o iframe centralizado e amplia suas dimensões
+   para preencher toda a área sem deixar espaços vazios,
+   garantindo cobertura total mesmo em telas com proporções
+   diferentes. */
+.video-destaque iframe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 120vw;
+    height: 67.5vw;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translate(-50%, -50%);
+    pointer-events: none; /* Impede interação direta com o vídeo. */
+}
+
+/* Camada escura sobre o vídeo para melhorar o contraste
+   e a legibilidade dos textos sobrepostos. */
+.video-destaque::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0.2),
+        rgba(0, 0, 0, 0.85)
+    );
+}
+
+/* =========================================================
+   CONTEÚDO SOBRE O VÍDEO
+   Título e slogan posicionados sobre o fundo.
+   ========================================================= */
+
+.conteudo-video {
+    position: absolute;
+    left: 5%;
+    bottom: 12%;
+    z-index: 2;
+    max-width: 700px;
+}
+
+.conteudo-video h1 {
+    font-size: clamp(2.5rem, 6vw, 5rem);
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+.conteudo-video p {
+    margin-top: 12px;
+    font-size: 1.1rem;
+    color: var(--cor-texto-secundario);
+}
+
+/* =========================================================
+   SEÇÃO DE ACERVOS
+   Apresenta as categorias principais em cartões.
+   ========================================================= */
+
+.secao-acervos {
+    padding: 48px 5%;
+    background: linear-gradient(
+        to bottom,
+        var(--cor-fundo),
+        var(--cor-fundo-secundaria)
+    );
+}
+
+.titulo-acervos {
+    margin-bottom: 24px;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--cor-destaque);
+}
+
+/* =========================================================
+   LISTA DE ACERVOS
+   Container flexível para os cartões em linha.
+   ========================================================= */
+
+.lista-acervos {
+    display: flex;
+    gap: 16px;
+    width: 100%;
+    height: 360px;
+}
+
+/* =========================================================
+   CARTÃO DE ACERVO
+   Cada categoria é um cartão clicável com imagem e texto.
+   ========================================================= */
+
+.cartao-acervo {
+    position: relative;
+    flex: 1;
+    overflow: hidden;
+    border: 1px solid var(--cor-borda);
+    color: var(--cor-texto);
+    background: #111;
+    /* Anima expansão, opacidade e filtro ao interagir. */
+    transition:
+        flex 0.5s ease,
+        opacity 0.5s ease,
+        filter 0.5s ease;
+}
+
+/* Expansão do cartão em destaque. */
+.cartao-acervo:hover {
+    flex: 2.4;
+}
+
+/* Reduz e desfoca cartões não selecionados quando o mouse
+   está sobre a lista, criando um efeito de foco. */
+.lista-acervos:hover .cartao-acervo:not(:hover) {
+    flex: 0.7;
+    opacity: 0.45;
+    filter: grayscale(80%) blur(1px);
+}
+
+/* ===== IMAGEM DO CARTÃO ===== */
+
+.cartao-acervo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+/* Zoom sutil na imagem do cartão selecionado. */
+.cartao-acervo:hover img {
+    transform: scale(1.08);
+}
+
+/* ===== SOBREPOSIÇÃO DO CARTÃO ===== */
+
+.sobreposicao-acervo {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 0 18px 22px;
+    text-align: center;
+    /* Gradiente que escurece a parte inferior para destacar o texto. */
+    background: linear-gradient(
+        to top,
+        rgba(0, 0, 0, 0.95),
+        rgba(0, 0, 0, 0.15)
+    );
+}
+
+.conteudo-acervo {
+    width: 100%;
+}
+
+/* ===== TÍTULO DO CARTÃO ===== */
+
+.conteudo-acervo h2 {
+    font-size: clamp(1.1rem, 1.5vw, 1.5rem);
+    line-height: 1.2;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    overflow-wrap: anywhere; /* Evita estouro horizontal com palavras longas. */
+}
+
+/* ===== DESCRIÇÃO DO CARTÃO ===== */
+
+.conteudo-acervo p {
+    margin: 10px auto 0;
+    max-width: 360px;
+    font-size: 0.95rem;
+    color: var(--cor-texto-secundario);
+    /* Inicialmente oculta e deslocada para cima. */
+    opacity: 0;
+    transform: translateY(12px);
+    transition:
+        opacity 0.4s ease,
+        transform 0.4s ease;
+}
+
+/* Revela a descrição ao passar o mouse sobre o cartão. */
+.cartao-acervo:hover .conteudo-acervo p {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* =========================================================
+   RESPONSIVIDADE
+   Ajustes para telas menores que 900px (tablets e celulares).
+   ========================================================= */
+
+@media (max-width: 900px) {
+    /* Empilha os cartões verticalmente. */
+    .lista-acervos {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .cartao-acervo {
+        min-height: 220px;
+    }
+
+    /* Remove os efeitos de expansão, opacidade e desfoque
+       em telas pequenas, pois o hover é menos eficaz. */
+    .cartao-acervo:hover,
+    .lista-acervos:hover .cartao-acervo:not(:hover) {
+        flex: 1;
+        opacity: 1;
+        filter: none;
+    }
+
+    /* Mantém as descrições sempre visíveis em dispositivos móveis. */
+    .conteudo-acervo p {
+        opacity: 1;
+        transform: none;
+    }
+}

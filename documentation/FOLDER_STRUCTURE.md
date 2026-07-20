@@ -154,7 +154,7 @@ Esta pasta não faz parte da aplicação publicada.
 Exemplo:
 
 ```text
-00_documentation/
+documentation/
 ├── README.md
 ├── ARCHITECTURE.md
 ├── BACKLOG.md
