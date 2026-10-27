@@ -1,0 +1,2414 @@
+{
+    "id": "emirados-arcaidos",
+    "slug": "",
+    "tipo": "nacao",
+    "identificacao": {
+        "categoria": "Nação",
+        "codigo": "emirados-arcaidos",
+        "registro": "",
+        "nome": "emirados arcaidos",
+        "subtitulo": ""
+    },
+    "versao": {
+        "criado": "",
+        "atualizado": "",
+        "versao": "1.0"
+    },
+    "tags": [
+        "Localização",
+        "Nação"
+    ],
+    "fontes": [
+        {
+            "tipo": "Reconstrução Memética",
+            "integridade": "~ %",
+            "origem": " — Sondagem Neurológica"
+        },
+        {
+            "tipo": "Análise de Consistência",
+            "integridade": "~ %",
+            "origem": " — Arquivos Embasados"
+        }
+    ],
+    "midiaTopo": {
+        "tipo": "video",
+        "imagemCapa": "",
+        "videoLocal": "",
+        "youtube": ""
+    },
+    "resumo": {
+        "midia": {
+            "tipo": "imagem",
+            "src": "",
+            "alt": ""
+        },
+        "campos": [
+            {
+                "rotulo": "Nome oficial",
+                "valor": ""
+            },
+            {
+                "rotulo": "Capital",
+                "valor": ""
+            },
+            {
+                "rotulo": "Dilema",
+                "valor": ""
+            },
+            {
+                "rotulo": "Língua",
+                "valor": ""
+            },
+            {
+                "rotulo": "Religião",
+                "valor": ""
+            },
+            {
+                "rotulo": "Cultura",
+                "valor": ""
+            },
+            {
+                "rotulo": "Moeda",
+                "valor": ""
+            },
+            {
+                "rotulo": "Padrão Fonotático",
+                "valor": ""
+            },
+            {
+                "rotulo": "Tecnologia predominante",
+                "valor": ""
+            },
+            {
+                "rotulo": "Situação política",
+                "valor": ""
+            }
+        ]
+    },
+    "estatisticas": {
+        "titulo": "Status da nação",
+        "indicadores": [
+            {
+                "indicador": "População",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "PIB",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Moeda",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Estabilidade política",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Poder militar (M.A.T)",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Nível tecnológico",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "IDH",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Influência Global",
+                "pontuacao": "",
+                "notas": ""
+            }
+        ]
+    },
+    "indice": {
+        "automatico": true,
+        "fixo": true
+    },
+    "cronologia": [],
+    "citacoes": [
+        {
+            "texto": "",
+            "autor": ""
+        },
+        {
+            "texto": "",
+            "autor": ""
+        }
+    ],
+    "secoes": [
+        {
+            "id": "historia",
+            "icone": "🕰️",
+            "titulo": "História",
+            "subsecoes": [
+                {
+                    "id": "resumo-historico",
+                    "titulo": "Resumo",
+                    "blocos": [
+                        {
+                            "tipo": "Os Povos de Osíris",
+                            "conteudo": "Os Emirados Arcaídos são herdeiros do antigo Império do Sol, uma das civilizações mais antigas do mundo conhecido. Sua história nasceu entre desertos, savanas e grandes cadeias montanhosas, numa região em que a água determinava os caminhos, as fronteiras e a sobrevivência. Os povos de Osíris desenvolveram uma cultura de movimento constante: famílias, rebanhos, comerciantes e comunidades inteiras percorriam as terras em busca de fontes, pastagens e condições favoráveis à vida. A autoridade era tradicionalmente exercida por líderes regionais conhecidos como emires, cujos domínios se organizavam de acordo com as relações entre clãs, o acesso aos recursos e a capacidade de proteger aqueles que reconheciam sua liderança. Muito antes da formação de um império unificado, esses povos já possuíam tradições religiosas, conhecimentos de sobrevivência e uma memória coletiva transmitida entre gerações. Sua cultura não nasceu da estabilidade de fronteiras fixas, mas da capacidade de continuar existindo apesar de um ambiente que raramente permitia permanência sem esforço."
+                        },
+                        {
+                            "tipo": "O Rio da Criação e a Queda de Gaia",
+                            "conteudo": "A tradição osiriana situa a origem do mundo no rio Hórus, considerado o criador de toda existência. Segundo o mito, Hórus deu vida a três divindades destinadas a governar e sustentar o mundo: Arashan, o deus do Sol; Orario, o deus da Lua; e Gaia, a deusa da natureza e da vida. Os seguidores de Arashan habitavam principalmente as planícies, enquanto os devotos de Orario encontravam abrigo nas cadeias montanhosas. Naquele tempo mítico, os povos eram conhecidos como clãs, e a relação entre as divindades ainda era lembrada como uma época de inocência e equilíbrio. Com o passar das eras, Gaia aproximou-se de Hórus e passou a favorecer seus seguidores. O clã do Sol cresceu, enquanto os devotos da Lua interpretaram a mudança como abandono e injustiça. A inveja transformou-se em ressentimento, e o ressentimento, em ódio. Orario procurou Hórus em busca de uma visão que pudesse encerrar a crise, mas, ao descobrir a união entre Gaia e Arashan, invadiu o casamento para confrontar o deus do Sol. No conflito, que custou a vida de numerosos seguidores, Orario matou Gaia acidentalmente ao tentar separar os combatentes. A morte da deusa rompeu o equilíbrio da criação. As lágrimas de Hórus caíram como a última grande tempestade, os lagos desapareceram e as terras outrora verdes tornaram-se áridas. A abundância de animais cedeu lugar à escassez, e a água passou a determinar o destino de comunidades inteiras. Tomado pela fúria, Arashan começou a perseguir Hórus pelos céus, dando origem, segundo a tradição, à alternância entre o dia e a noite. Os seguidores do Sol juraram perseguir os devotos de Orario, responsabilizando-os pela morte de Gaia e pela ruína do mundo."
+                        },
+                        {
+                            "tipo": "A Fé do Sol e os Filhos da Lua",
+                            "conteudo": "A catástrofe atribuída à morte de Gaia tornou-se o fundamento espiritual e político da civilização osiriana. A maioria dos clãs passou a seguir Arashan, cuja religião transformou a sobrevivência em dever sagrado e a perseguição a Orario em penitência coletiva. Com o tempo, os seguidores do Sol organizaram uma tradição religiosa capaz de acompanhar a expansão política dos emires. As Escrituras do Sol, os arautos religiosos e os grandes templos passaram a preservar a interpretação oficial dos acontecimentos, segundo a qual a ordem do mundo exigia combater a influência da Lua. A filosofia de Arashan não se limitava à adoração do Sol: também justificava campanhas militares, expedições às montanhas e a tentativa de prolongar a luz sobre a noite, como se a vitória definitiva pudesse reparar a perda de Gaia. Entretanto, os filhos de Orario preservaram outra versão do mito. Para eles, Arashan teria traído a deusa e provocado sua morte para dominar as terras, usando a tragédia como justificativa para exterminar seu rival. Muitos acreditam que Orario morreu ou foi abandonado por Hórus, e que os sobreviventes precisam encontrar uma maneira de voltar a se comunicar com o rio da criação. Perseguidos por aqueles que um dia foram seus companheiros, os remanescentes refugiaram-se em cavernas e regiões montanhosas, especialmente nas áreas associadas ao luar eterno e às nascentes do rio Hórus. A Árvore dos Sonhos tornou-se um dos seus lugares sagrados, defendido mesmo quando a sobrevivência do próprio povo parece impossível. A Caminhada do Viajante, rito no qual o iniciado atravessa sozinho uma antiga rota montanhosa, representa a resistência, a solidão e a busca por sentido. Assim, a mesma história originou duas identidades opostas: para os seguidores de Arashan, a perseguição é uma obrigação herdada; para os filhos de Orario, sobreviver é resistir à injustiça e preservar uma verdade que o poder imperial tentou apagar."
+                        },
+                        {
+                            "tipo": "A Unidade dos Doze Zodíacos",
+                            "conteudo": "Durante séculos, os emires governaram regiões distintas, mantendo suas próprias comunidades e interesses. Essa fragmentação começou a mudar quando Nácer Saladim, posteriormente lembrado como o primeiro grande emi-imperador, conquistou os demais emires e reuniu os territórios sob uma única autoridade. A criação do Império do Sol estabeleceu uma nova ordem: os antigos domínios passaram a integrar um projeto imperial sustentado pela religião de Arashan, pela autoridade do soberano e pelo controle dos recursos. A fundação de BilyonNilt, às margens do rio Gaia, simbolizou a passagem de uma cultura predominantemente itinerante para uma civilização que também possuía um centro urbano permanente. A unidade, porém, nunca eliminou por completo as diferenças entre os povos e as lideranças regionais. Para administrar o território, o governo organizou doze casas emirais, conhecidas como Casas dos Zodíacos, responsáveis por representar as principais forças regionais e proteger a estrutura imperial. Essas casas tornaram-se pilares da administração, da religião e do poder militar. Ao mesmo tempo, a concentração de autoridade criou uma tensão duradoura: os emires dependiam do imperador para preservar a unidade, mas continuavam a possuir bases próprias de poder. A história posterior demonstraria que essa tensão poderia ser controlada durante períodos de prosperidade, mas se tornaria perigosa quando guerras, fome e colapso institucional enfraquecessem o trono."
+                        },
+                        {
+                            "tipo": "A Civilização do Nightblood",
+                            "conteudo": "A prosperidade do antigo Império do Sol dependia da capacidade de transformar os recursos de uma região árida em riqueza, alimento e poder. As planícies de Fios de Ouro tornaram-se uma das principais áreas agrícolas, enquanto BilyonNilt cresceu como centro político, religioso e comercial. As pirâmides erguidas em homenagem a Arashan representavam a grandeza do soberano e a promessa de uma ordem capaz de superar a hostilidade do deserto. O Vale dos Reis, local associado ao sepultamento dos antigos governantes, preservou a ideia de que a autoridade imperial deveria sobreviver à morte por meio da memória, dos rituais e dos monumentos. A descoberta do Nightblood, um líquido negro inflamável associado nas tradições à antiga deusa Gaia, transformou ainda mais a relação entre o povo e o ambiente. O recurso permitia iluminar as noites e passou a ter importância estratégica e econômica. Sua exploração exigia organização, mão de obra e controle das áreas produtoras, tornando determinadas regiões indispensáveis à Coroa e aos emires. A expansão comercial levou o império a negociar com povos de além-mar, incluindo os mercadores que seriam conhecidos como filhos de Ale. A troca de Nightblood por especiarias e outras mercadorias integrou a economia osiriana às redes internacionais e fortaleceu o papel dos portos e das companhias estrangeiras. Entretanto, a dependência de recursos específicos e a posterior adoção inadequada da tecnologia a vapor exporiam os limites de um sistema que havia aprendido a transformar a escassez em poder, mas não a eliminar a fragilidade de suas estruturas."
+                        },
+                        {
+                            "tipo": "O Colapso do Império do Sol",
+                            "conteudo": "A entrada na era do vapor prometia ampliar a produção, modernizar o transporte e fortalecer a posição do Império do Sol entre as grandes potências. Em vez de produzir uma modernização equilibrada, porém, a introdução inadequada da tecnologia contribuiu para uma crise que atingiu os fundamentos da sociedade. A partir de 1710, as chamadas Doze Pragas manifestaram-se como uma sucessão de desastres associados à má implementação dos novos sistemas: fumaça e poluição, perda de colheitas, incapacidade de controlar ratos e insetos e a disseminação de doenças. O abastecimento tornou-se instável, as comunidades perderam confiança nas autoridades e o poder imperial passou a depender cada vez mais da força para manter a obediência. Com a morte do emi-imperador, a regência não conseguiu conter a fragmentação. As Casas dos Zodíacos voltaram-se umas contra as outras, enquanto a guerra, a escassez e as invasões externas consumiam os recursos restantes. A Aliança Stalingrad, da qual o império fazia parte, deixou de fornecer apoio suficiente, e as tropas estrangeiras conhecidas pelos osirianos como povos de além das montanhas avançaram sobre a região. Em 1773, BilyonNilt foi cercada e resistiu durante dez dias antes de cair. O palácio foi incendiado, e o último emi-imperador morreu combatendo ao lado de seus homens. A resistência organizada foi destruída em 1775. Cinco anos depois, os vencedores consolidaram o domínio e impuseram o nome Emirados Arcaídos ao território conquistado. O nome antigo permaneceu na memória popular como símbolo de uma grandeza perdida, enquanto o novo passou a representar a derrota, a ocupação e a ruptura de uma civilização que sobrevivera durante milênios."
+                        },
+                        {
+                            "tipo": "Os Emirados Arcaídos e a Sobrevivência",
+                            "conteudo": "A conquista não transformou os Emirados Arcaídos numa região estável. Em 1805, os vencedores instituíram um governo administrativo financiado por eles e estabeleceram uma moeda oficial vinculada à nova ordem política. O governo passou a representar formalmente a região, mas sua capacidade de exercer autoridade sobre todo o território permaneceu limitada. Em 1816, os poderes ligados à URID abandonaram parte das terras, mantendo presença em áreas estratégicas como o Rio Negro, o Porto de Águas Claras e as planícies de Fios de Ouro. O resultado foi um território dividido entre interesses estrangeiros, autoridades locais, grupos armados e comunidades que procuravam sobreviver longe dos centros de poder. Em 1834, Leonard D. Vinci e a Liga das Nações Unificadas desenvolveram os projetos Trilhas da Esperança, uma iniciativa destinada a recuperar áreas afetadas pela desertificação por meio de cidades e projetos de restauração ambiental. O plano tornou-se uma das maiores promessas de recuperação da região, mas não apagou as consequências de séculos de conflitos e exploração. Na atualidade, os Emirados Arcaídos vivem sob instabilidade, guerra civil e domínio fragmentado. O governo fantoche conserva sua presença principalmente na capital, enquanto corporações privadas, organizações criminosas e grupos armados disputam recursos, rotas e territórios. Parte da população ainda sonha com a recuperação da antiga glória; outros procuram reconstruir comunidades independentes ou escapar da região. A vida nômade, que antes representava adaptação cultural e conhecimento do deserto, voltou a ser uma necessidade para numerosas famílias. Em muitos lugares, deslocar-se é a única maneira de encontrar água, trabalho e segurança. A esperança de emigrar tornou-se tão importante quanto o desejo de restaurar a nação. Os Emirados Arcaídos não são apenas as ruínas do Império do Sol: são o lar de um povo que continua carregando suas tradições, sua fé, suas memórias e as contradições de uma história muito mais antiga do que o governo que hoje pretende representá-lo."
+                        }
+                    ]
+                },
+                {
+    "id": "periodos-marcantes",
+    "titulo": "Períodos e Eventos Históricos",
+    "periodos": [
+        {
+            "tipo": "Fundação e Ascensão do Império",
+            "periodo": "80–230 | Ano unificado",
+            "conteudo": "A unificação dos povos do deserto sob o comando de Saladim marca o nascimento do Império do Sol. A criação de uma capital permanente, o desenvolvimento agrícola das savanas e a formação das doze casas dos zodíacos transformam antigos territórios nômades em uma das civilizações mais antigas e poderosas do mundo conhecido.",
+            "eventos": [
+                {
+                    "data": "80 | Ano unificado",
+                    "titulo": "A fundação do Império do Sol",
+                    "descricao": "O emir Nác(er) Saladim conquista os demais emires e unifica seus territórios, fundando o Império do Sol. Em suas campanhas, conquista todas as terras conhecidas por seu povo e estabelece BilyonNilt, a primeira cidade permanente do império, às margens do Rio Gaia."
+                },
+                {
+                    "data": "90 | Ano unificado",
+                    "titulo": "Os Fios de Ouro",
+                    "descricao": "As planícies conhecidas como Fios de Ouro são estabelecidas como a principal região agrícola do império. Suas savanas férteis tornam-se essenciais para o abastecimento da população e para a consolidação do poder dos emires."
+                },
+                {
+                    "data": "100 | Ano unificado",
+                    "titulo": "A morte de Saladim",
+                    "descricao": "Saladim morre após consolidar o Império do Sol. Seu corpo é sepultado no Vale dos Reis, local destinado aos grandes líderes da civilização. Com o passar dos séculos, a região desaparece sob as areias do deserto, transformando-se em uma lenda perdida."
+                },
+                {
+                    "data": "120 | Ano unificado",
+                    "titulo": "As doze casas dos zodíacos",
+                    "descricao": "Um emir regente reorganiza a estrutura política do império, estabelecendo doze casas de emires conhecidas como casas dos zodíacos. Cada casa recebe responsabilidades na proteção e administração dos territórios imperiais, formando uma estrutura que permaneceria central na identidade política do Império do Sol."
+                },
+                {
+                    "data": "230 | Ano unificado",
+                    "titulo": "A construção das primeiras pirâmides",
+                    "descricao": "As primeiras grandes pirâmides são erguidas em diferentes regiões do império como templos sagrados dedicados a Arashan, o deus do Sol. Essas construções consolidam a influência religiosa do culto solar e tornam-se símbolos duradouros da grandeza imperial."
+                }
+            ]
+        },
+        {
+            "tipo": "As Guerras do Eclipse",
+            "periodo": "260–1130 | Ano unificado",
+            "conteudo": "A rivalidade religiosa entre os seguidores de Arashan e Orario transforma-se em perseguição sistemática. Sob a justificativa de reparar a tragédia que teria condenado suas terras à aridez, os governantes solares organizam expedições contra os Filhos de Orario, que se refugiam nas montanhas. As guerras, os julgamentos periódicos e as disputas entre os próprios emires enfraquecem a unidade imperial, embora o Império do Sol sobreviva por muitos séculos.",
+            "eventos": [
+                {
+                    "data": "260 | Ano unificado",
+                    "titulo": "A Primeira Guerra do Eclipse",
+                    "descricao": "Os exércitos imperiais atravessam o mar e seguem até as Muralhas do Fim do Mundo para destruir os Filhos de Orario, que vivem escondidos em cavernas nas montanhas. A campanha marca o início de uma longa sequência de conflitos religiosos contra os seguidores do deus lunar."
+                },
+                {
+                    "data": "270 | Ano unificado",
+                    "titulo": "O retorno dos exércitos",
+                    "descricao": "Após a morte do Grande Emi-Imperador, seu filho assume o poder e ordena que as tropas imperiais retornem das Muralhas do Fim do Mundo. A decisão interrompe temporariamente a campanha contra os Filhos de Orario, sem encerrar a rivalidade religiosa."
+                },
+                {
+                    "data": "275 | Ano unificado",
+                    "titulo": "A descoberta do Sangue Noturno",
+                    "descricao": "O império descobre um líquido negro e inflamável capaz de iluminar a escuridão. Interpretado como o sangue dos deuses de Gaia, o recurso recebe o nome de Nightblood e passa a ter importância estratégica para a iluminação, a economia e, posteriormente, o comércio imperial."
+                },
+                {
+                    "data": "315 | Ano unificado",
+                    "titulo": "O Grande Julgamento",
+                    "descricao": "Após a morte do Grande Emi-Imperador, seu filho regente decreta que, a cada cinquenta anos, os povos do Sol deverão atravessar o mar e exterminar todos os Filhos de Orario que encontrarem. A medida é apresentada como uma penitência permanente pelo pecado que teria condenado o reino, institucionalizando a perseguição religiosa conhecida como Grande Julgamento."
+                },
+                {
+                    "data": "458 | Ano unificado",
+                    "titulo": "A expedição ao Arquipélago da Condensa Carmesim",
+                    "descricao": "Uma expedição imperial que deveria permitir o retorno de parte dos viajantes acaba chegando ao Arquipélago da Condensa Carmesim. O desvio amplia o conhecimento marítimo do império, mas também afasta os expedicionários de sua rota original."
+                },
+                {
+                    "data": "460 | Ano unificado",
+                    "titulo": "O silêncio além-mar",
+                    "descricao": "Uma tentativa de retorno é organizada, mas nenhuma notícia chega ao império. O desaparecimento dos viajantes alimenta dúvidas sobre o destino da expedição e sobre os perigos encontrados além-mar."
+                },
+                {
+                    "data": "480 | Ano unificado",
+                    "titulo": "A fundação da Ilha do Sol",
+                    "descricao": "Uma frota solar é perdida durante uma tempestade e acaba chegando a uma ilha distante. Os sobreviventes batizam o local de Ilha do Sol e estabelecem um pequeno assentamento, mantendo ali uma presença imperial isolada."
+                },
+                {
+                    "data": "480 | Ano unificado",
+                    "titulo": "A tempestade e a doença na Ilha do Sol",
+                    "descricao": "Uma grande tempestade atinge a Ilha do Sol enquanto uma doença se espalha entre os habitantes. A combinação das duas calamidades mata os integrantes do assentamento e encerra a primeira tentativa de estabelecer uma presença duradoura na ilha."
+                },
+                {
+                    "data": "715 | Ano unificado",
+                    "titulo": "O assassinato do Emi-Imperador",
+                    "descricao": "Seguidores de Orario conseguem invadir o palácio e assassinar o Emi-Imperador. O acontecimento espalha medo entre a elite solar e intensifica a repressão contra os seguidores do deus lunar, que passam a ser vistos como uma ameaça direta à sobrevivência do império."
+                },
+                {
+                    "data": "750 | Ano unificado",
+                    "titulo": "A Grande Purga",
+                    "descricao": "Milhares de soldados são enviados para conquistar as Montanhas do Fim do Mundo e eliminar os refúgios dos Filhos de Orario. A campanha amplia a devastação causada pelas Guerras do Eclipse e aprofunda o conflito entre as duas tradições religiosas."
+                },
+                {
+                    "data": "1100 | Ano unificado",
+                    "titulo": "O fim da guerra e a devastação das terras",
+                    "descricao": "As Guerras do Eclipse chegam ao fim após séculos de conflito. As regiões atingidas encontram-se devastadas, enquanto disputas entre os povos que emigraram e os governantes locais enfraquecem a estabilidade imperial. Alguns emires dos zodíacos começam a defender abertamente a independência de seus territórios."
+                },
+                {
+                    "data": "1105–1130 | Ano unificado",
+                    "titulo": "As Guerras dos Zodíacos",
+                    "descricao": "As doze casas entram em guerra, dividindo-se em dois blocos: sete casas contra cinco. O conflito ameaça desmantelar o império, mas o Emi-Imperador consegue derrotar os separatistas e preservar a unidade formal do Império do Sol."
+                }
+            ]
+        },
+        {
+            "tipo": "Comércio e Expansão Marítima",
+            "periodo": "1210–1500 | Ano unificado",
+            "conteudo": "O contato com povos estrangeiros transforma o Império do Sol em um participante importante das redes comerciais internacionais. O Nightblood, as especiarias e as rotas marítimas ampliam a riqueza imperial, mas também aproximam o país de forças externas que futuramente influenciariam sua política, sua economia e sua dependência tecnológica.",
+            "eventos": [
+                {
+                    "data": "1210 | Ano unificado",
+                    "titulo": "A chegada dos Filhos de Ale",
+                    "descricao": "Viajantes vindos de além-mar chegam ao império para estabelecer relações comerciais. Conhecidos como Filhos de Ale, apresentam a divindade Ale, associada ao mar e considerada estrangeira à ordem religiosa local. O Porto de Águas Claras torna-se um dos principais pontos de entrada para esses contatos."
+                },
+                {
+                    "data": "1215 | Ano unificado",
+                    "titulo": "O comércio de Nightblood",
+                    "descricao": "O Império do Sol passa a trocar Nightblood por especiarias e mercadorias estrangeiras. Os comerciantes envolvidos incluem representantes de Medrimart, que realizam suas operações sob a bandeira dos Filhos de Ale e da organização comercial CONC."
+                },
+                {
+                    "data": "1220 | Ano unificado",
+                    "titulo": "A descoberta das minas do Rio Negro",
+                    "descricao": "A CONC e o Império do Sol encontram e estabelecem operações nas minas do Rio Negro, que se tornam a maior região produtora de Nightblood. A exploração do recurso fortalece a importância econômica do território e aumenta o interesse estrangeiro em suas riquezas."
+                },
+                {
+                    "data": "1222 | Ano unificado",
+                    "titulo": "O acordo comercial com os Filhos de Ale",
+                    "descricao": "Um emir firma um acordo comercial com os Filhos de Ale, ampliando a circulação de especiarias e outros produtos estrangeiros. As rotas passam a conectar o império a comerciantes que também mantêm relações com Lakeland, diversificando o abastecimento e os interesses econômicos locais."
+                },
+                {
+                    "data": "1400–1500 | Ano unificado",
+                    "titulo": "A Segunda Guerra do Eclipse",
+                    "descricao": "Uma nova fase de conflitos contra os Filhos de Orario se prolonga por um século. A perseguição mantém as regiões montanhosas sob ameaça e consome recursos que poderiam ser utilizados na recuperação das terras e na modernização do império."
+                }
+            ]
+        },
+        {
+            "tipo": "A Era do Vapor e a Aliança Stalingrad",
+            "periodo": "1590–1650 | Ano unificado",
+            "conteudo": "A chegada da tecnologia a vapor promete uma nova era de prosperidade, mas exige mudanças profundas na estrutura de uma civilização construída em torno de tradições antigas e do equilíbrio entre as casas dos zodíacos. O império fortalece suas relações externas e participa dos conflitos internacionais, sem perceber plenamente os custos de adaptar sua sociedade e suas terras às novas tecnologias.",
+            "eventos": [
+                {
+                    "data": "1590 | Ano unificado",
+                    "titulo": "O Pacto dos Três Sóis",
+                    "descricao": "Os Filhos de Ale retornam trazendo tecnologia a vapor e propõem um acordo ao Império do Sol. Em troca do acesso a essa tecnologia, o império abre mão do Porto de Águas Claras e integra o Pacto dos Três Sóis, aproximando-se da Aliança Stalingrad."
+                },
+                {
+                    "data": "1592 | Ano unificado",
+                    "titulo": "O reforço das linhas de Stalingrad",
+                    "descricao": "O Império do Sol envia soldados para apoiar a Aliança Stalingrad e reforçar suas linhas. A participação consolida seu compromisso militar com a aliança, ao mesmo tempo que direciona recursos humanos para conflitos externos."
+                },
+                {
+                    "data": "1600–1650 | Ano unificado",
+                    "titulo": "A Terceira Guerra do Eclipse",
+                    "descricao": "Uma terceira grande fase de conflitos contra os Filhos de Orario ocorre durante a expansão da tecnologia a vapor. As campanhas prolongam a instabilidade nas montanhas e mantêm viva a antiga rivalidade religiosa, mesmo enquanto o império tenta adaptar-se a uma nova ordem tecnológica."
+                }
+            ]
+        },
+        {
+            "tipo": "As Doze Pragas e a Queda Imperial",
+            "periodo": "1710–1780 | Ano unificado",
+            "conteudo": "A implementação inadequada da tecnologia a vapor desencadeia uma crise sistêmica. A fumaça, as perdas agrícolas, as doenças e a proliferação descontrolada de ratos e insetos destroem a confiança no governo. Após a morte do Emi-Imperador, as casas dos zodíacos disputam o poder, a aliança estrangeira abandona o império e a invasão dos povos além da montanha encerra a antiga ordem política.",
+            "eventos": [
+                {
+                    "data": "1710 | Ano unificado",
+                    "titulo": "As Doze Pragas",
+                    "descricao": "O Império do Sol entra em colapso após uma série de calamidades associadas à implementação deficiente da tecnologia a vapor. A fumaça contamina as cidades, as colheitas fracassam, ratos e insetos escapam ao controle e doenças se espalham. Com a morte do Emi-Imperador, o poder fragmenta-se e a sociedade mergulha no caos."
+                },
+                {
+                    "data": "1715 | Ano unificado",
+                    "titulo": "A fragmentação do império",
+                    "descricao": "O Emi-Imperador regente não consegue restaurar a autoridade central. As doze casas e outras facções passam a controlar territórios por conta própria. Embora o governo tente recuperar áreas pela força, perde a capacidade de enviar soldados para apoiar a Aliança Stalingrad."
+                },
+                {
+                    "data": "1720 | Ano unificado",
+                    "titulo": "A Segunda Guerra dos Zodíacos",
+                    "descricao": "A Aliança Stalingrad interrompe o envio de apoio ao Emi-Imperador, que fica isolado em pequenos territórios ao redor do palácio. As casas dos zodíacos voltam a guerrear entre si, dando início à Segunda Guerra dos Zodíacos e acelerando a desintegração do Estado."
+                },
+                {
+                    "data": "1770 | Ano unificado",
+                    "titulo": "A invasão dos povos além da montanha",
+                    "descricao": "Os povos selvagens contra os quais a Aliança Stalingrad lutava, conhecidos pelos habitantes do império como povos do além da montanha, invadem as terras solares. Suas tropas avançam pelo território, destruindo assentamentos e enfraquecendo as forças que ainda tentavam resistir."
+                },
+                {
+                    "data": "1773 | Ano unificado",
+                    "titulo": "O cerco e a queda de BilyonNilt",
+                    "descricao": "As forças invasoras cercam a capital e lançam ataques noturnos. BilyonNilt resiste durante dez dias, mas acaba sendo conquistada. O palácio é incendiado. O Emi-Imperador evacua parte da cidade, porém permanece para lutar ao lado de seus homens e morre durante a batalha."
+                },
+                {
+                    "data": "1775 | Ano unificado",
+                    "titulo": "O fim da resistência imperial",
+                    "descricao": "Os últimos focos organizados de resistência do Império do Sol são destruídos. Sem um governo capaz de recuperar o território, a antiga civilização perde sua independência e deixa de existir como potência soberana."
+                },
+                {
+                    "data": "1780 | Ano unificado",
+                    "titulo": "O nascimento dos Emirados Arcaídos",
+                    "descricao": "Os povos invasores estabelecem seu domínio sobre as antigas terras imperiais e renomeiam o território como Emirados Arcaídos. O novo nome passa a simbolizar tanto a queda do antigo império quanto a perda de sua autonomia política e de sua antiga glória."
+                }
+            ]
+        },
+        {
+            "tipo": "Ocupação, Reconstrução e Decadência",
+            "periodo": "1805–Presente | Ano unificado",
+            "conteudo": "Os Emirados Arcaídos passam a existir sob administrações dependentes de potências estrangeiras. A ocupação reorganiza o território conforme interesses externos, preservando o controle de áreas estratégicas e deixando grande parte da população à margem da recuperação econômica. Projetos de reconstrução surgem ao longo dos séculos, mas a instabilidade, a criminalidade e as disputas de poder impedem o retorno da antiga prosperidade.",
+            "eventos": [
+                {
+                    "data": "1805 | Ano unificado",
+                    "titulo": "A criação do governo administrativo",
+                    "descricao": "Os Emirados Arcaídos recebem um representante administrativo e um governo criado e financiado pelos povos invasores. Uma nova moeda oficial, vinculada à potência dominante, é estabelecida. A administração passa a funcionar sob dependência externa, sem recuperar a soberania perdida."
+                },
+                {
+                    "data": "1816 | Ano unificado",
+                    "titulo": "A retirada parcial da URID",
+                    "descricao": "Os povos invasores, que se identificam como URID e constituem o verdadeiro poder imperial sobre a região, abandonam parte das terras ocupadas. Entretanto, mantêm presença e controle em áreas estratégicas, incluindo a região do Rio Negro, o Porto de Águas Claras e as planícies dos Fios de Ouro."
+                },
+                {
+                    "data": "1834 | Ano unificado",
+                    "titulo": "Trilhas da Esperança",
+                    "descricao": "Leonard D. Vinci, em colaboração com a Liga das Nações Unidas (LNU), desenvolve o projeto Trilhas da Esperança. A iniciativa propõe criar um conjunto de cidades e promover projetos de recuperação contra a desertificação, buscando reconstruir áreas devastadas e oferecer novas oportunidades à população."
+                },
+                {
+                    "data": "Presente | Ano unificado",
+                    "titulo": "Uma nação sem lei e sem estabilidade",
+                    "descricao": "Os Emirados Arcaídos permanecem marcados pela guerra civil, pela instabilidade e pela ausência de uma autoridade efetiva. Corporações privadas e organizações criminosas disputam o controle territorial, enquanto um governo fantoche mantém influência limitada à capital. BilyonNilt, a maior cidade remanescente da antiga nação, conserva o comércio livre, mas sofre com o policiamento fraco, as disputas entre grupos armados e as intervenções de soldados imperiais. As gangues Cavaleiros da Liberdade e Filhos de Arashan disputam influência, sendo os Filhos de Arashan uma força dominante na capital e frequente adversária das tropas imperiais. A moeda local vale aproximadamente 0,20 da moeda internacional Ribakusho. Parte da população vive como nômade pelo deserto; outros sonham em emigrar para o império em busca de condições de vida um pouco menos precárias, mesmo que isso signifique apenas ter acesso regular a alimentos. Entre as ruínas da antiga grandeza, ainda existem aqueles que desejam recuperar a liberdade e a glória perdidas."
+                }
+            ]
+        }
+    ]
+}
+            ]
+        },
+        {
+            "id": "estrutura-politica",
+            "icone": "⚖️",
+            "titulo": "Estrutura Política",
+            "subsecoes": [
+                {
+                    "id": "forma-de-governo",
+                    "titulo": "Forma de governo",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "lideres-principais",
+                    "titulo": "Líderes principais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "sucessao-eleicao",
+                    "titulo": "Forma de sucessão ou eleição",
+                    "texto": ""
+                },
+                {
+                    "id": "leis-sistema-judicial",
+                    "titulo": "Leis e sistema judicial",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "tabela",
+                            "titulo": "",
+                            "colunas": [
+                                "Princípio",
+                                "Descrição"
+                            ],
+                            "linhas": []
+                        }
+                    ]
+                },
+                {
+                    "id": "organizacao-militar",
+                    "titulo": "Organização militar e de defesa",
+                    "blocos": [
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "faccoes-politicas",
+                    "titulo": "Facções políticas internas",
+                    "faccoes": [
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "interesses-atuais",
+                    "titulo": "Interesses atuais",
+                    "blocos": [
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "relacoes-internacionais",
+            "icone": "🌍",
+            "titulo": "Relações Internacionais e Diplomacia",
+            "subsecoes": [
+                {
+                    "id": "aliados-inimigos",
+                    "titulo": "Aliados e inimigos históricos",
+                    "blocos": [
+                        {
+                            "tipo": "comparacao",
+                            "titulo": "",
+                            "ladoA": {
+                                "titulo": "",
+                                "descricao": "",
+                                "itens": []
+                            },
+                            "ladoB": {
+                                "titulo": "",
+                                "descricao": "",
+                                "itens": []
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "tratados-acordos",
+                    "titulo": "Tratados e acordos vigentes",
+                    "blocos": [
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "influencia-cultural",
+                    "titulo": "Influência cultural externa",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "influencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "influencia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "espionagem-diplomacia",
+                    "titulo": "Espionagem e diplomacia secreta",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "postura-internacional",
+                    "titulo": "Postura internacional atual",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "conflitos-ativos",
+                    "titulo": "Conflitos ativos e tensões escaláveis",
+                    "blocos": [
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "percepcao-internacional",
+                    "titulo": "Percepção internacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "dependencias-estrategicas",
+                    "titulo": "Dependências estratégicas",
+                    "blocos": [
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "problemas-contradicoes",
+            "icone": "💀",
+            "titulo": "Problemas e Contradições",
+            "subsecoes": [
+                {
+                    "id": "desigualdades-sociais",
+                    "titulo": "Desigualdades sociais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "geografia-territorio",
+            "icone": "🗺️",
+            "titulo": "Geografia e Território",
+            "subsecoes": [
+                {
+                    "id": "capital",
+                    "titulo": "Capital",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "principais-cidades",
+                    "titulo": "Principais cidades",
+                    "blocos": [
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "clima-geografia",
+                    "titulo": "Clima e geografia natural",
+                    "blocos": [
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "recursos-naturais",
+                    "titulo": "Recursos naturais",
+                    "blocos": [
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "regioes-notaveis",
+                    "titulo": "Regiões notáveis",
+                    "blocos": [
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fronteiras-vizinhas",
+                    "titulo": "Fronteiras e nações vizinhas",
+                    "blocos": [
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vida-selvagem",
+            "icone": "🐉",
+            "titulo": "Vida Selvagem e Ecossistema",
+            "subsecoes": [
+                {
+                    "id": "fauna-dominante",
+                    "titulo": "Fauna dominante",
+                    "blocos": [
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "especies-unicas",
+                    "titulo": "Espécies únicas ou simbólicas",
+                    "blocos": [
+                        {
+                            "tipo": "especie-simbolica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie-simbolica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "criaturas-lendarias",
+                    "titulo": "Criaturas ameaçadoras ou lendárias",
+                    "blocos": [
+                        {
+                            "tipo": "criatura-lendaria",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "criatura-lendaria",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "humanos-natureza",
+                    "titulo": "Relação entre humanos e natureza",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fauna-tecnologia",
+                    "titulo": "Uso da fauna na tecnologia",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "arquitetura-monumentos",
+            "icone": "🏛️",
+            "titulo": "Arquitetura e Monumentos",
+            "subsecoes": [
+                {
+                    "id": "estilo-arquitetonico",
+                    "titulo": "Estilo arquitetônico predominante",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "megaestruturas",
+                    "titulo": "Megaestruturas imperiais",
+                    "blocos": [
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "monumentos-historicos",
+                    "titulo": "Monumentos históricos",
+                    "blocos": [
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "edificios-importantes",
+                    "titulo": "Edifícios e instituições emblemáticas",
+                    "blocos": [
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "simbolismo-urbano",
+                    "titulo": "Simbolismo urbano",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "simbolo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "simbolo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "obras-engenharia",
+                    "titulo": "Grandes obras de engenharia",
+                    "blocos": [
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cultura-valores",
+            "icone": "🎭",
+            "titulo": "Cultura, Valores e Sociedade",
+            "subsecoes": [
+                {
+                    "id": "virtudes",
+                    "titulo": "Virtudes e ideais predominantes",
+                    "blocos": [
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "cultura-profunda",
+                    "titulo": "Cultura profunda",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "estrutura-social-cultural",
+                    "titulo": "Estrutura social",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tabela",
+                            "titulo": "",
+                            "colunas": [
+                                "Conceito",
+                                "Importância"
+                            ],
+                            "linhas": []
+                        }
+                    ]
+                },
+                {
+                    "id": "familia-relacoes",
+                    "titulo": "Família e relações pessoais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "visao-morte",
+                    "titulo": "Visão sobre morte e legado",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "arte-narrativas",
+                    "titulo": "Arte e narrativas populares",
+                    "blocos": [
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "filosofia-tradicao",
+            "icone": "📖",
+            "titulo": "Filosofia e Tradição",
+            "subsecoes": [
+                {
+                    "id": "doutrina-moral",
+                    "titulo": "Doutrina moral e ética",
+                    "blocos": [
+                        {
+                            "tipo": "Resumo",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "feriados-celebracoes",
+                    "titulo": "Feriados e celebrações",
+                    "blocos": [
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "costumes-ancestrais",
+                    "titulo": "Costumes ancestrais",
+                    "blocos": [
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "religiao",
+            "icone": "⛪",
+            "titulo": "Religião e Espiritualidade",
+            "subsecoes": [
+                {
+                    "id": "visao-espiritual",
+                    "titulo": "Visão espiritual predominante",
+                    "blocos": [
+                        {
+                            "tipo": "Resumo",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "crencas-principais",
+                    "titulo": "Crenças principais",
+                    "blocos": [
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "instituicoes-religiosas",
+                    "titulo": "Instituições religiosas",
+                    "blocos": [
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "rituais-cerimonias",
+                    "titulo": "Rituais e cerimônias",
+                    "blocos": [
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "morte-pos-vida",
+                    "titulo": "Morte e pós-vida",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "relacao-ciencia",
+                    "titulo": "Religião e ciência",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "variacoes-religiosas",
+                    "titulo": "Variações religiosas internas",
+                    "blocos": [
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "populacao",
+            "icone": "👥",
+            "titulo": "População e Sociedade",
+            "subsecoes": [
+                {
+                    "id": "quantidade-distribuicao",
+                    "titulo": "Quantidade e distribuição populacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "composicao-social",
+                    "titulo": "Composição social",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "vida-popular",
+                    "titulo": "Vida cotidiana da população",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "crescimento-populacional",
+                    "titulo": "Crescimento populacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "grupos-minoritarios",
+                    "titulo": "Grupos minoritários",
+                    "blocos": [
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "identidade-populacional",
+                    "titulo": "Identidade e mentalidade coletiva",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "estrutura-social",
+            "icone": "🏰",
+            "titulo": "Estrutura Social",
+            "subsecoes": [
+                {
+                    "id": "sistema-casas",
+                    "titulo": "Sistema de Casas",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "hierarquia-social",
+                    "titulo": "Hierarquia social",
+                    "blocos": [
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "mobilidade-social",
+                    "titulo": "Mobilidade social",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "papel-individuo",
+                    "titulo": "Papel do indivíduo",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "familia-e-criacao",
+                    "titulo": "Família e criação dos jovens",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "conflitos-sociais",
+                    "titulo": "Conflitos sociais",
+                    "blocos": [
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "visao-social",
+                    "titulo": "Visão coletiva da sociedade",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ciencia-tecnologia",
+            "icone": "⚙️",
+            "titulo": "Ciência e Tecnologia",
+            "subsecoes": [
+                {
+                    "id": "visao-cientifica",
+                    "titulo": "Visão científica e tecnológica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "areas-cientificas",
+                    "titulo": "Principais áreas científicas",
+                    "blocos": [
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "tecnologias-principais",
+                    "titulo": "Tecnologias principais",
+                    "blocos": [
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "instituicoes-cientificas",
+                    "titulo": "Instituições científicas",
+                    "blocos": [
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "ciencia-e-casas",
+                    "titulo": "Controle das Casas sobre ciência",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "ciencia-militar",
+                    "titulo": "Aplicações militares",
+                    "blocos": [
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "limites-eticos",
+                    "titulo": "Limites éticos e conflitos",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "economia",
+            "icone": "💰",
+            "titulo": "Economia",
+            "subsecoes": [
+                {
+                    "id": "modelo-economico",
+                    "titulo": "Modelo econômico predominante",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "setores-economicos",
+                    "titulo": "Principais setores econômicos",
+                    "blocos": [
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "recursos-estrategicos",
+                    "titulo": "Recursos estratégicos",
+                    "blocos": [
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "papel-das-casas",
+                    "titulo": "Papel das Casas na economia",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "trabalho-profissoes",
+                    "titulo": "Trabalho e profissões",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "comercio-internacional",
+                    "titulo": "Comércio internacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "desigualdade-economica",
+                    "titulo": "Desigualdade econômica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "filosofia-economica",
+                    "titulo": "Filosofia econômica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "curiosidade",
+            "icone": "💡",
+            "titulo": "Curiosidades da URID",
+            "subsecoes": [
+                {
+                    "id": "fatos-gerais",
+                    "titulo": "Fatos gerais",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "cultura-curiosa",
+                    "titulo": "Costumes curiosos",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "tecnologia-curiosa",
+                    "titulo": "Curiosidades tecnológicas",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "curiosidades-historicas",
+                    "titulo": "Curiosidades históricas",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "curiosidades-sociais",
+                    "titulo": "Curiosidades sociais",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fatos-incomuns",
+                    "titulo": "Fatos incomuns",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "videoAntesDasConexoes": {
+        "titulo": "",
+        "descricao": "",
+        "youtube": "",
+        "videoLocal": "",
+        "imagemCapa": ""
+    },
+    "relacionados": {
+        "personagens": [
+            ""
+        ],
+        "organizacoes": [
+            ""
+        ],
+        "localizacoes": [
+            ""
+        ],
+        "equipamentos": [
+            ""
+        ],
+        "eventos": [
+            ""
+        ],
+        "documentos": [
+            ""
+        ],
+        "tecnologias": [
+            ""
+        ],
+        "historias": [
+            ""
+        ],
+        "contos": [
+            ""
+        ]
+    },
+    "galeria": {
+        "titulo": "Imagens do Tema",
+        "descricao": "",
+        "imagens": [
+            {
+                "src": "",
+                "alt": "",
+                "legenda": ""
+            }
+        ]
+    }
+}

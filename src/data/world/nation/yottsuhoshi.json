@@ -1,0 +1,2372 @@
+{
+    "id": "yottsuhoshi",
+    "slug": "",
+    "tipo": "nacao",
+    "identificacao": {
+        "categoria": "Nação",
+        "codigo": "",
+        "registro": "",
+        "nome": "Federação de Yottsu Hoshi",
+        "subtitulo": "Filhos do Mar e do Destino"
+    },
+    "versao": {
+        "criado": "",
+        "atualizado": "",
+        "versao": "1.0"
+    },
+    "tags": [
+        "Localização",
+        "Nação"
+    ],
+    "fontes": [
+        {
+            "tipo": "Reconstrução Memética",
+            "integridade": "~41%",
+            "origem": "104 — Sondagem Neurológica"
+        },
+        {
+            "tipo": "Análise de Consistência",
+            "integridade": "~36%",
+            "origem": "211 — Arquivos Embasados"
+        }
+    ],
+    "midiaTopo": {
+        "tipo": "video",
+        "imagemCapa": "",
+        "videoLocal": "",
+        "youtube": ""
+    },
+    "resumo": {
+        "midia": {
+            "tipo": "imagem",
+            "src": "",
+            "alt": ""
+        },
+        "campos": [
+            {
+                "rotulo": "Nome oficial",
+                "valor": ""
+            },
+            {
+                "rotulo": "Capital",
+                "valor": ""
+            },
+            {
+                "rotulo": "Dilema",
+                "valor": ""
+            },
+            {
+                "rotulo": "Língua",
+                "valor": ""
+            },
+            {
+                "rotulo": "Religião",
+                "valor": ""
+            },
+            {
+                "rotulo": "Cultura",
+                "valor": ""
+            },
+            {
+                "rotulo": "Moeda",
+                "valor": ""
+            },
+            {
+                "rotulo": "Padrão Fonotático",
+                "valor": ""
+            },
+            {
+                "rotulo": "Tecnologia predominante",
+                "valor": ""
+            },
+            {
+                "rotulo": "Situação política",
+                "valor": ""
+            }
+        ]
+    },
+    "estatisticas": {
+        "titulo": "Status da nação",
+        "indicadores": [
+            {
+                "indicador": "População",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "PIB",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Moeda",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Estabilidade política",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Poder militar (M.A.T)",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Nível tecnológico",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "IDH",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Influência Global",
+                "pontuacao": "",
+                "notas": ""
+            }
+        ]
+    },
+    "indice": {
+        "automatico": true,
+        "fixo": true
+    },
+    "cronologia": [],
+    "citacoes": [
+        {
+            "texto": "",
+            "autor": ""
+        },
+        {
+            "texto": "",
+            "autor": ""
+        }
+    ],
+    "secoes": [
+        {
+            "id": "historia",
+             "icone": "🕰️",
+            "titulo": "História",
+            "subsecoes": [
+                {
+                    "id": "resumo-historico",
+                    "titulo": "História da Federação",
+                    "blocos": [
+                        {
+                            "tipo": "01 — O Bailar das Estações e a Civilização das Quatro Famílias",
+                            "conteudo": "A identidade histórica da Federação de Yottsu Hoshi começa antes da existência de suas instituições políticas, de suas fronteiras e até mesmo de uma cronologia reconhecida. Suas origens pertencem à tradição mítica do arquipélago, preservada em poemas, provérbios, cerimônias e ensinamentos transmitidos entre gerações. No centro dessa tradição está Yottsu Hoshi, figura divina descrita como um presente dos deuses à humanidade. Segundo A Primeira Estação, o poema da criação, Yottsu Hoshi nasceu adulto nas profundezas do oceano, emergindo de um mundo anterior à organização conhecida da vida humana. Seu nascimento não é tratado simplesmente como o surgimento de um governante ou herói, mas como o início de uma relação entre os homens, a natureza e as forças espirituais que existem além da compreensão mortal.\n\nA tradição não estabelece uma data histórica verificável para seu nascimento. O acontecimento pertence ao tempo mítico, anterior à contagem dos anos preservada pelos registros conhecidos. Por isso, as diferentes comunidades interpretam A Primeira Estação como uma narrativa sobre a origem do mundo, a consciência humana e a responsabilidade de viver em equilíbrio com aquilo que não se pode dominar. O oceano ocupa uma posição central nessa interpretação. Ele oferece alimento, conecta territórios, transporta viajantes e sustenta o comércio, mas também pode destruir cidades, separar famílias e engolir embarcações. É simultaneamente fonte de vida, caminho para o desconhecido e lembrança permanente da fragilidade humana.\n\nO conjunto de ensinamentos conhecido como Bailar das Estações desenvolveu-se a partir dessa visão. Seus poemas associam os ciclos naturais às experiências humanas: a maré ensina sobre retorno, o vento representa a mudança, a floração simboliza o nascimento de possibilidades e a tempestade recorda que nenhuma ordem permanece intacta para sempre. Essas imagens não possuem uma única interpretação obrigatória. Mestres, poetas, navegadores e estudiosos elaboraram escolas de pensamento distintas, discutindo os significados dos mesmos versos e aplicando-os à vida cotidiana, à administração das comunidades e à formação pessoal. O conhecimento não era preservado apenas para ser repetido. Esperava-se que cada geração interpretasse os ensinamentos à luz das dificuldades que enfrentava, sem romper completamente com a memória daqueles que vieram antes.\n\nA espiritualidade de Yottsu Hoshi não se limita a templos ou cerimônias. Ela influencia a maneira como os habitantes compreendem a disciplina, a autoridade, a morte, o trabalho e a responsabilidade coletiva. A prática da espada, por exemplo, foi gradualmente integrada à filosofia. O treinamento marcial exige domínio do corpo, controle das emoções, atenção ao adversário e compreensão do momento apropriado para agir. A vitória obtida sem discernimento pode ser considerada inferior à retirada que preserva vidas, enquanto a força utilizada por orgulho é vista como sinal de desequilíbrio. Isso não significa que a sociedade rejeite a violência em todas as circunstâncias, mas que a capacidade de lutar deve estar acompanhada de uma reflexão sobre suas consequências. A espada é, ao mesmo tempo, instrumento de defesa, expressão artística e caminho de aperfeiçoamento interior.\n\nO arquipélago desenvolveu-se por meio de comunidades insulares com costumes e necessidades diferentes. A distância entre as ilhas exigia conhecimentos de navegação, acordos de comércio e mecanismos de cooperação. As quatro grandes famílias tradicionais assumiram funções centrais na preservação dessa civilização. Sua autoridade estava ligada à continuidade das comunidades, à proteção das rotas, à transmissão do conhecimento e à manutenção de práticas religiosas e políticas. Cada família representava uma parte da ordem social, mas nenhuma conseguia sustentar sozinha toda a civilização insular. A necessidade de convivência impunha negociações, alianças e formas de resolver disputas sem destruir as redes das quais todas dependiam.\n\nAs famílias não eliminaram as diferenças entre as comunidades. Em vez disso, a civilização desenvolveu uma estrutura na qual tradições locais podiam coexistir sob princípios compartilhados. Os poemas ofereciam uma linguagem comum, mesmo quando sua interpretação variava; as rotas marítimas ligavam mercados distantes; e os costumes permitiam reconhecer obrigações que ultrapassavam os limites de uma única ilha. O resultado foi uma sociedade cuja unidade era cultural e espiritual antes de se tornar plenamente política.\n\nA relação com o Mar dos Viajantes aprofundou essa unidade. O mar não era apenas uma região navegável ou uma fonte de recursos. Era considerado o centro vital da civilização e um espaço de transição entre o mundo físico e o espiritual. Os viajantes partiam para buscar conhecimento, comerciar ou descobrir novas terras, mas também carregavam consigo a possibilidade de nunca retornar. A morte no oceano adquiria significados religiosos próprios, e a memória daqueles que desapareciam era incorporada às histórias das famílias e aos poemas cantados nas comunidades costeiras.\n\nEm 800, realizou-se o Primeiro Desabrochar Espiritual, um festival associado à crença de que o véu entre o mundo físico e o espiritual se tornava temporariamente mais frágil. A cerimônia passou a ocorrer a cada sessenta anos e consolidou o Mar dos Viajantes como o principal centro espiritual do arquipélago. O festival reúne a memória dos antepassados, a reflexão sobre a impermanência e a esperança de que a existência não se encerre inteiramente no mundo conhecido. Sua importância não depende de comprovar literalmente a passagem entre os mundos: a celebração também oferece às comunidades uma ocasião para recordar perdas, renovar compromissos e transmitir tradições.\n\nA civilização das quatro famílias alcançou, assim, uma forma de estabilidade que não dependia da uniformidade absoluta. Sua unidade vinha da combinação entre memória, comércio, filosofia e responsabilidade compartilhada. Contudo, essa organização havia sido desenvolvida em um contexto no qual as ameaças externas não possuíam a escala industrial que mais tarde transformaria a guerra marítima. As mesmas práticas que incentivavam a abertura a viajantes e a troca de conhecimentos seriam colocadas à prova quando estrangeiros chegassem ao arquipélago com interesses que ultrapassavam a convivência comercial."
+                        },
+                        {
+                            "tipo": "02 — A Tempestade Eterna e a Promessa da Última Estação",
+                            "conteudo": "Entre os relatos mais importantes da tradição de Yottsu Hoshi está a história da tempestade que atingiu o arquipélago a partir do ano 480. Diferentemente das tempestades comuns, que os navegadores esperavam atravessar ou contornar, essa calamidade persistiu por tempo suficiente para ameaçar a própria continuidade das comunidades insulares. A chuva tornou-se constante, os ventos atingiram níveis extremos e as águas avançaram sobre terras habitadas. Portos, caminhos, campos e moradias foram submetidos a inundações, enquanto a navegação se tornava cada vez mais perigosa. O mar, que durante gerações sustentara a prosperidade do arquipélago, passou a parecer uma força sem limites, capaz de retirar dos habitantes tudo aquilo que haviam construído.\n\nO acontecimento deu origem ao poema A Tempestade, uma obra central da memória coletiva. O poema não descreve a calamidade apenas como um desastre natural. Ele apresenta a tempestade como uma prova dos limites da vontade humana e como uma ruptura na relação entre a sociedade e o mundo ao seu redor. As comunidades podiam preparar embarcações, reconstruir abrigos e organizar a distribuição de recursos, mas não conseguiam ordenar que o vento cessasse. O sofrimento obrigou os habitantes a reconhecer que a disciplina e a sabedoria não garantem controle absoluto sobre a existência. Ao mesmo tempo, a resposta coletiva demonstrou que a incapacidade de dominar uma calamidade não equivale à incapacidade de enfrentá-la.\n\nEm 495, Yottsu Hoshi partiu em uma expedição com o objetivo de pôr fim à tempestade. A tradição não reduz sua partida a uma campanha militar comum. A expedição representa a disposição de atravessar os limites conhecidos para enfrentar uma ameaça que colocava em risco a continuidade do povo. Sua ausência prolongada tornou-se parte essencial do poema. Enquanto as comunidades tentavam sobreviver, a figura de Yottsu Hoshi passou a representar tanto a esperança de salvação quanto a incerteza de quem aguarda alguém que talvez jamais retorne. O tempo da espera foi incorporado à interpretação do Bailar das Estações: há momentos em que a ação exige abandonar a segurança imediata, mas a decisão de partir também transfere um peso para aqueles que permanecem.\n\nEm 501, a tempestade terminou. O encerramento da calamidade concluiu o ciclo narrado em A Tempestade, mas não significou que Yottsu Hoshi retornou ao arquipélago. Antes de desaparecer no horizonte, ele deixou a promessa de que voltaria na Última Estação, quando salvaria seu povo e o guiaria para além do mar. Essa promessa tornou-se uma das ideias mais duradouras da espiritualidade local. Yottsu Hoshi passou a representar a possibilidade de que uma crise não seja o último capítulo de uma civilização, mesmo quando sua solução não pode ser plenamente compreendida por aqueles que a atravessam.\n\nA Última Estação não é entendida apenas como uma data futura registrada em calendários. É uma expectativa religiosa e filosófica associada à conclusão de um ciclo e ao início de outro. Algumas interpretações enfatizam o retorno literal de Yottsu Hoshi; outras tratam a promessa como um ensinamento sobre a transformação necessária para que um povo sobreviva às próprias dificuldades. A tradição preserva essas interpretações sem exigir que todas sejam reduzidas a uma única explicação. A promessa permanece importante justamente porque permite que gerações diferentes encontrem nela respostas para problemas que não existiam quando os versos foram compostos.\n\nA conclusão da tempestade também reforçou a centralidade do mar na organização cultural do arquipélago. O oceano não podia ser visto apenas como território a conquistar ou recurso a explorar. Ele era uma força que podia oferecer prosperidade e, ao mesmo tempo, revelar a insuficiência das instituições humanas. A experiência ensinou a importância da preparação, da cooperação e da preservação do conhecimento, valores que mais tarde seriam reinterpretados em termos militares e industriais.\n\nCom o passar dos séculos, A Tempestade passou a ser estudada junto de A Primeira Estação e do Bailar das Estações. Os três elementos formaram uma base narrativa para compreender a origem da humanidade, a relação com o mundo natural e a possibilidade de renovação depois da catástrofe. Os poemas não impediram conflitos nem garantiram decisões moralmente corretas, mas ofereceram à sociedade uma linguagem para discutir a responsabilidade e o preço da sobrevivência.\n\nA história da tempestade também deixou uma contradição que reapareceria na política federativa. Se nenhuma ordem é permanente e toda comunidade deve se adaptar às mudanças, até que ponto uma sociedade pode transformar-se sem abandonar seus princípios? A resposta nunca foi definitiva. Nos séculos seguintes, essa pergunta acompanharia a transição de uma civilização insular relativamente autônoma para uma nação ocupada, industrializada e determinada a impedir que qualquer potência estrangeira pudesse submetê-la novamente."
+                        },
+                        {
+                            "tipo": "03 — Os Distantes e a Queda da Ordem Antiga",
+                            "conteudo": "Em 1206, embarcações estrangeiras chegaram ao arquipélago. Seus tripulantes foram chamados de Distantes, nome que expressava sua procedência de terras além das rotas conhecidas pelos habitantes locais. A chegada não provocou uma ruptura imediata. Os poemas tradicionais já falavam de viajantes provenientes de horizontes desconhecidos, de modo que a presença de outros povos podia ser interpretada como parte da vastidão do mundo, e não como uma ameaça inevitável. As comunidades receberam os estrangeiros, estabeleceram relações comerciais e permitiram que conhecimentos, costumes e práticas circulassem entre os dois lados.\n\nA recepção dos Distantes refletia a experiência histórica de uma civilização formada por ilhas conectadas pelo comércio. Os habitantes sabiam que a sobrevivência dependia da circulação de mercadorias, da manutenção das rotas e da capacidade de estabelecer relações com comunidades diferentes. O estrangeiro não era automaticamente inimigo, e o contato podia produzir benefícios para ambas as partes. Ao mesmo tempo, a abertura comercial criou oportunidades para que os recém-chegados conhecessem a geografia do arquipélago, seus portos, seus recursos e as diferenças políticas entre as quatro famílias.\n\nA tradição posterior não interpreta a chegada de 1206 como um erro simples cometido por uma sociedade ingênua. Os habitantes agiram de acordo com suas experiências e valores, em um contexto no qual não havia ainda motivo suficiente para tratar todo contato externo como uma operação militar disfarçada. A ruptura ocorreu quando os interesses dos Distantes se tornaram incompatíveis com a autonomia das comunidades insulares. O intercâmbio, que havia permitido a circulação de conhecimentos, também possibilitou que os estrangeiros reunissem informações sobre os territórios e preparassem uma presença muito mais poderosa.\n\nEm 1513, os Distantes retornaram com centenas de navios de metal e atacaram o arquipélago. A diferença entre as frotas foi decisiva. As embarcações das quatro famílias, desenvolvidas segundo as tradições marítimas locais, não conseguiram resistir à superioridade material e militar dos invasores. As Batalhas do Mar do Oriente destruíram a capacidade naval que sustentava a autonomia das ilhas. A derrota não foi apenas uma perda de embarcações: significou a ruptura dos mecanismos pelos quais as comunidades protegiam suas rotas, abasteciam seus portos e mantinham contato umas com as outras.\n\nA vitória dos Distantes impôs mudanças territoriais e políticas. Parte das terras do arquipélago foi cedida aos invasores, formando as províncias de Françoys e Inglaterya. Esses territórios passaram a representar uma presença estrangeira permanente dentro do espaço histórico da civilização. A perda de liberdade para navegar para além de determinadas áreas limitou a atuação das antigas famílias, enquanto Teiko deixou de estar sob seu controle. A ocupação criou uma situação na qual os habitantes precisavam conviver com os mesmos estrangeiros que haviam destruído suas frotas, sob condições estabelecidas por uma força que não podiam enfrentar diretamente.\n\nA derrota provocou uma crise de confiança na ordem antiga. As quatro famílias possuíam autoridade histórica e conhecimento das tradições, mas não haviam conseguido impedir a invasão. A legitimidade baseada na continuidade cultural precisava agora demonstrar que também podia produzir proteção efetiva. A civilização compreendeu que seus conhecimentos marítimos e sua coesão social não bastariam contra adversários com uma base industrial e uma capacidade de mobilização muito superiores. A sobrevivência exigiria aprender com o inimigo, reorganizar a autoridade e abandonar a expectativa de que os costumes antigos, por si só, garantiriam a segurança futura.\n\nEm 1516, as quatro famílias uniram suas autoridades e fundaram a Federação de Yottsu Hoshi. A nova estrutura política surgiu como resposta à ocupação e à ameaça de desintegração. Em vez de permitir que cada família enfrentasse os invasores isoladamente, a Federação estabeleceu uma forma de coordenação voltada à defesa coletiva, à reconstrução e à recuperação gradual da soberania. A união não apagou as linhagens tradicionais nem eliminou suas diferenças, mas colocou a sobrevivência do arquipélago acima da autonomia irrestrita de cada uma delas.\n\nA fundação da Federação alterou o significado da unidade nacional. Antes da invasão, a civilização podia permanecer unida por práticas compartilhadas sem depender de uma autoridade central tão abrangente. Depois de 1513, a fragmentação passou a representar um risco estratégico. A coordenação militar, o acesso a recursos e a administração de longo prazo exigiam decisões que ultrapassavam os limites de uma única ilha. A Federação transformou essa necessidade em um princípio de governo: a autonomia local deveria coexistir com uma estrutura capaz de agir em nome do conjunto.\n\nA ocupação também deixou uma ferida cultural duradoura. O povo que havia recebido os Distantes como viajantes passou a associar o contato estrangeiro à possibilidade de dependência e conquista. A memória da derrota não apagou a tradição de abertura ao mundo, mas criou uma nova exigência: qualquer relação externa deveria ser avaliada não apenas por seus benefícios imediatos, mas também pelos riscos que poderia produzir para a soberania. Essa mudança de perspectiva moldaria o desenvolvimento tecnológico, a diplomacia e as práticas clandestinas da Federação durante os séculos seguintes."
+                        },
+                        {
+                            "tipo": "04 — A Forja da Autonomia e a Guerra Invisível",
+                            "conteudo": "A fundação da Federação, em 1516, não devolveu imediatamente ao arquipélago a capacidade de decidir seu próprio destino. Os Distantes continuavam a controlar territórios, restringiam a circulação marítima e possuíam uma vantagem industrial que tornava perigoso qualquer confronto direto. A Federação precisava reconstruir suas forças sem oferecer aos ocupantes uma razão ou oportunidade para destruir o pouco que restava de sua autonomia. Por isso, os primeiros anos foram dedicados à aprendizagem, à reorganização interna e à busca de meios para reduzir a dependência tecnológica.\n\nEntre 1516 e 1526, estudiosos, artesãos e especialistas federativos passaram a observar e absorver as tecnologias estrangeiras acessíveis nas províncias de Françoys e Inglaterya. Essas províncias funcionavam como uma porta entre o arquipélago e o sistema industrial dos Distantes. O contato permitia conhecer máquinas, ferramentas e métodos de produção, mas o acesso aos equipamentos e aos mercados era limitado por interesses comerciais monopolistas. Os ocupantes procuravam manter a dependência das regiões subordinadas, impedindo que o conhecimento necessário à autonomia se transformasse em capacidade produtiva independente.\n\nA Federação respondeu tratando a aprendizagem técnica como uma questão de segurança nacional. A observação de mecanismos era acompanhada por tentativas de reproduzi-los, adaptar seus princípios e compreender as condições que permitiam seu funcionamento. O objetivo não era simplesmente adquirir produtos estrangeiros, mas dominar os conhecimentos necessários para construí-los, repará-los e modificá-los sem depender permanentemente de seus fabricantes. Esse processo foi gradual. A Federação não se tornou uma potência industrial de um dia para o outro; precisou formar especialistas, preservar registros, organizar oficinas e desenvolver métodos de trabalho que pudessem ser repetidos por diferentes equipes.\n\nEm 1527, especialistas civis federativos começaram a ingressar na Companhia Ocidental do Novo Comércio, conhecida como CONC. A presença desses profissionais em redes comerciais estrangeiras ampliou o alcance da aprendizagem para além das províncias ocupadas. Técnicos, comerciantes e outros trabalhadores passaram a circular por regiões onde os conhecimentos industriais e as informações estratégicas podiam ser obtidos com maior facilidade. Essa expansão alcançou Medrimart e criou canais de influência que não dependiam exclusivamente do controle territorial. A Federação podia estar politicamente subordinada em determinadas áreas e, ainda assim, construir relações capazes de ampliar seu conhecimento e sua presença em outras partes do mundo.\n\nEm 1530, o governo federativo iniciou a operação Caixa 2, um programa clandestino de financiamento de grupos e revoltas dentro das áreas controladas pelos Distantes. A operação tinha como objetivo desviar a atenção da administração da CONC, estimular disputas entre interesses rivais e dificultar a manutenção de um controle estrangeiro coordenado. Em vez de tentar derrotar militarmente uma estrutura mais poderosa, a Federação procurava fazer com que essa estrutura desperdiçasse recursos enfrentando problemas internos. O conflito passou a ocorrer também no campo econômico e político, longe das batalhas marítimas que haviam destruído as antigas frotas.\n\nA Caixa 2 marcou uma transformação importante na cultura estratégica federativa. A defesa da soberania passou a justificar ações que não poderiam ser reduzidas à guerra convencional. O financiamento clandestino de grupos, a manipulação de disputas e o uso de redes comerciais permitiam exercer pressão sem revelar diretamente a participação do Estado. Essas práticas eram consideradas úteis porque ofereciam resultados que a Federação ainda não conseguia obter por meio de uma frota aberta ou de um confronto territorial. Ao mesmo tempo, criavam uma contradição moral: para escapar da dominação estrangeira, a Federação aprendia a interferir nos conflitos de outros povos e a utilizar a instabilidade como instrumento.\n\nEm 1550, o conhecimento acumulado permitiu dominar a tecnologia a vapor a ponto de desenvolver novas invenções e estabelecer princípios próprios de engenharia. Foi nesse processo que se consolidou a tradição thermopunk federativa. Sua identidade tecnológica não se limitava à imitação de modelos estrangeiros. As máquinas eram adaptadas às necessidades de navegação, defesa e produção do arquipélago, e o aprendizado passou a gerar novas soluções. A autonomia industrial tornou-se uma realidade progressiva, sustentada por oficinas, especialistas, experimentação e transmissão de conhecimentos.\n\nEm 1560, a Federação iniciou a construção de numerosos navios a vapor em estaleiros internos conectados por canais. As instalações foram organizadas para proteger embarcações e conhecimentos estratégicos. Os navios permaneciam em docas lacradas e áreas de alta segurança, dificultando a observação por agentes estrangeiros. A rede de canais facilitava a circulação interna e permitia conectar instalações sem expor toda a atividade naval aos portos mais vulneráveis. O programa de construção não era apenas uma iniciativa industrial: era uma preparação de longo prazo para que a Federação pudesse voltar a controlar suas próprias águas.\n\nDurante as gerações seguintes, o Estado continuou a acumular conhecimento, preservar especialistas e ampliar sua capacidade produtiva. A frota não precisava ser revelada antes que pudesse oferecer uma vantagem decisiva. O segredo funcionava como uma proteção contra a interferência estrangeira e como parte de uma estratégia de dissuasão futura. Quando a Federação finalmente apresentasse seus navios, deveria demonstrar que a ocupação não havia impedido o surgimento de uma potência capaz de disputar o domínio marítimo.\n\nA Forja da Autonomia, portanto, foi mais do que um período de industrialização. Ela transformou a maneira como a Federação compreendia a sobrevivência nacional. A filosofia continuou a ensinar disciplina, adaptação e equilíbrio, mas o governo passou a interpretar esses princípios também como justificativas para o segredo, a manipulação e a preparação militar. A nação aprendeu a resistir sem depender de vitórias imediatas e a utilizar o tempo como recurso estratégico. Essa capacidade sustentaria sua ascensão no século XVIII, embora o método empregado para recuperar a liberdade também ajudasse a consolidar um Estado disposto a agir nas sombras."
+                        },
+                        {
+                            "tipo": "05 — A Modernização Relâmpago e a Ascensão Naval",
+                            "conteudo": "No início do século XVIII, a Federação já havia acumulado mais de um século de aprendizagem técnica, construção naval e preparação estratégica. A indústria thermopunk havia evoluído a partir do conhecimento adquirido durante a ocupação, mas seguia uma trajetória própria, adaptada à geografia e às necessidades do arquipélago. Os estaleiros internos, conectados por canais e protegidos por instalações lacradas, permitiam produzir embarcações sem expor todos os detalhes do programa aos observadores estrangeiros. O objetivo era recuperar a liberdade de navegação e impedir que uma potência externa pudesse repetir a destruição das frotas das quatro famílias.\n\nEm 1720, a Federação abriu uma nova etapa de sua história ao posicionar uma frota de 47 navios de guerra ao redor do mar do arquipélago. A demonstração revelou uma capacidade militar que os Distantes não esperavam encontrar na antiga região ocupada. Os navios simbolizavam a conclusão de um longo processo de preparação e a mudança do equilíbrio estratégico: a Federação já não dependia exclusivamente das embarcações tradicionais e podia utilizar a tecnologia industrial para concentrar força naval em pontos decisivos.\n\nO acontecimento marcou o início da Modernização Relâmpago, um programa acelerado de transformação militar, industrial e administrativa desenvolvido ao longo da década de 1720. A modernização não consistiu apenas na produção de navios. Uma frota de guerra exigia estaleiros, abastecimento, manutenção, treinamento, comunicação e coordenação entre diferentes instalações. Também exigia uma administração capaz de reunir recursos, estabelecer prioridades e manter a produção em funcionamento. A apresentação dos 47 navios demonstrou, portanto, a existência de uma estrutura nacional que havia sido construída silenciosamente durante gerações.\n\nA Federação passou a atuar de maneira mais aberta no cenário internacional. Sua força naval permitia proteger rotas, exercer pressão sobre adversários e participar de disputas que antes estavam fora de seu alcance. A experiência da ocupação havia ensinado que a dependência de uma potência estrangeira poderia comprometer toda a sociedade. Agora, o governo procurava assegurar que nenhum rival tivesse capacidade de controlar o acesso ao Mar dos Viajantes ou impor novamente condições de submissão ao arquipélago.\n\nEm 1727, essa nova doutrina foi demonstrada pela operação Linha Azul. A Federação iniciou uma intervenção contra uma cidade não identificada nos registros aqui estabelecidos, utilizando infiltrados para estimular revoltas e contribuir para a desorganização econômica local. Enquanto os conflitos internos se intensificavam, navios federativos foram posicionados nas rotas marítimas e fecharam os acessos à cidade. Cinco protótipos de navios de artilharia permaneceram disponíveis como demonstração de força. Outros catorze navios ocos de madeira foram posicionados à distância para ampliar a impressão de que a frota presente era maior do que a força efetivamente empregada.\n\nA Linha Azul demonstrou que a Federação não dependia apenas da destruição direta de forças inimigas. A operação combinava manipulação política, pressão econômica, bloqueio naval e blefe militar. Cada componente ampliava o efeito dos demais: as revoltas dificultavam a administração local, o bloqueio reduzia a circulação de recursos e a demonstração de artilharia elevava o custo percebido de uma resistência organizada. Em 1730, a cidade alcançou estabilidade interna, declarou independência e estabeleceu vínculos com a Federação por meio de acordos de autonomia. O episódio tornou-se um exemplo da capacidade federativa de influenciar a formação de uma nova ordem política sem necessariamente anexar o território de maneira direta.\n\nA operação também revelou os riscos da estratégia. Ao financiar disputas e influenciar conflitos internos, a Federação podia produzir resultados favoráveis a seus interesses, mas nem sempre controlava todas as consequências das mudanças que ajudava a desencadear. A independência de uma cidade dependia de sua própria estabilidade e de acordos que precisavam continuar válidos depois da retirada ou do reposicionamento das forças navais. A influência externa podia abrir uma oportunidade política, mas não substituía a necessidade de instituições locais capazes de governar.\n\nA ascensão naval também alterou a relação entre a Federação e suas tradições. O mar continuava sendo o centro espiritual e cultural da sociedade, mas a frota passou a representá-lo de uma maneira adicional: como espaço estratégico que deveria ser protegido e controlado. A promessa de que nenhum invasor voltaria a destruir as comunidades insulares ganhou uma expressão material em navios, artilharia, canais e instalações industriais. A defesa da civilização tornou-se inseparável da capacidade de manter uma força militar permanente.\n\nAo longo do século XVIII, a Federação deixou de ser apenas uma sociedade que tentava recuperar o que havia perdido. Passou a ser uma potência capaz de estabelecer condições para outros atores políticos. Essa transformação não eliminou a lembrança da ocupação, mas a converteu em justificativa para uma presença internacional cada vez mais ativa. A nação que havia aprendido a manipular as divisões de seus ocupantes começou a utilizar os mesmos métodos em outras regiões. A Modernização Relâmpago consolidou, assim, tanto a independência estratégica de Yottsu Hoshi quanto a ascensão de um Estado disposto a empregar instrumentos indiretos para defender e ampliar seus interesses."
+                        },
+                        {
+                            "tipo": "06 — A Grande Mashu e a Arquitetura do Poder",
+                            "conteudo": "Em 1776, a Federação iniciou a construção da Grande Mashu, o projeto de engenharia mais ambicioso de sua história. A estrutura foi concebida como uma muralha monumental destinada a separar o mar externo do Mar dos Viajantes, envolvendo o mundo insular como uma serpente de pedra, metal e tecnologia. Sua função principal era reforçar a defesa do arquipélago e transformar a geografia marítima em parte de um sistema estratégico. Depois da invasão de 1513, a Federação havia aprendido que a superioridade naval de um adversário podia destruir não apenas navios, mas também as redes comerciais e políticas que sustentavam a civilização. A Grande Mashu representava uma resposta a essa vulnerabilidade: em vez de depender somente de uma frota capaz de interceptar invasores, o Estado procurava modificar o próprio espaço pelo qual esses invasores teriam de avançar.\n\nA obra exigiu coordenação entre diferentes regiões, instalações industriais e autoridades federativas. Sua escala ultrapassava a capacidade de uma única oficina ou família, tornando necessária a mobilização de recursos e conhecimentos em nível nacional. A engenharia da muralha integrava a tradição marítima às capacidades industriais desenvolvidas desde o século XVI. A construção também transformava a relação entre o governo central e as comunidades insulares, pois uma obra dessa dimensão exigia planejamento, manutenção e decisões que afetavam o uso do espaço marítimo.\n\nA Grande Mashu não deve ser compreendida apenas como uma fortificação. Sua forma e seu propósito possuíam também significado simbólico. A serpente que circundava o arquipélago evocava a ideia de uma proteção contínua, enquanto a separação entre o mar externo e o Mar dos Viajantes expressava a tentativa de preservar o centro espiritual e cultural da nação diante de ameaças exteriores. O projeto reunia duas concepções de soberania: a proteção material das comunidades e a preservação de um espaço considerado sagrado. Ao mesmo tempo, a muralha demonstrava a disposição da Federação de exercer controle sobre as águas e os acessos ao arquipélago.\n\nEm 1777, a Federação comprou parte da frota da Companhia Ocidental do Novo Comércio. A aquisição ampliou sua capacidade de operação e consolidou sua posição como a maior potência naval do mundo. A frota comprada complementava as embarcações desenvolvidas nos estaleiros federativos e permitia aumentar a presença marítima sem depender exclusivamente do ritmo de construção de novos navios. A aquisição também revelava uma mudança importante na relação com a CONC: a companhia que havia sido parte do sistema comercial dos Distantes agora constituía uma fonte de recursos e oportunidades para a expansão federativa.\n\nEssa relação não pode ser reduzida à ideia de que a CONC se tornou simplesmente uma instituição controlada por um único governo. A presença de especialistas federativos em suas redes, a atuação de frotas privadas e a participação de nobres em campanhas estrangeiras criaram vínculos de natureza diversa. Em determinados contextos, os interesses comerciais, familiares e nacionais podiam coincidir; em outros, podiam seguir objetivos próprios. A Federação aprendeu a utilizar essas conexões para ampliar sua influência, mas a diversidade dos agentes envolvidos também tornava a fronteira entre iniciativa privada e estratégia estatal mais complexa.\n\nEm 1780, a Federação participou de campanhas em terras distantes do Império do Sol. Suas frotas privadas atuavam em negociações relacionadas à CONC, enquanto outros nobres participavam de forma independente em nome de suas casas. A expansão colocou Yottsu Hoshi em contato com territórios e interesses que ultrapassavam o arquipélago. A capacidade de deslocar embarcações e sustentar operações distantes demonstrava a força da infraestrutura naval, mas também criava novas responsabilidades. Uma potência marítima precisava proteger suas rotas, negociar com outros governos e decidir como responder quando interesses comerciais entravam em conflito com a autonomia dos povos encontrados.\n\nEm 1785, a Federação recuperou o controle de Teiko e de uma ilha afastada chamada Ilha do Sol. A recuperação desses territórios ampliou a presença federativa, mas cada aquisição trouxe problemas próprios de administração. Teiko tinha uma população e uma história política que não podiam ser tratadas apenas como extensões da geografia do arquipélago. A manutenção do controle exigia representantes, recursos e mecanismos de governo, além de uma relação legítima com os habitantes. A Ilha do Sol, por sua vez, viria a ocupar um lugar distinto nos projetos políticos posteriores, até ser destinada ao projeto Povos Unidos em 1820.\n\nEm 1796, a Grande Mashu foi concluída. Junto dela, uma cidade monumental construída no meio do mar tornou-se a nova sede da Federação. A localização expressava a intenção de centralizar a administração em um espaço conectado à principal infraestrutura defensiva do país. A nova sede representava o poder de um Estado que havia desenvolvido capacidade de planejar, construir e manter projetos de escala extraordinária. Também tornava visível a transformação de Yottsu Hoshi: a civilização das quatro famílias havia se tornado uma potência cuja organização dependia de instituições centrais, indústria especializada e presença naval permanente.\n\nEm 1798, a Federação aproximou-se de Medrimart e propôs a criação da LNU, participando das negociações que levaram à fundação da organização em 1800. A iniciativa demonstrava que a influência federativa não dependia apenas da posse de territórios ou do controle de rotas. Yottsu Hoshi também procurava participar da elaboração de mecanismos internacionais capazes de organizar as relações entre Estados. A combinação de poder naval, comércio e diplomacia ampliava suas possibilidades de atuação, mas criava uma contradição crescente: quanto mais a Federação defendia a estabilidade internacional, mais precisava confrontar os efeitos de suas próprias intervenções e de sua expansão territorial."
+                        },
+                        {
+                            "tipo": "07 — A Revolução de Teiko e o Preço da Supremacia",
+                            "conteudo": "A recuperação de Teiko em 1785 marcou o retorno da ilha à esfera de controle da Federação, mas não garantiu uma relação estável entre a população local e o governo central. A administração federativa tratou o território como parte de sua estrutura política e enviou um governador para representá-la. A presença de uma autoridade ligada ao centro permitia integrar Teiko às decisões estratégicas de Yottsu Hoshi, mas também afastava o governo das necessidades cotidianas dos habitantes. A cobrança de taxas elevadas, a percepção de abandono e a repressão às manifestações de descontentamento contribuíram para transformar a insatisfação em oposição aberta.\n\nA crise de Teiko revelou uma contradição central na história federativa. A Federação havia nascido para impedir que uma potência estrangeira decidisse o destino de suas comunidades. Sua memória política estava profundamente marcada pela ocupação dos Distantes e pela perda de autonomia. No entanto, ao governar Teiko por meio de uma autoridade subordinada ao centro, a Federação passou a reproduzir uma relação na qual a segurança e os interesses do Estado prevaleciam sobre a vontade dos habitantes locais. A justificativa de preservar a unidade e a estabilidade não era suficiente para eliminar a sensação de que a ilha estava sendo governada sem participação adequada de sua população.\n\nEm 1802, após anos de cobranças, abandono e repressão, o governador responsável por Teiko foi assassinado. Sua cabeça foi colocada em uma estaca, transformando o ato em um símbolo público da ruptura entre a administração federativa e os habitantes. O assassinato não resolveu as tensões que o haviam provocado. Pelo contrário, colocou o governo central diante de uma escolha: negociar uma transformação profunda da relação com a ilha ou utilizar a força para demonstrar que a autoridade federativa não poderia ser desafiada sem consequências.\n\nEm 1803, a Federação enviou navios de guerra para restaurar a ordem. A intervenção culminou no acontecimento conhecido como Genocídio da Maré Vermelha, nas Docas do Caracol, onde numerosos civis e rebeldes foram mortos pelas forças federativas. O massacre tornou-se uma das passagens mais sombrias da história de Yottsu Hoshi. As forças enviadas para preservar a autoridade do Estado produziram uma violência que aprofundou a revolta e comprometeu a legitimidade do governo. Para os habitantes de Teiko, a intervenção demonstrava que a administração central estava disposta a utilizar a força contra a população que afirmava governar e proteger.\n\nO Genocídio da Maré Vermelha também colocou em evidência o conflito entre a filosofia tradicional e as práticas do Estado. O Bailar das Estações ensinava que o equilíbrio exigia reconhecer mudanças, compreender os limites da própria força e considerar as consequências das ações. Contudo, a política federativa havia desenvolvido uma lógica segundo a qual a preservação da ordem podia justificar medidas extremas. A distância entre esses princípios não significava que a tradição espiritual tivesse desaparecido, mas que seus ensinamentos conviviam com instituições capazes de reinterpretá-los em favor da segurança e da autoridade central.\n\nEm 1804, a Federação escolheu e enviou uma nova representante para administrar Teiko. A substituição buscava reorganizar a administração depois da morte do governador e da intervenção militar. Entretanto, trocar a pessoa que ocupava o cargo não era suficiente para resolver os problemas estruturais da ilha. As causas da insatisfação permaneciam, e a presença de uma nova representante não eliminava a memória das mortes ocorridas nas Docas do Caracol. A crise havia ultrapassado o âmbito administrativo e se transformado em uma questão de legitimidade política.\n\nEm 1806, a governadora em exercício rompeu com a orientação do governo central e aproximou-se do movimento popular, iniciando a Revolução de Teiko. Sua participação alterou a natureza do conflito. A revolta já não se limitava a uma oposição externa à administração: parte da própria estrutura governamental local passou a desafiar a autoridade federativa. O movimento utilizou a pressão internacional pela paz, incluindo os princípios que a Federação defendia em suas relações diplomáticas, e convidou Medrimart a participar da questão. A crise interna transformou-se em um problema internacional, aumentando os custos políticos de uma nova intervenção militar.\n\nA Revolução de Teiko demonstrou que a supremacia naval não podia resolver todos os problemas de governo. Os navios podiam bloquear portos, transportar tropas e ameaçar adversários, mas não conseguiam produzir legitimidade por conta própria. A Federação possuía força suficiente para impor danos severos à ilha, mas uma ocupação prolongada exigiria recursos e uma disposição política para manter um conflito que prejudicava sua reputação internacional. A independência tornou-se uma alternativa que permitia encerrar a crise sem perpetuar uma guerra contra uma população que já não aceitava a administração central.\n\nEm 1807, a Federação aceitou a independência de Teiko. O reconhecimento encerrou formalmente o controle federativo sobre a ilha e estabeleceu que a relação entre os dois povos precisaria ser reconstruída em novas bases. A decisão não apagou o Genocídio da Maré Vermelha nem eliminou as consequências da ocupação, mas representou uma mudança importante: a Federação reconheceu que não poderia manter indefinidamente sua autoridade sobre Teiko apenas em nome da unidade histórica ou da segurança estratégica.\n\nEm 1810, Teiko e Yottsu Hoshi firmaram um tratado de proteção mútua, estabelecendo uma aliança defensiva entre as duas nações. O acordo demonstrou que a independência não precisava conduzir a uma hostilidade permanente. A cooperação podia continuar sob a forma de compromisso entre Estados soberanos, sem restaurar a antiga administração federativa. A aliança também oferecia uma maneira de preservar relações estratégicas e culturais sem negar formalmente a autonomia de Teiko.\n\nA Revolução de Teiko permaneceu como uma advertência para a Federação. A experiência mostrou que a força militar e a capacidade industrial podem proteger uma nação contra invasores, mas também podem ser utilizadas para oprimir povos sob seu próprio governo. A sobrevivência nacional não resolve automaticamente a questão de como o poder deve ser exercido. Para uma sociedade que se compreende por meio dos ciclos, da disciplina e do equilíbrio, Teiko tornou-se a demonstração de que a estabilidade imposta pela força pode conter as causas da própria destruição."
+                        },
+                        {
+                            "tipo": "08 — Os Senhores das Rotas Marítimas e o Novo Horizonte",
+                            "conteudo": "Depois do reconhecimento da independência de Teiko, a Federação entrou em uma fase na qual sua influência dependia cada vez mais da combinação entre poder naval, comércio e diplomacia. O tratado de proteção mútua de 1810 demonstrou que a relação com antigos territórios controlados podia ser reorganizada por meio de acordos entre Estados soberanos. Em vez de depender exclusivamente da anexação, Yottsu Hoshi podia manter vínculos estratégicos por meio de compromissos defensivos e interesses compartilhados. Essa abordagem não significava o abandono da força militar, mas a compreensão de que diferentes relações exigiam instrumentos diferentes.\n\nEm 1819, a Federação ampliou suas frotas e investiu na consolidação de sua influência sobre o comércio marítimo. A experiência adquirida desde a ocupação dos Distantes havia demonstrado que controlar a circulação de mercadorias podia ser tão importante quanto possuir territórios. Os navios permitiam transportar recursos, proteger rotas e conectar mercados distantes; as redes comerciais criavam dependências e oportunidades diplomáticas; e a infraestrutura industrial sustentava a capacidade de manter uma presença permanente no oceano. A Federação passou a buscar uma posição na qual sua força naval e sua capacidade comercial se reforçassem mutuamente.\n\nA nova CONC tornou-se parte dessa estratégia. A história da Companhia Ocidental do Novo Comércio estava ligada à expansão comercial dos Distantes e ao sistema que havia dificultado o desenvolvimento industrial federativo. Entretanto, a presença de especialistas, a participação em redes mercantis e a aquisição de parte de sua frota haviam transformado a relação entre Yottsu Hoshi e a companhia. A Federação agora procurava utilizar estruturas comerciais de grande alcance para ampliar sua presença internacional. A continuidade do nome CONC não deve ser confundida com a existência de uma instituição simples e inteiramente subordinada ao governo federativo: suas redes envolviam interesses comerciais, frotas privadas e diferentes agentes, cujas relações com o Estado variavam conforme o contexto.\n\nA estratégia marítima exigia mais do que possuir o maior número de navios. Uma potência comercial precisava garantir a manutenção das embarcações, administrar tripulações, assegurar o abastecimento, proteger informações e negociar com diferentes governos. O domínio das rotas dependia de relações políticas que podiam ser alteradas por guerras, revoltas ou mudanças econômicas. Por isso, a Federação combinava presença naval com acordos, participação em organizações internacionais e envolvimento em projetos capazes de reorganizar o espaço político. O objetivo era construir uma posição duradoura, na qual o comércio não fosse apenas uma fonte de riqueza, mas também um instrumento de autonomia e influência.\n\nEm 1820, a Federação abriu mão da Ilha do Sol em favor do projeto Povos Unidos, que deu origem à cidade de Solary. A decisão marcou uma nova etapa na utilização de seu poder territorial. Em vez de manter a ilha sob controle direto, Yottsu Hoshi aceitou destiná-la a um projeto político voltado à formação de uma nova cidade. O acontecimento demonstrou que a influência federativa podia assumir formas diferentes da ocupação militar e da anexação. Territórios podiam ser utilizados para estabelecer novas estruturas de convivência, e a diplomacia podia produzir resultados que a força naval, sozinha, não seria capaz de garantir.\n\nA cessão da Ilha do Sol não deve ser interpretada automaticamente como abandono dos interesses federativos. Ela se inseria em um contexto no qual a Federação procurava consolidar sua posição internacional e administrar a relação entre presença territorial e influência política. A história anterior de Yottsu Hoshi havia demonstrado os custos de governar territórios cuja população rejeitava a administração central. A experiência de Teiko tornara evidente que o controle direto podia transformar uma vantagem estratégica em uma crise prolongada. O projeto Povos Unidos oferecia uma forma distinta de utilizar um território, embora seus resultados de longo prazo dependessem de instituições e acordos que precisariam sustentar a cidade de Solary.\n\nA trajetória da Federação até 1820 revela uma transformação profunda. A sociedade que havia desenvolvido sua unidade por meio de quatro famílias, poesia e tradições marítimas foi submetida a uma invasão que destruiu sua capacidade naval. Em resposta, reorganizou suas instituições, aprendeu as tecnologias dos ocupantes e construiu uma indústria própria. A aprendizagem converteu-se em segredo estratégico, o segredo em capacidade militar e a capacidade militar em influência internacional. A Federação deixou de ser uma civilização vulnerável à imposição estrangeira e tornou-se uma potência capaz de interferir nos destinos de outras regiões.\n\nEssa transformação, porém, não apagou os fundamentos espirituais da nação. O Mar dos Viajantes continuou a ser compreendido como centro da vida econômica, cultural e religiosa. O Bailar das Estações permaneceu como fonte de metáforas e ensinamentos sobre mudança, impermanência e responsabilidade. O Desabrochar Espiritual continuou associado à crença de que o véu entre os mundos se torna temporariamente mais frágil, e a promessa da Última Estação preservou a esperança de que Yottsu Hoshi retornaria para salvar seu povo e guiá-lo além do mar.\n\nA contradição central da Federação reside na relação entre esses princípios e os métodos utilizados para proteger sua autonomia. A memória da invasão justifica a vigilância contra ameaças externas, mas também alimenta o uso de espionagem e manipulação. A necessidade de manter as rotas seguras sustenta a frota, mas pode transformar o domínio marítimo em instrumento de coerção. A busca por estabilidade favorece a diplomacia, mas a experiência de Teiko demonstra que o próprio governo pode destruir a estabilidade que afirma defender. A Federação não é simplesmente uma nação pacífica que foi obrigada a se tornar militarista, nem uma potência que abandonou por completo sua tradição. É uma sociedade na qual a memória da vulnerabilidade e a ambição de nunca mais ser subjugada alteraram profundamente a aplicação de seus próprios valores.\n\nO mar que outrora simbolizava a abertura para o desconhecido tornou-se também uma fronteira a defender e uma rede a controlar. As embarcações que antes levavam viajantes entre comunidades agora transportam mercadorias, tropas e influência política. A muralha da Grande Mashu protege o centro do arquipélago, mas também representa a vontade de estabelecer limites sobre um espaço que sempre foi associado à mudança. O poder naval assegura autonomia, embora exija recursos e compromissos que mantêm a Federação ligada ao restante do mundo.\n\nA promessa de Yottsu Hoshi permanece sem uma data histórica verificável. Nenhum acontecimento aqui registrado comprova o retorno anunciado na Última Estação, e a tradição não depende de uma confirmação imediata para continuar viva. A promessa oferece à sociedade uma maneira de pensar o futuro como algo ainda aberto, capaz de ultrapassar as condições do presente. Para alguns, ela anuncia uma salvação literal; para outros, recorda que nenhuma civilização deve confundir sua forma atual com o destino final de seu povo.\n\nAo alcançar 1820, a Federação é uma potência industrial, comercial e naval, formada por séculos de adaptação e conflito. Sua história não termina com a construção da Grande Mashu, com a independência de Teiko ou com a criação de Solary. Cada conquista deixa novas obrigações, cada intervenção cria consequências e cada período de estabilidade prepara desafios que ainda não podem ser plenamente previstos. O Bailar das Estações oferece uma interpretação para essa continuidade: nenhuma ordem permanece imóvel, e nenhuma força pode substituir indefinidamente a necessidade de compreender o mundo que pretende governar. A Federação continuará a existir enquanto conseguir negociar essa tensão entre preservar o que considera sagrado e adaptar-se às mudanças que ameaçam transformar sua identidade."
+                        }
+                    ]
+                },
+                {
+                    "id": "periodos-marcantes",
+                    "titulo": "Períodos e Eventos Históricos",
+                    "periodos": [
+                        {
+                            "tipo": "Fundamentos míticos e civilização insular",
+                            "periodo": "Origem mítica - 1206",
+                            "conteudo": "Este período reúne as tradições de origem, a formação da civilização das quatro famílias e o desenvolvimento da relação espiritual com o Mar dos Viajantes. A Primeira Estação narra o nascimento mítico de Yottsu Hoshi; A Tempestade preserva a memória da calamidade entre 480 e 501; e o Bailar das Estações estabelece uma linguagem filosófica compartilhada. O Primeiro Desabrochar Espiritual, em 800, consolida a importância religiosa do oceano. Em 1206, a chegada dos Distantes inaugura um contato estrangeiro inicialmente pacífico.",
+                            "eventos": [
+                                {
+                                    "data": "Origem mítica",
+                                    "titulo": "O Nascimento de Yottsu Hoshi",
+                                    "descricao": "A Primeira Estação descreve Yottsu Hoshi como um presente dos deuses à humanidade, nascido adulto nas profundezas do oceano. O relato estabelece a ligação espiritual entre o povo, o mar e o mundo além do horizonte."
+                                },
+                                {
+                                    "data": "480",
+                                    "titulo": "O Início de A Tempestade",
+                                    "descricao": "Chuvas contínuas, ventos extremos e inundações ameaçam a sobrevivência das comunidades insulares. A calamidade inspira um poema que reflete sobre os limites do controle humano e a necessidade de enfrentar o sofrimento em conjunto."
+                                },
+                                {
+                                    "data": "495",
+                                    "titulo": "A Partida de Yottsu Hoshi",
+                                    "descricao": "Yottsu Hoshi parte em uma expedição para encerrar a tempestade que assola o arquipélago. Sua ausência torna-se um símbolo de esperança e sacrifício na tradição espiritual."
+                                },
+                                {
+                                    "data": "501",
+                                    "titulo": "O Fim da Tempestade Eterna",
+                                    "descricao": "A tempestade termina. Yottsu Hoshi promete retornar na Última Estação para salvar seu povo e guiá-lo além do mar, estabelecendo uma expectativa religiosa que permanece viva nos séculos seguintes."
+                                },
+                                {
+                                    "data": "800",
+                                    "titulo": "O Primeiro Desabrochar Espiritual",
+                                    "descricao": "Realiza-se o primeiro festival dedicado ao Mar dos Viajantes. Celebrado a cada sessenta anos, o festival está associado à crença de que o véu entre os mundos físico e espiritual se torna temporariamente mais frágil."
+                                },
+                                {
+                                    "data": "1206",
+                                    "titulo": "A Chegada dos Distantes",
+                                    "descricao": "Os primeiros estrangeiros chegam ao arquipélago e estabelecem relações comerciais e culturais com as comunidades locais. A convivência inicial é pacífica, mas o contato também permite aos visitantes conhecer a geografia e os recursos das ilhas."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "Invasão, resistência e industrialização",
+                            "periodo": "1513 - 1796",
+                            "conteudo": "A invasão dos Distantes destrói a antiga capacidade naval das quatro famílias e provoca a fundação da Federação em 1516. A nova nação inicia um longo processo de aprendizagem tecnológica, infiltração comercial e interferência política para reduzir a dependência dos ocupantes. A tradição thermopunk emerge desse processo e sustenta a construção de uma frota própria. A Modernização Relâmpago, iniciada em 1720, revela o resultado da preparação industrial. A Linha Azul demonstra o uso de infiltração, bloqueio e blefe militar. Posteriormente, a construção da Grande Mashu, a aquisição de navios da CONC e a participação nas campanhas do Império do Sol consolidam a Federação como potência naval.",
+                            "eventos": [
+                                {
+                                    "data": "1513",
+                                    "titulo": "As Batalhas do Mar do Oriente",
+                                    "descricao": "Os Distantes atacam com centenas de navios de metal e destroem as frotas das quatro famílias. O arquipélago perde territórios, surgem as províncias de Françoys e Inglaterya e Teiko deixa de estar sob controle das antigas famílias."
+                                },
+                                {
+                                    "data": "1516",
+                                    "titulo": "A Fundação da Federação",
+                                    "descricao": "As quatro famílias unem suas autoridades para coordenar a defesa, reconstruir as forças navais e impedir a desintegração da civilização insular."
+                                },
+                                {
+                                    "data": "1516 - 1526",
+                                    "titulo": "A Aprendizagem Tecnológica",
+                                    "descricao": "A Federação estuda e reproduz tecnologias estrangeiras, apesar das restrições comerciais. A aprendizagem torna-se um projeto de segurança nacional e prepara a formação de uma indústria independente."
+                                },
+                                {
+                                    "data": "1527",
+                                    "titulo": "A Expansão das Redes da CONC",
+                                    "descricao": "Especialistas civis federativos ingressam na Companhia Ocidental do Novo Comércio e espalham-se por redes comerciais que alcançam regiões como Medrimart."
+                                },
+                                {
+                                    "data": "1530",
+                                    "titulo": "A Operação Caixa 2",
+                                    "descricao": "A Federação passa a financiar clandestinamente grupos e revoltas nas áreas controladas pelos Distantes, procurando desviar a atenção da administração da CONC e enfraquecer a coordenação dos ocupantes."
+                                },
+                                {
+                                    "data": "1550",
+                                    "titulo": "A Consolidação do Thermopunk",
+                                    "descricao": "O domínio da tecnologia a vapor permite à Federação produzir invenções próprias, adaptar mecanismos e desenvolver uma tradição de engenharia voltada às necessidades do arquipélago."
+                                },
+                                {
+                                    "data": "1560",
+                                    "titulo": "A Construção dos Estaleiros Secretos",
+                                    "descricao": "A Federação inicia a construção de navios a vapor em estaleiros internos conectados por canais. As embarcações são protegidas em docas lacradas e instalações de alta segurança."
+                                },
+                                {
+                                    "data": "1720",
+                                    "titulo": "A Modernização Relâmpago",
+                                    "descricao": "Uma frota de 47 navios de guerra é posicionada ao redor do mar do arquipélago. O acontecimento revela a capacidade industrial e naval acumulada durante gerações."
+                                },
+                                {
+                                    "data": "1727",
+                                    "titulo": "A Operação Linha Azul",
+                                    "descricao": "A Federação utiliza infiltrados, instabilidade econômica, bloqueio naval e blefe militar para influenciar a crise de uma cidade. Cinco navios de artilharia protótipos e catorze navios ocos de madeira integram a demonstração de força."
+                                },
+                                {
+                                    "data": "1730",
+                                    "titulo": "A Independência da Cidade",
+                                    "descricao": "A cidade envolvida na Linha Azul estabiliza sua situação interna, declara independência e estabelece vínculos com a Federação por acordos de autonomia."
+                                },
+                                {
+                                    "data": "1776 - 1796",
+                                    "titulo": "A Grande Mashu",
+                                    "descricao": "A Federação constrói uma muralha monumental que separa o mar externo do Mar dos Viajantes. A obra é concluída em 1796, acompanhada pela construção de uma cidade no meio do mar que se torna a nova sede federativa."
+                                },
+                                {
+                                    "data": "1777",
+                                    "titulo": "A Compra de Parte da Frota da CONC",
+                                    "descricao": "A aquisição de embarcações da Companhia Ocidental do Novo Comércio amplia a força naval da Federação e consolida sua posição como maior potência marítima mundial."
+                                },
+                                {
+                                    "data": "1780",
+                                    "titulo": "As Campanhas do Império do Sol",
+                                    "descricao": "Frotas privadas associadas aos interesses federativos participam de negociações ligadas à CONC e de campanhas em terras distantes do Império do Sol. Nobres também atuam em nome de suas próprias casas."
+                                },
+                                {
+                                    "data": "1785",
+                                    "titulo": "A Recuperação de Teiko e da Ilha do Sol",
+                                    "descricao": "A Federação recupera o controle de Teiko e de uma ilha afastada que passa a ser conhecida como Ilha do Sol. A administração de Teiko sob o governo central criará posteriormente uma grave crise política."
+                                },
+                                {
+                                    "data": "1796",
+                                    "titulo": "A Conclusão da Grande Mashu",
+                                    "descricao": "A muralha é concluída, reforçando a defesa do arquipélago e simbolizando a transformação industrial da Federação. Uma cidade monumental construída no meio do mar passa a abrigar a sede do governo."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "Diplomacia, independência e reorganização marítima",
+                            "periodo": "1798 - 1820",
+                            "conteudo": "A Federação procura converter sua supremacia naval em influência diplomática e comercial. Participa da criação da LNU, enfrenta uma crise de legitimidade em Teiko e reconhece a independência da ilha após uma revolução que expõe os limites da coerção militar. O tratado defensivo de 1810 reorganiza a relação entre as duas nações. A expansão comercial de 1819 e a destinação da Ilha do Sol ao projeto Povos Unidos, em 1820, demonstram uma política cada vez mais baseada na combinação entre poder naval, redes econômicas e acordos políticos.",
+                            "eventos": [
+                                {
+                                    "data": "1798",
+                                    "titulo": "A Proposta da LNU",
+                                    "descricao": "A Federação aproxima-se de Medrimart e participa das negociações para criar uma organização internacional voltada à cooperação entre as nações."
+                                },
+                                {
+                                    "data": "1800",
+                                    "titulo": "A Fundação da LNU",
+                                    "descricao": "A LNU é fundada após as negociações conduzidas com participação federativa, estabelecendo uma nova estrutura para a organização das relações internacionais."
+                                },
+                                {
+                                    "data": "1802",
+                                    "titulo": "A Morte do Governador de Teiko",
+                                    "descricao": "Após anos de cobranças elevadas, abandono e repressão, o governador de Teiko é assassinado. Sua cabeça é colocada em uma estaca, simbolizando a ruptura entre a população e o governo central."
+                                },
+                                {
+                                    "data": "1803",
+                                    "titulo": "O Genocídio da Maré Vermelha",
+                                    "descricao": "Uma intervenção naval federativa para restabelecer a ordem resulta no massacre de civis e rebeldes nas Docas do Caracol, agravando a resistência contra a administração de Yottsu Hoshi."
+                                },
+                                {
+                                    "data": "1804",
+                                    "titulo": "A Nova Representante de Teiko",
+                                    "descricao": "A Federação envia uma nova representante para administrar a ilha, mas a mudança não elimina as causas políticas e sociais da revolta."
+                                },
+                                {
+                                    "data": "1806",
+                                    "titulo": "A Revolução de Teiko",
+                                    "descricao": "A governadora de Teiko alia-se ao movimento popular e desafia o governo central. A revolução recorre à pressão internacional pela paz e convida Medrimart a participar da questão."
+                                },
+                                {
+                                    "data": "1807",
+                                    "titulo": "A Independência de Teiko",
+                                    "descricao": "A Federação reconhece a independência de Teiko, encerrando formalmente o controle administrativo direto sobre a ilha."
+                                },
+                                {
+                                    "data": "1810",
+                                    "titulo": "O Tratado de Proteção Mútua",
+                                    "descricao": "Teiko e Yottsu Hoshi estabelecem uma aliança defensiva, comprometendo-se a apoiar uma à outra em caso de guerra sem restaurar a antiga administração federativa."
+                                },
+                                {
+                                    "data": "1819",
+                                    "titulo": "A Expansão Comercial e Naval",
+                                    "descricao": "A Federação amplia suas frotas e fortalece suas parcerias para aumentar sua influência sobre as rotas marítimas e o comércio internacional."
+                                },
+                                {
+                                    "data": "1820",
+                                    "titulo": "O Projeto Povos Unidos e a Cidade de Solary",
+                                    "descricao": "A Federação abre mão da Ilha do Sol em favor do projeto Povos Unidos, que dá origem à cidade de Solary. O acontecimento demonstra uma nova forma de reorganização territorial e influência política."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "estrutura-politica",
+            "icone": "⚖️",
+            "titulo": "Estrutura Política",
+            "subsecoes": [
+                {
+                    "id": "forma-de-governo",
+                    "titulo": "Forma de governo",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "lideres-principais",
+                    "titulo": "Líderes principais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "sucessao-eleicao",
+                    "titulo": "Forma de sucessão ou eleição",
+                    "texto": ""
+                },
+                {
+                    "id": "leis-sistema-judicial",
+                    "titulo": "Leis e sistema judicial",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "tabela",
+                            "titulo": "",
+                            "colunas": [
+                                "Princípio",
+                                "Descrição"
+                            ],
+                            "linhas": []
+                        }
+                    ]
+                },
+                {
+                    "id": "organizacao-militar",
+                    "titulo": "Organização militar e de defesa",
+                    "blocos": [
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "faccoes-politicas",
+                    "titulo": "Facções políticas internas",
+                    "faccoes": [
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "interesses-atuais",
+                    "titulo": "Interesses atuais",
+                    "blocos": [
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "relacoes-internacionais",
+            "icone": "🌍",
+            "titulo": "Relações Internacionais e Diplomacia",
+            "subsecoes": [
+                {
+                    "id": "aliados-inimigos",
+                    "titulo": "Aliados e inimigos históricos",
+                    "blocos": [
+                        {
+                            "tipo": "comparacao",
+                            "titulo": "",
+                            "ladoA": {
+                                "titulo": "",
+                                "descricao": "",
+                                "itens": []
+                            },
+                            "ladoB": {
+                                "titulo": "",
+                                "descricao": "",
+                                "itens": []
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "tratados-acordos",
+                    "titulo": "Tratados e acordos vigentes",
+                    "blocos": [
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "influencia-cultural",
+                    "titulo": "Influência cultural externa",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "influencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "influencia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "espionagem-diplomacia",
+                    "titulo": "Espionagem e diplomacia secreta",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "postura-internacional",
+                    "titulo": "Postura internacional atual",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "conflitos-ativos",
+                    "titulo": "Conflitos ativos e tensões escaláveis",
+                    "blocos": [
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "percepcao-internacional",
+                    "titulo": "Percepção internacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "dependencias-estrategicas",
+                    "titulo": "Dependências estratégicas",
+                    "blocos": [
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "problemas-contradicoes",
+            "icone": "💀",
+            "titulo": "Problemas e Contradições",
+            "subsecoes": [
+                {
+                    "id": "desigualdades-sociais",
+                    "titulo": "Desigualdades sociais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "geografia-territorio",
+            "icone": "🗺️",
+            "titulo": "Geografia e Território",
+            "subsecoes": [
+                {
+                    "id": "capital",
+                    "titulo": "Capital",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "principais-cidades",
+                    "titulo": "Principais cidades",
+                    "blocos": [
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "clima-geografia",
+                    "titulo": "Clima e geografia natural",
+                    "blocos": [
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "recursos-naturais",
+                    "titulo": "Recursos naturais",
+                    "blocos": [
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "regioes-notaveis",
+                    "titulo": "Regiões notáveis",
+                    "blocos": [
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fronteiras-vizinhas",
+                    "titulo": "Fronteiras e nações vizinhas",
+                    "blocos": [
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vida-selvagem",
+            "icone": "🐉",
+            "titulo": "Vida Selvagem e Ecossistema",
+            "subsecoes": [
+                {
+                    "id": "fauna-dominante",
+                    "titulo": "Fauna dominante",
+                    "blocos": [
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "especies-unicas",
+                    "titulo": "Espécies únicas ou simbólicas",
+                    "blocos": [
+                        {
+                            "tipo": "especie-simbolica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie-simbolica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "criaturas-lendarias",
+                    "titulo": "Criaturas ameaçadoras ou lendárias",
+                    "blocos": [
+                        {
+                            "tipo": "criatura-lendaria",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "criatura-lendaria",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "humanos-natureza",
+                    "titulo": "Relação entre humanos e natureza",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fauna-tecnologia",
+                    "titulo": "Uso da fauna na tecnologia",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "arquitetura-monumentos",
+            "icone": "🏛️",
+            "titulo": "Arquitetura e Monumentos",
+            "subsecoes": [
+                {
+                    "id": "estilo-arquitetonico",
+                    "titulo": "Estilo arquitetônico predominante",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "megaestruturas",
+                    "titulo": "Megaestruturas imperiais",
+                    "blocos": [
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "monumentos-historicos",
+                    "titulo": "Monumentos históricos",
+                    "blocos": [
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "edificios-importantes",
+                    "titulo": "Edifícios e instituições emblemáticas",
+                    "blocos": [
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "simbolismo-urbano",
+                    "titulo": "Simbolismo urbano",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "simbolo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "simbolo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "obras-engenharia",
+                    "titulo": "Grandes obras de engenharia",
+                    "blocos": [
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cultura-valores",
+            "icone": "🎭",
+            "titulo": "Cultura, Valores e Sociedade",
+            "subsecoes": [
+                {
+                    "id": "virtudes",
+                    "titulo": "Virtudes e ideais predominantes",
+                    "blocos": [
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "cultura-profunda",
+                    "titulo": "Cultura profunda",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "estrutura-social-cultural",
+                    "titulo": "Estrutura social",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tabela",
+                            "titulo": "",
+                            "colunas": [
+                                "Conceito",
+                                "Importância"
+                            ],
+                            "linhas": []
+                        }
+                    ]
+                },
+                {
+                    "id": "familia-relacoes",
+                    "titulo": "Família e relações pessoais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "visao-morte",
+                    "titulo": "Visão sobre morte e legado",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "arte-narrativas",
+                    "titulo": "Arte e narrativas populares",
+                    "blocos": [
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "filosofia-tradicao",
+            "icone": "📖",
+            "titulo": "Filosofia e Tradição",
+            "subsecoes": [
+                {
+                    "id": "doutrina-moral",
+                    "titulo": "Doutrina moral e ética",
+                    "blocos": [
+                        {
+                            "tipo": "Resumo",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "feriados-celebracoes",
+                    "titulo": "Feriados e celebrações",
+                    "blocos": [
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "costumes-ancestrais",
+                    "titulo": "Costumes ancestrais",
+                    "blocos": [
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "religiao",
+            "icone": "⛪",
+            "titulo": "Religião e Espiritualidade",
+            "subsecoes": [
+                {
+                    "id": "visao-espiritual",
+                    "titulo": "Visão espiritual predominante",
+                    "blocos": [
+                        {
+                            "tipo": "Resumo",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "crencas-principais",
+                    "titulo": "Crenças principais",
+                    "blocos": [
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "instituicoes-religiosas",
+                    "titulo": "Instituições religiosas",
+                    "blocos": [
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "rituais-cerimonias",
+                    "titulo": "Rituais e cerimônias",
+                    "blocos": [
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "morte-pos-vida",
+                    "titulo": "Morte e pós-vida",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "relacao-ciencia",
+                    "titulo": "Religião e ciência",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "variacoes-religiosas",
+                    "titulo": "Variações religiosas internas",
+                    "blocos": [
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "populacao",
+            "icone": "👥",
+            "titulo": "População e Sociedade",
+            "subsecoes": [
+                {
+                    "id": "quantidade-distribuicao",
+                    "titulo": "Quantidade e distribuição populacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "composicao-social",
+                    "titulo": "Composição social",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "vida-popular",
+                    "titulo": "Vida cotidiana da população",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "crescimento-populacional",
+                    "titulo": "Crescimento populacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "grupos-minoritarios",
+                    "titulo": "Grupos minoritários",
+                    "blocos": [
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "identidade-populacional",
+                    "titulo": "Identidade e mentalidade coletiva",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "estrutura-social",
+            "icone": "🏰",
+            "titulo": "Estrutura Social",
+            "subsecoes": [
+                {
+                    "id": "sistema-casas",
+                    "titulo": "Sistema de Casas",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "hierarquia-social",
+                    "titulo": "Hierarquia social",
+                    "blocos": [
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "mobilidade-social",
+                    "titulo": "Mobilidade social",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "papel-individuo",
+                    "titulo": "Papel do indivíduo",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "familia-e-criacao",
+                    "titulo": "Família e criação dos jovens",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "conflitos-sociais",
+                    "titulo": "Conflitos sociais",
+                    "blocos": [
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "visao-social",
+                    "titulo": "Visão coletiva da sociedade",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ciencia-tecnologia",
+            "icone": "⚙️",
+            "titulo": "Ciência e Tecnologia",
+            "subsecoes": [
+                {
+                    "id": "visao-cientifica",
+                    "titulo": "Visão científica e tecnológica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "areas-cientificas",
+                    "titulo": "Principais áreas científicas",
+                    "blocos": [
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "tecnologias-principais",
+                    "titulo": "Tecnologias principais",
+                    "blocos": [
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "instituicoes-cientificas",
+                    "titulo": "Instituições científicas",
+                    "blocos": [
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "ciencia-e-casas",
+                    "titulo": "Controle das Casas sobre ciência",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "ciencia-militar",
+                    "titulo": "Aplicações militares",
+                    "blocos": [
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "limites-eticos",
+                    "titulo": "Limites éticos e conflitos",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "economia",
+            "icone": "💰",
+            "titulo": "Economia",
+            "subsecoes": [
+                {
+                    "id": "modelo-economico",
+                    "titulo": "Modelo econômico predominante",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "setores-economicos",
+                    "titulo": "Principais setores econômicos",
+                    "blocos": [
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "recursos-estrategicos",
+                    "titulo": "Recursos estratégicos",
+                    "blocos": [
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "papel-das-casas",
+                    "titulo": "Papel das Casas na economia",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "trabalho-profissoes",
+                    "titulo": "Trabalho e profissões",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "comercio-internacional",
+                    "titulo": "Comércio internacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "desigualdade-economica",
+                    "titulo": "Desigualdade econômica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "filosofia-economica",
+                    "titulo": "Filosofia econômica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "curiosidade",
+            "icone": "💡",
+            "titulo": "Curiosidades da URID",
+            "subsecoes": [
+                {
+                    "id": "fatos-gerais",
+                    "titulo": "Fatos gerais",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "cultura-curiosa",
+                    "titulo": "Costumes curiosos",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "tecnologia-curiosa",
+                    "titulo": "Curiosidades tecnológicas",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "curiosidades-historicas",
+                    "titulo": "Curiosidades históricas",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "curiosidades-sociais",
+                    "titulo": "Curiosidades sociais",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fatos-incomuns",
+                    "titulo": "Fatos incomuns",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "videoAntesDasConexoes": {
+        "titulo": "",
+        "descricao": "",
+        "youtube": "",
+        "videoLocal": "",
+        "imagemCapa": ""
+    },
+    "relacionados": {
+        "personagens": [
+            ""
+        ],
+        "organizacoes": [
+            ""
+        ],
+        "localizacoes": [
+            ""
+        ],
+        "equipamentos": [
+            ""
+        ],
+        "eventos": [
+            ""
+        ],
+        "documentos": [
+            ""
+        ],
+        "tecnologias": [
+            ""
+        ],
+        "historias": [
+            ""
+        ],
+        "contos": [
+            ""
+        ]
+    },
+    "galeria": {
+        "titulo": "Imagens do Tema",
+        "descricao": "",
+        "imagens": [
+            {
+                "src": "",
+                "alt": "",
+                "legenda": ""
+            }
+        ]
+    }
+}

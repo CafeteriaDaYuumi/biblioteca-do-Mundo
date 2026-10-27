@@ -1,0 +1,2261 @@
+{
+    "id": "kikimifia",
+    "slug": "",
+    "tipo": "nacao",
+    "identificacao": {
+        "categoria": "Nação",
+        "codigo": "kikimifia",
+        "registro": "",
+        "nome": "kikimifia",
+        "subtitulo": "A Cidade Fortaleza"
+    },
+    "versao": {
+        "criado": "",
+        "atualizado": "",
+        "versao": "1.0"
+    },
+    "tags": [
+        "Localização",
+        "Nação"
+    ],
+    "fontes": [
+        {
+            "tipo": "Reconstrução Memética",
+            "integridade": "~ %",
+            "origem": " — Sondagem Neurológica"
+        },
+        {
+            "tipo": "Análise de Consistência",
+            "integridade": "~ %",
+            "origem": " — Arquivos Embasados"
+        }
+    ],
+    "midiaTopo": {
+        "tipo": "video",
+        "imagemCapa": "",
+        "videoLocal": "",
+        "youtube": ""
+    },
+    "resumo": {
+        "midia": {
+            "tipo": "imagem",
+            "src": "",
+            "alt": ""
+        },
+        "campos": [
+            {
+                "rotulo": "Nome oficial",
+                "valor": ""
+            },
+            {
+                "rotulo": "Capital",
+                "valor": ""
+            },
+            {
+                "rotulo": "Dilema",
+                "valor": ""
+            },
+            {
+                "rotulo": "Língua",
+                "valor": ""
+            },
+            {
+                "rotulo": "Religião",
+                "valor": ""
+            },
+            {
+                "rotulo": "Cultura",
+                "valor": ""
+            },
+            {
+                "rotulo": "Moeda",
+                "valor": ""
+            },
+            {
+                "rotulo": "Padrão Fonotático",
+                "valor": ""
+            },
+            {
+                "rotulo": "Tecnologia predominante",
+                "valor": ""
+            },
+            {
+                "rotulo": "Situação política",
+                "valor": ""
+            }
+        ]
+    },
+    "estatisticas": {
+        "titulo": "Status da nação",
+        "indicadores": [
+            {
+                "indicador": "População",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "PIB",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Moeda",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Estabilidade política",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Poder militar (M.A.T)",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Nível tecnológico",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "IDH",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Influência Global",
+                "pontuacao": "",
+                "notas": ""
+            }
+        ]
+    },
+    "indice": {
+        "automatico": true,
+        "fixo": true
+    },
+    "cronologia": [],
+    "citacoes": [
+        {
+            "texto": "",
+            "autor": ""
+        },
+        {
+            "texto": "",
+            "autor": ""
+        }
+    ],
+    "secoes": [
+        {
+            "id": "historia",
+            "icone": "🕰️",
+            "titulo": "História",
+            "subsecoes": [
+                {
+                    "id": "resumo-historico",
+                    "titulo": "Resumo",
+                    "blocos": [
+                        {
+                            "tipo": "Fundação e Soberania",
+                            "conteudo": "Fundada em 1875 por Salazar Pendragonl, Kikimifia surgiu como uma base de operações independente da Liga das Nações Unificadas (LNU). Sua criação foi viabilizada pela concessão de um território no Polo Sul, entregue como pagamento de uma enorme dívida que a LNU mantinha com a Hashirazai por suas contribuições à economia mundial e por suas operações de combate ao terrorismo internacional. A localização exata da cidade permaneceu confidencial por exigência de Salazar, que estabeleceu o anonimato como condição para aceitar o território. Embora a LNU reconheça a existência de uma zona de exclusão sob controle de Salazar, nem mesmo o governo mundial conhece a posição precisa da nação-fortaleza."
+                        },
+                        {
+                            "tipo": "A Cidade Dentro do Vale",
+                            "conteudo": "Construída no interior de um vale glacial no Polo Sul, Kikimifia desenvolveu-se ao longo do leito de um rio, formando um complexo de cinco cidades conectadas e cada vez mais profundas. A primeira abriga as docas, os estaleiros, os armazéns e as fortificações de defesa. A segunda concentra a maior parte da população e a vida residencial. A terceira reúne escritórios e atividades corporativas. A quarta abriga a administração central, a prefeitura e depósitos estratégicos. A quinta é dedicada aos laboratórios e às pesquisas da Vortex. Adaptada ao frio extremo, a infraestrutura inclui residências aquecidas, entradas duplas para reduzir a entrada de vento, roupas térmicas e uma rede de transporte e apoio público inspirada nas comunidades do Alasca."
+                        },
+                        {
+                            "tipo": "A Sociedade Corporativa",
+                            "conteudo": "Kikimifia foi construída para os funcionários da Hashirazai e suas famílias, e não para servir apenas como uma instalação de trabalho. Seus habitantes tornam-se cidadãos da cidade e funcionários das corporações que compõem o sistema, renunciando à cidadania de seus países de origem. Filhos de funcionários crescem nesse ambiente e podem ingressar futuramente nas corporações, enquanto outros familiares também encontram oportunidades profissionais dentro da estrutura corporativa. O sistema integra salários, moradia, escolas, transporte, alimentação, descontos comerciais e outros benefícios. Como as corporações compartilham essa infraestrutura, integrantes de empresas distintas podem constituir uma mesma família sem deixar de pertencer ao sistema da Hashirazai. O resultado é uma sociedade com um dos melhores padrões de vida do mundo e uma das menores taxas de criminalidade, na qual a prosperidade, a segurança e o pertencimento fortalecem a lealdade dos cidadãos."
+                        },
+                        {
+                            "tipo": "O Governo e a Fortaleza",
+                            "conteudo": "Embora seja o rei e líder supremo de Kikimifia, Salazar Pendragonl delegou a administração cotidiana a Annie, sua segunda no comando e vice, para concentrar seus esforços em projetos inovadores e no desenvolvimento futuro da Hashirazai. O governo é centralizado nas corporações e organizado por um conselho interno, enquanto Salazar mantém a autoridade máxima. A nação não integra a LNU e não permite visitantes sem autorização. Sua entrada ocorre pelas docas, protegidas por fortificações e postos defensivos, enquanto embarcações da AC patrulham a zona de exclusão. Navios não autorizados podem ser abordados e escoltados para fora; caso insistam em se aproximar ou representem uma ameaça, as forças de defesa têm autorização para afundá-los. A família Pendragonl não exerce influência sobre Salazar ou sobre a Hashirazai: apesar do sobrenome compartilhado, seu império corporativo constitui uma estrutura independente, protegida pelo isolamento e pela capacidade militar da Cidade-Fortaleza."
+                        }
+                    ]
+                },
+                {
+                    "id": "periodos-marcantes",
+                    "titulo": "Períodos e Eventos Históricos",
+                    "periodos": [
+                        {
+                            "tipo": "Fundação e Estabelecimento da Cidade-Fortaleza",
+                            "periodo": "1875–1880 | Ano unificado",
+                            "conteudo": "Kikimifia foi fundada em 1875 por Salazar Pendragonl, após a concessão de um território confidencial no Polo Sul pela Liga das Nações Unificadas (LNU), como pagamento de uma enorme dívida com a Hashirazai. A concessão reconhecia as contribuições da corporação à economia mundial e às operações de combate ao terrorismo internacional. O anonimato da localização foi uma condição imposta por Salazar, que pretendia estabelecer uma base de operações fora da jurisdição direta da LNU. A construção começou em um vale glacial, onde o complexo foi organizado ao longo do leito de um rio, com cinco cidades planejadas para diferentes funções.",
+                            "eventos": [
+                                {
+                                    "data": "1875 | Ano unificado",
+                                    "titulo": "Fundação de Kikimifia",
+                                    "descricao": "Salazar Pendragonl fundou Kikimifia no Polo Sul, estabelecendo uma nação corporativa independente da LNU. O território foi concedido como pagamento de uma dívida acumulada com a Hashirazai por suas contribuições econômicas e operações contra o terrorismo internacional. Como condição, Salazar exigiu que a localização exata da cidade permanecesse confidencial."
+                                },
+                                {
+                                    "data": "1875 | Ano unificado",
+                                    "titulo": "Acordo de Anonimato Territorial",
+                                    "descricao": "Como parte do acordo que permitiu a criação de Kikimifia, Salazar estabeleceu o sigilo geográfico como condição fundamental. A LNU reconheceu uma zona de exclusão sob controle de Salazar, mas não recebeu a localização precisa da cidade-fortaleza."
+                                },
+                                {
+                                    "data": "1876 | Ano unificado",
+                                    "titulo": "Construção das Docas Fortificadas",
+                                    "descricao": "As primeiras grandes estruturas defensivas foram estabelecidas na entrada do vale glacial. Docas, estaleiros, armazéns e postos de combate formaram a primeira linha de defesa da nação, permitindo controlar o acesso marítimo e proteger a chegada de suprimentos e funcionários."
+                                },
+                                {
+                                    "data": "1878 | Ano unificado",
+                                    "titulo": "Expansão do Complexo Glacial",
+                                    "descricao": "O desenvolvimento de Kikimifia avançou pelo leito do rio, com a construção de novas áreas residenciais e corporativas para além das instalações portuárias. O projeto começou a tomar a forma de cinco cidades conectadas, organizadas progressivamente para o interior do vale."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "Consolidação da Sociedade Corporativa",
+                            "periodo": "1880–1890 | Ano unificado",
+                            "conteudo": "Com a expansão do complexo, Kikimifia deixou de funcionar apenas como uma instalação estratégica e passou a constituir uma sociedade permanente para os funcionários da Hashirazai e suas famílias. A integração entre trabalho, moradia e serviços públicos tornou-se um dos pilares de seu desenvolvimento. O sistema corporativo foi estruturado para oferecer salários, alimentação, educação, transporte e outros benefícios por meio de uma infraestrutura compartilhada. A adaptação ao ambiente polar exigiu residências aquecidas, sistemas de proteção contra o vento e uma rede de apoio adequada às condições extremas do território.",
+                            "eventos": [
+                                {
+                                    "data": "1880 | Ano unificado",
+                                    "titulo": "Estabelecimento da Cidade Habitacional",
+                                    "descricao": "A segunda cidade do complexo consolidou-se como o principal núcleo residencial de Kikimifia. Moradias, escolas, estabelecimentos comerciais e serviços foram organizados para receber funcionários e familiares, transformando a antiga base de operações em uma comunidade permanente."
+                                },
+                                {
+                                    "data": "1883 | Ano unificado",
+                                    "titulo": "Integração dos Benefícios Corporativos",
+                                    "descricao": "A Hashirazai aprofundou a integração entre salários e benefícios, vinculando serviços como alimentação, transporte, educação e descontos comerciais ao sistema corporativo. O modelo buscava garantir um padrão de vida elevado aos habitantes e fortalecer os vínculos entre as famílias e a nação."
+                                },
+                                {
+                                    "data": "1886 | Ano unificado",
+                                    "titulo": "Consolidação do Distrito Corporativo",
+                                    "descricao": "A terceira cidade desenvolveu-se como centro de escritórios, atividades administrativas empresariais e operações comerciais internas. A concentração de empregos e sedes corporativas ampliou a integração econômica entre as diferentes organizações da Hashirazai."
+                                },
+                                {
+                                    "data": "1890 | Ano unificado",
+                                    "titulo": "Formalização da Cidadania de Kikimifia",
+                                    "descricao": "A cidadania de Kikimifia consolidou-se como parte do vínculo entre os habitantes e a estrutura corporativa. Os funcionários que ingressavam na nação renunciavam à cidadania de seus países de origem, enquanto suas famílias encontravam moradia, oportunidades profissionais e perspectivas de futuro dentro do sistema."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "Autonomia, Defesa e Expansão Tecnológica",
+                            "periodo": "1890 em diante | Ano unificado",
+                            "conteudo": "Após consolidar sua população e sua estrutura corporativa, Kikimifia aprofundou a organização de seu governo centralizado e de suas capacidades defensivas. A administração cotidiana passou a ser delegada a Annie, vice de Salazar e segunda no comando, permitindo que o fundador se concentrasse em projetos inovadores. A quarta cidade consolidou as funções administrativas e os depósitos estratégicos, enquanto a quinta foi destinada aos laboratórios e às pesquisas da Vortex. Paralelamente, a AC fortaleceu a patrulha da zona de exclusão e a proteção das docas. A localização da nação permaneceu confidencial, preservando sua autonomia e impedindo que a LNU ou outras potências controlassem diretamente suas operações.",
+                            "eventos": [
+                                {
+                                    "data": "1890 | Ano unificado",
+                                    "titulo": "Consolidação do Governo Corporativo",
+                                    "descricao": "A estrutura política de Kikimifia consolidou um conselho interno formado dentro do sistema corporativo. Salazar permaneceu como rei e líder supremo, enquanto a administração das atividades cotidianas passou a ser conduzida por Annie, sua vice e segunda no comando."
+                                },
+                                {
+                                    "data": "1892 | Ano unificado",
+                                    "titulo": "Fortalecimento da Zona de Exclusão",
+                                    "descricao": "A vigilância marítima foi consolidada como um elemento central da defesa de Kikimifia. Embarcações da AC passaram a patrulhar a zona de exclusão, abordando e escoltando navios não autorizados para fora da região. Em casos de insistência ou ameaça, as forças receberam autorização para afundar as embarcações."
+                                },
+                                {
+                                    "data": "1895 | Ano unificado",
+                                    "titulo": "Expansão do Complexo Vortex",
+                                    "descricao": "A quinta cidade foi consolidada como região dedicada aos laboratórios e às pesquisas da Vortex. Seu isolamento e sua posição no interior do vale favoreceram a proteção das instalações e a continuidade dos projetos tecnológicos da Hashirazai."
+                                },
+                                {
+                                    "data": "1898 | Ano unificado",
+                                    "titulo": "Autonomia Operacional da Hashirazai",
+                                    "descricao": "Kikimifia consolidou sua condição de nação corporativa independente da LNU. A combinação entre administração própria, benefícios integrados, defesa territorial e sigilo geográfico permitiu à Hashirazai manter suas operações sem revelar a localização exata de seu principal centro estratégico."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "estrutura-politica",
+            "icone": "⚖️",
+            "titulo": "Estrutura Política",
+            "subsecoes": [
+                {
+                    "id": "forma-de-governo",
+                    "titulo": "Forma de governo",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "lideres-principais",
+                    "titulo": "Líderes principais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "sucessao-eleicao",
+                    "titulo": "Forma de sucessão ou eleição",
+                    "texto": ""
+                },
+                {
+                    "id": "leis-sistema-judicial",
+                    "titulo": "Leis e sistema judicial",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "tabela",
+                            "titulo": "",
+                            "colunas": [
+                                "Princípio",
+                                "Descrição"
+                            ],
+                            "linhas": []
+                        }
+                    ]
+                },
+                {
+                    "id": "organizacao-militar",
+                    "titulo": "Organização militar e de defesa",
+                    "blocos": [
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "faccoes-politicas",
+                    "titulo": "Facções políticas internas",
+                    "faccoes": [
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "interesses-atuais",
+                    "titulo": "Interesses atuais",
+                    "blocos": [
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "relacoes-internacionais",
+            "icone": "🌍",
+            "titulo": "Relações Internacionais e Diplomacia",
+            "subsecoes": [
+                {
+                    "id": "aliados-inimigos",
+                    "titulo": "Aliados e inimigos históricos",
+                    "blocos": [
+                        {
+                            "tipo": "comparacao",
+                            "titulo": "",
+                            "ladoA": {
+                                "titulo": "",
+                                "descricao": "",
+                                "itens": []
+                            },
+                            "ladoB": {
+                                "titulo": "",
+                                "descricao": "",
+                                "itens": []
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "tratados-acordos",
+                    "titulo": "Tratados e acordos vigentes",
+                    "blocos": [
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "influencia-cultural",
+                    "titulo": "Influência cultural externa",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "influencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "influencia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "espionagem-diplomacia",
+                    "titulo": "Espionagem e diplomacia secreta",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "postura-internacional",
+                    "titulo": "Postura internacional atual",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "conflitos-ativos",
+                    "titulo": "Conflitos ativos e tensões escaláveis",
+                    "blocos": [
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "percepcao-internacional",
+                    "titulo": "Percepção internacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "dependencias-estrategicas",
+                    "titulo": "Dependências estratégicas",
+                    "blocos": [
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "problemas-contradicoes",
+            "icone": "💀",
+            "titulo": "Problemas e Contradições",
+            "subsecoes": [
+                {
+                    "id": "desigualdades-sociais",
+                    "titulo": "Desigualdades sociais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "geografia-territorio",
+            "icone": "🗺️",
+            "titulo": "Geografia e Território",
+            "subsecoes": [
+                {
+                    "id": "capital",
+                    "titulo": "Capital",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "principais-cidades",
+                    "titulo": "Principais cidades",
+                    "blocos": [
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "clima-geografia",
+                    "titulo": "Clima e geografia natural",
+                    "blocos": [
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "recursos-naturais",
+                    "titulo": "Recursos naturais",
+                    "blocos": [
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "regioes-notaveis",
+                    "titulo": "Regiões notáveis",
+                    "blocos": [
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fronteiras-vizinhas",
+                    "titulo": "Fronteiras e nações vizinhas",
+                    "blocos": [
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vida-selvagem",
+            "icone": "🐉",
+            "titulo": "Vida Selvagem e Ecossistema",
+            "subsecoes": [
+                {
+                    "id": "fauna-dominante",
+                    "titulo": "Fauna dominante",
+                    "blocos": [
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "especies-unicas",
+                    "titulo": "Espécies únicas ou simbólicas",
+                    "blocos": [
+                        {
+                            "tipo": "especie-simbolica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie-simbolica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "criaturas-lendarias",
+                    "titulo": "Criaturas ameaçadoras ou lendárias",
+                    "blocos": [
+                        {
+                            "tipo": "criatura-lendaria",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "criatura-lendaria",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "humanos-natureza",
+                    "titulo": "Relação entre humanos e natureza",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fauna-tecnologia",
+                    "titulo": "Uso da fauna na tecnologia",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "arquitetura-monumentos",
+            "icone": "🏛️",
+            "titulo": "Arquitetura e Monumentos",
+            "subsecoes": [
+                {
+                    "id": "estilo-arquitetonico",
+                    "titulo": "Estilo arquitetônico predominante",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "megaestruturas",
+                    "titulo": "Megaestruturas imperiais",
+                    "blocos": [
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "monumentos-historicos",
+                    "titulo": "Monumentos históricos",
+                    "blocos": [
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "edificios-importantes",
+                    "titulo": "Edifícios e instituições emblemáticas",
+                    "blocos": [
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "simbolismo-urbano",
+                    "titulo": "Simbolismo urbano",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "simbolo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "simbolo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "obras-engenharia",
+                    "titulo": "Grandes obras de engenharia",
+                    "blocos": [
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cultura-valores",
+            "icone": "🎭",
+            "titulo": "Cultura, Valores e Sociedade",
+            "subsecoes": [
+                {
+                    "id": "virtudes",
+                    "titulo": "Virtudes e ideais predominantes",
+                    "blocos": [
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "cultura-profunda",
+                    "titulo": "Cultura profunda",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "estrutura-social-cultural",
+                    "titulo": "Estrutura social",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tabela",
+                            "titulo": "",
+                            "colunas": [
+                                "Conceito",
+                                "Importância"
+                            ],
+                            "linhas": []
+                        }
+                    ]
+                },
+                {
+                    "id": "familia-relacoes",
+                    "titulo": "Família e relações pessoais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "visao-morte",
+                    "titulo": "Visão sobre morte e legado",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "arte-narrativas",
+                    "titulo": "Arte e narrativas populares",
+                    "blocos": [
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "filosofia-tradicao",
+            "icone": "📖",
+            "titulo": "Filosofia e Tradição",
+            "subsecoes": [
+                {
+                    "id": "doutrina-moral",
+                    "titulo": "Doutrina moral e ética",
+                    "blocos": [
+                        {
+                            "tipo": "Resumo",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "feriados-celebracoes",
+                    "titulo": "Feriados e celebrações",
+                    "blocos": [
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "costumes-ancestrais",
+                    "titulo": "Costumes ancestrais",
+                    "blocos": [
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "religiao",
+            "icone": "⛪",
+            "titulo": "Religião e Espiritualidade",
+            "subsecoes": [
+                {
+                    "id": "visao-espiritual",
+                    "titulo": "Visão espiritual predominante",
+                    "blocos": [
+                        {
+                            "tipo": "Resumo",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "crencas-principais",
+                    "titulo": "Crenças principais",
+                    "blocos": [
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "instituicoes-religiosas",
+                    "titulo": "Instituições religiosas",
+                    "blocos": [
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "rituais-cerimonias",
+                    "titulo": "Rituais e cerimônias",
+                    "blocos": [
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "morte-pos-vida",
+                    "titulo": "Morte e pós-vida",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "relacao-ciencia",
+                    "titulo": "Religião e ciência",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "variacoes-religiosas",
+                    "titulo": "Variações religiosas internas",
+                    "blocos": [
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "populacao",
+            "icone": "👥",
+            "titulo": "População e Sociedade",
+            "subsecoes": [
+                {
+                    "id": "quantidade-distribuicao",
+                    "titulo": "Quantidade e distribuição populacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "composicao-social",
+                    "titulo": "Composição social",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "vida-popular",
+                    "titulo": "Vida cotidiana da população",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "crescimento-populacional",
+                    "titulo": "Crescimento populacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "grupos-minoritarios",
+                    "titulo": "Grupos minoritários",
+                    "blocos": [
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "identidade-populacional",
+                    "titulo": "Identidade e mentalidade coletiva",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "estrutura-social",
+            "icone": "🏰",
+            "titulo": "Estrutura Social",
+            "subsecoes": [
+                {
+                    "id": "sistema-casas",
+                    "titulo": "Sistema de Casas",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "hierarquia-social",
+                    "titulo": "Hierarquia social",
+                    "blocos": [
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "mobilidade-social",
+                    "titulo": "Mobilidade social",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "papel-individuo",
+                    "titulo": "Papel do indivíduo",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "familia-e-criacao",
+                    "titulo": "Família e criação dos jovens",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "conflitos-sociais",
+                    "titulo": "Conflitos sociais",
+                    "blocos": [
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "visao-social",
+                    "titulo": "Visão coletiva da sociedade",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ciencia-tecnologia",
+            "icone": "⚙️",
+            "titulo": "Ciência e Tecnologia",
+            "subsecoes": [
+                {
+                    "id": "visao-cientifica",
+                    "titulo": "Visão científica e tecnológica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "areas-cientificas",
+                    "titulo": "Principais áreas científicas",
+                    "blocos": [
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "tecnologias-principais",
+                    "titulo": "Tecnologias principais",
+                    "blocos": [
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "instituicoes-cientificas",
+                    "titulo": "Instituições científicas",
+                    "blocos": [
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "ciencia-e-casas",
+                    "titulo": "Controle das Casas sobre ciência",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "ciencia-militar",
+                    "titulo": "Aplicações militares",
+                    "blocos": [
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "limites-eticos",
+                    "titulo": "Limites éticos e conflitos",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "economia",
+            "icone": "💰",
+            "titulo": "Economia",
+            "subsecoes": [
+                {
+                    "id": "modelo-economico",
+                    "titulo": "Modelo econômico predominante",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "setores-economicos",
+                    "titulo": "Principais setores econômicos",
+                    "blocos": [
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "recursos-estrategicos",
+                    "titulo": "Recursos estratégicos",
+                    "blocos": [
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "papel-das-casas",
+                    "titulo": "Papel das Casas na economia",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "trabalho-profissoes",
+                    "titulo": "Trabalho e profissões",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "comercio-internacional",
+                    "titulo": "Comércio internacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "desigualdade-economica",
+                    "titulo": "Desigualdade econômica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "filosofia-economica",
+                    "titulo": "Filosofia econômica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "curiosidade",
+            "icone": "💡",
+            "titulo": "Curiosidades da URID",
+            "subsecoes": [
+                {
+                    "id": "fatos-gerais",
+                    "titulo": "Fatos gerais",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "cultura-curiosa",
+                    "titulo": "Costumes curiosos",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "tecnologia-curiosa",
+                    "titulo": "Curiosidades tecnológicas",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "curiosidades-historicas",
+                    "titulo": "Curiosidades históricas",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "curiosidades-sociais",
+                    "titulo": "Curiosidades sociais",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fatos-incomuns",
+                    "titulo": "Fatos incomuns",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "videoAntesDasConexoes": {
+        "titulo": "",
+        "descricao": "",
+        "youtube": "",
+        "videoLocal": "",
+        "imagemCapa": ""
+    },
+    "relacionados": {
+        "personagens": [
+            ""
+        ],
+        "organizacoes": [
+            ""
+        ],
+        "localizacoes": [
+            ""
+        ],
+        "equipamentos": [
+            ""
+        ],
+        "eventos": [
+            ""
+        ],
+        "documentos": [
+            ""
+        ],
+        "tecnologias": [
+            ""
+        ],
+        "historias": [
+            ""
+        ],
+        "contos": [
+            ""
+        ]
+    },
+    "galeria": {
+        "titulo": "Imagens do Tema",
+        "descricao": "",
+        "imagens": [
+            {
+                "src": "",
+                "alt": "",
+                "legenda": ""
+            }
+        ]
+    }
+}

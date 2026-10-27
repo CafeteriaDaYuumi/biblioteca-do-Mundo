@@ -1,0 +1,2398 @@
+{
+    "id": "medrimart",
+    "slug": "",
+    "tipo": "nacao",
+    "identificacao": {
+        "categoria": "Nação",
+        "codigo": "",
+        "registro": "",
+        "nome": "Medrimart",
+        "subtitulo": "O Berço do Capitalismo"
+    },
+    "versao": {
+        "criado": "",
+        "atualizado": "",
+        "versao": "1.0"
+    },
+    "tags": [
+        "Localização",
+        "Nação"
+    ],
+    "fontes": [
+        {
+            "tipo": "Reconstrução Memética",
+            "integridade": "~41%",
+            "origem": "104 — Sondagem Neurológica"
+        },
+        {
+            "tipo": "Análise de Consistência",
+            "integridade": "~36%",
+            "origem": "211 — Arquivos Embasados"
+        }
+    ],
+    "midiaTopo": {
+        "tipo": "video",
+        "imagemCapa": "",
+        "videoLocal": "",
+        "youtube": ""
+    },
+    "resumo": {
+        "midia": {
+            "tipo": "imagem",
+            "src": "",
+            "alt": ""
+        },
+        "campos": [
+            {
+                "rotulo": "Nome oficial",
+                "valor": "Medrimart"
+            },
+            {
+                "rotulo": "Capital",
+                "valor": ""
+            },
+            {
+                "rotulo": "Dilema",
+                "valor": ""
+            },
+            {
+                "rotulo": "Língua",
+                "valor": ""
+            },
+            {
+                "rotulo": "Religião",
+                "valor": ""
+            },
+            {
+                "rotulo": "Cultura",
+                "valor": ""
+            },
+            {
+                "rotulo": "Moeda",
+                "valor": ""
+            },
+            {
+                "rotulo": "Padrão Fonotático",
+                "valor": ""
+            },
+            {
+                "rotulo": "Tecnologia predominante",
+                "valor": ""
+            },
+            {
+                "rotulo": "Situação política",
+                "valor": ""
+            }
+        ]
+    },
+    "estatisticas": {
+        "titulo": "Status da nação",
+        "indicadores": [
+            {
+                "indicador": "População",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "PIB",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Moeda",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Estabilidade política",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Poder militar (M.A.T)",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Nível tecnológico",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "IDH",
+                "pontuacao": "33333",
+                "notas": ""
+            },
+            {
+                "indicador": "Influência Global",
+                "pontuacao": "",
+                "notas": ""
+            }
+        ]
+    },
+    "indice": {
+        "automatico": true,
+        "fixo": true
+    },
+    "cronologia": [],
+    "citacoes": [
+        {
+            "texto": "",
+            "autor": ""
+        },
+        {
+            "texto": "",
+            "autor": ""
+        }
+    ],
+    "secoes": [
+        {
+            "id": "historia",
+            "icone": "🕰️",
+            "titulo": "História",
+            "subsecoes": [
+                {
+                    "id": "resumo-historico",
+                    "titulo": "Resumo",
+                    "blocos": [
+                        {
+                            "tipo": "Destroços de Marfim (723–915)",
+                            "conteudo": "Medrimart nasceu de uma ruptura que Lakeland jamais conseguiu encerrar completamente. O Golpe da Maioridade, a crise de sucessão e a guerra civil que se seguiu destruíram a estabilidade de uma ordem política que, até então, parecia capaz de perpetuar-se indefinidamente. Enquanto diferentes forças disputavam a legitimidade do poder, a Grande Penegrinação arrastou comunidades inteiras para fora de suas terras ancestrais. Entre os deslocados estavam os Pendragon, cuja linhagem, até então associada ao centro da autoridade lakelandiana, precisou sobreviver longe dos privilégios e das estruturas que sustentavam sua posição. O exílio não produziu imediatamente um novo reino. Produziu, antes, uma comunidade de sobreviventes que precisava encontrar abrigo, assegurar recursos e conquistar alguma autonomia em territórios nos quais sua presença era vista com desconfiança. As famílias exiladas carregaram consigo lembranças de sua antiga posição, disputas internas, conhecimentos administrativos e relações que sobreviveram à queda de sua influência. Contudo, foi a necessidade de reconstruir a própria existência que transformou esses elementos em uma nova base política. Longe de uma corte capaz de impor obediência apenas pela tradição, os Pendragon precisaram negociar, reunir recursos e demonstrar que podiam oferecer proteção e estabilidade àqueles que aceitassem sua liderança.\n\nA crise foi agravada pela Heresia de Aldari e pelas disputas religiosas que expuseram a corrupção de setores eclesiásticos e a instrumentalização da fé por interesses da nobreza. A declaração contra Aldari transformou divergências religiosas em perseguições políticas e sociais, empurrando comunidades inteiras para a condição de fugitivas. Em territórios coloniais afastados do centro de poder, alguns desses perseguidos encontraram proteção e passaram a construir relações próprias, tornando-se cada vez menos dependentes das autoridades que pretendiam governá-los à distância. Para os colonos, a proteção não era uma questão abstrata de tolerância: significava preservar suas famílias, seus ofícios, suas propriedades e o direito de organizar a própria vida sem temer que uma mudança de orientação religiosa os transformasse em criminosos. Para aqueles que ofereciam abrigo, por outro lado, acolher perseguidos significava assumir riscos políticos e militares, mas também atrair trabalhadores, conhecimentos e comunidades dispostas a defender o lugar que lhes havia permitido sobreviver.\n\nA tentativa lakelandiana de restabelecer o controle sobre esses territórios culminou na expedição contra Porto Real, em 912. O ataque revelou que a distância entre as possessões e o poder central, antes considerada apenas uma dificuldade administrativa, podia tornar-se uma vulnerabilidade militar. A resistência associada a Joana d’Arc deu rosto e direção a uma oposição que já não se limitava à defesa de assentamentos isolados. À medida que os confrontos avançavam, comunidades distintas passaram a reconhecer interesses comuns, compartilhando recursos, informações e forças de defesa. A marcha sobre Brasrit tornou-se um dos momentos decisivos dessa transformação, pois demonstrou que a resistência colonial era capaz de ameaçar a própria estrutura de autoridade que pretendia submetê-la. Em 915, a ameaça a Brasrit contribuiu para consolidar a posição dos independentistas. Para Lakeland, prolongar a guerra exigia cada vez mais homens, suprimentos e recursos desviados de outros compromissos. Para os independentistas, cada vitória cobrava perdas difíceis de reparar, mas também ampliava a convicção de que retornar à antiga condição seria aceitar novamente a insegurança da qual haviam fugido.\n\nO reconhecimento da independência, em 915, consolidou a separação e permitiu que a nova nação assumisse o nome de Medrimart. A independência, porém, não apagou as diferenças entre as comunidades que haviam participado da resistência, nem resolveu automaticamente a distribuição de terras, recursos e autoridade. Era necessário transformar uma aliança de sobreviventes e combatentes em uma sociedade capaz de se governar. Os Pendragon encontraram sua oportunidade justamente nessa necessidade: sua linhagem oferecia uma referência de continuidade, mas sua autoridade precisaria ser reconstruída por meio da propriedade, dos acordos e da capacidade de proteger o novo reino. O exílio tornou-se parte da memória nacional, não como uma história de sofrimento isolado, mas como a origem de uma cultura que desconfia da dependência absoluta, valoriza a segurança material e entende que a sobrevivência precisa ser organizada. A rivalidade com Lakeland nasceu desse passado compartilhado e violento. Medrimart surgiu das ruínas da antiga ordem, mas não pretendia simplesmente reproduzi-la; precisava construir instituições próprias, capazes de impedir que outra potência decidisse, mais uma vez, quem tinha o direito de permanecer em suas terras."
+                        },
+                        {
+                            "tipo": "A Formação da Identidade Medrimartiana (915–1200)",
+                            "conteudo": "A identidade medrimartiana tomou forma durante as Guerras Santas, quando a independência ainda era recente e a sobrevivência das comunidades dependia de sua capacidade de resistir a inimigos externos sem se desintegrar por disputas internas. Os primeiros assentamentos enfrentavam problemas que nenhuma declaração de soberania podia resolver por conta própria: colheitas insuficientes, falta de ferramentas, escassez de materiais de construção, estradas inseguras e conflitos sobre a distribuição dos recursos disponíveis. As comunidades aprenderam que uma cidade podia resistir a um ataque e ainda assim perecer se seus celeiros fossem esvaziados, se os artesãos abandonassem suas oficinas ou se os mercadores deixassem de trazer os materiais necessários para reparar muralhas e equipamentos. A defesa e o abastecimento tornaram-se duas faces da mesma questão. Foi nesse contexto que os núcleos urbanos começaram a desenvolver fortificações, depósitos, áreas de produção e regras para a circulação de mercadorias, procurando garantir que cada cidade pudesse sobreviver durante períodos de isolamento sem romper definitivamente suas relações com o exterior.\n\nAs primeiras guildas surgiram dessa necessidade de organizar atividades que ultrapassavam a capacidade de famílias ou indivíduos isolados. Comerciantes que antes negociavam por conta própria passaram a reunir recursos para financiar viagens, dividir riscos e contratar proteção; artesãos organizaram oficinas e cadeias de fornecimento; grupos responsáveis pelo armazenamento, pela construção e pelo transporte desenvolveram regras próprias para garantir a continuidade dos serviços. Algumas guildas cresceram até controlar instalações essenciais, enquanto outras se especializaram em atividades indispensáveis à defesa e à manutenção das cidades. A sua autoridade não nasceu de um título concedido pela Coroa, mas da capacidade de fazer funcionar aquilo de que a população precisava. Quem conseguia abastecer uma cidade durante um cerco, reconstruir uma ponte ou entregar ferramentas quando as oficinas estavam ameaçadas conquistava uma influência que não podia ser ignorada por nenhum governante.\n\nA dinastia Pendragon consolidou-se em meio a esse sistema de dependências. Em 920, a Coroa Pendragon foi consolidada como a principal referência de autoridade do reino, mas não controlava sozinha toda a produção, o comércio ou a administração cotidiana. Sua força estava na combinação entre patrimônio, legitimidade histórica e capacidade de coordenar interesses que frequentemente entravam em conflito. A Coroa podia oferecer terras, proteção e continuidade política; as grandes guildas, por sua vez, possuíam capital, trabalhadores, instalações e redes de abastecimento sem os quais o reino não poderia funcionar. Essa relação impedia tanto a completa independência econômica das guildas quanto o exercício ilimitado do poder real. Os Pendragon precisavam preservar a unidade do território, enquanto as guildas precisavam de uma autoridade capaz de manter contratos, proteger rotas e resolver disputas sem destruir o ambiente econômico do qual dependiam. A propriedade tornou-se, assim, uma forma de poder político, e os acordos entre a Coroa e os grandes interesses mercantis passaram a determinar parte considerável da organização do reino.\n\nAs cidades medrimartianas cresceram ao redor dessa realidade. Muralhas, portões reforçados, armazéns, oficinas e mercados formavam conjuntos urbanos nos quais a defesa era inseparável da vida econômica. As ruas próximas às entradas precisavam permitir a movimentação de mercadorias e o deslocamento de forças de proteção; os depósitos tinham de conservar alimentos e matérias-primas; os espaços de produção precisavam continuar operando mesmo quando as rotas exteriores eram interrompidas. A autossuficiência urbana nunca significou isolamento completo. Significava possuir reservas e capacidade produtiva suficientes para negociar com o exterior sem depender de entregas diárias para sobreviver. Entre as cidades estabeleceram-se rotas terrestres percorridas por caravanas protegidas, compostas por carroças, animais de carga, mercadores e escoltas. Viajar era uma atividade coletiva, e o sucesso de uma caravana dependia tanto da mercadoria transportada quanto da disciplina, da confiança e da capacidade de seus integrantes de enfrentar imprevistos. Essa cultura de deslocamento organizado sobreviveria às transformações tecnológicas dos séculos seguintes.\n\nAs Guerras Santas também ajudaram a definir os limites entre as instituições religiosas e o poder temporal. A experiência das perseguições, das disputas e da instrumentalização da fé contribuiu para consolidar a separação entre a Igreja e o governo medrimartiano. A Igreja não pode exercer autoridade sobre assuntos políticos e deve manter neutralidade perante o governo, mas sua autonomia não é meramente simbólica: dentro do Palácio das Joias, seu distrito próprio, exerce autoridade máxima e absoluta. Trata-se de uma soberania territorial específica, não de uma participação no poder da Coroa. Essa distinção tornou-se parte da organização institucional do reino. Ao final das Guerras Santas, Medrimart já possuía mais do que uma dinastia e um território independente. Possuía cidades estruturadas para resistir, guildas capazes de organizar a produção e o comércio, uma Coroa dependente de relações econômicas concretas e uma cultura que associava cooperação à sobrevivência. A identidade medrimartiana formou-se nesse ambiente: prática, desconfiada de promessas sem garantias e inclinada a medir a força de uma instituição por aquilo que ela consegue manter de pé quando as condições se tornam adversas."
+                        },
+                        {
+                            "tipo": "Grandes Navegações (1200–1498)",
+                            "conteudo": "Quando as Grandes Navegações abriram novas possibilidades de circulação entre continentes e arquipélagos, Medrimart já possuía uma tradição comercial moldada por cidades fortificadas, contratos entre guildas e caravanas que atravessavam territórios inseguros. A expansão marítima não substituiu essa cultura; ampliou sua escala. Os mercadores medrimartianos compreenderam que uma expedição bem-sucedida dependia de muito mais do que um navio capaz de alcançar terras distantes. Era necessário reunir capital, adquirir embarcações, contratar tripulações, prever perdas, garantir armazenamento, encontrar compradores e assegurar que a mercadoria pudesse continuar sua viagem depois de desembarcar. Cada novo mercado exigia uma cadeia de decisões e investimentos, e o fracasso de uma única etapa podia comprometer todo o empreendimento. As guildas que aprenderam a coordenar essas operações passaram a exercer uma influência crescente sobre o comércio internacional, enquanto a Coroa procurava assegurar que a expansão servisse também aos interesses estratégicos de Medrimart.\n\nA criação da Companhia Oriental do Novo Comércio, a CONC, em 1202, representou um passo decisivo nesse processo. A companhia reuniu grandes interesses mercantis e concentrou recursos que, separados, dificilmente sustentariam operações de alcance tão amplo. Em vez de depender apenas de comerciantes independentes, Medrimart passou a dispor de uma estrutura capaz de financiar expedições, coordenar contratos, negociar acesso a portos e organizar o fluxo de mercadorias entre diferentes regiões. A CONC não eliminou a concorrência entre as guildas, mas criou um instrumento para reunir seus capitais quando os ganhos potenciais justificavam uma ação conjunta. O apoio da Coroa permitiu ampliar investimentos e buscar posições privilegiadas em mercados estrangeiros, embora a companhia continuasse sujeita às dificuldades próprias de qualquer rede comercial extensa: mudanças políticas, ataques, perdas de embarcações, disputas por entrepostos e variações na procura por mercadorias. A expansão também tornou mais complexa a relação entre a riqueza privada e os objetivos do reino, pois decisões tomadas por mercadores podiam produzir consequências diplomáticas e militares muito além de suas intenções imediatas.\n\nO Porto de Águas Claras tornou-se uma peça importante da infraestrutura que sustentava essa expansão. Portos como esse não eram apenas locais onde navios carregavam e descarregavam mercadorias. Precisavam de armazéns, trabalhadores, oficinas, serviços de manutenção, registros comerciais e meios de levar os produtos até seus destinos. As mercadorias que chegavam por mar precisavam ser distribuídas por redes terrestres, enquanto os produtos vindos do interior exigiam armazenamento e preparação antes de embarcar. A experiência medrimartiana com caravanas protegidas foi fundamental para organizar essa ligação entre o litoral e as cidades fortificadas. Mercadores, transportadores e escoltas precisavam negociar prazos, dividir responsabilidades e prever o que aconteceria se uma estrada fosse bloqueada ou se uma carga não chegasse ao destino. A circulação comercial tornou-se uma atividade que unia regiões distantes por meio de contratos, compromissos e dependências materiais.\n\nA partir de 1400, a expansão nas Terras Selvagens assumiu um caráter mais violento. A disputa por recursos e posições estratégicas levou à colonização de territórios habitados por povos que possuíam suas próprias comunidades, interesses e formas de organização. A presença medrimartiana trouxe novas rotas e atividades econômicas, mas também provocou resistência à ocupação, confrontos e custos crescentes de manutenção. Proteger assentamentos distantes exigia homens, equipamentos, suprimentos e linhas de abastecimento que precisavam permanecer operacionais mesmo quando as condições locais eram desfavoráveis. As possessões coloniais podiam gerar ganhos, mas também consumiam recursos que poderiam ser empregados no desenvolvimento das cidades e das rotas comerciais do próprio reino. Quando a ocupação direta se mostrou excessivamente cara ou difícil de sustentar, Medrimart passou a privilegiar relações comerciais que não dependessem da administração permanente de cada território. O abandono de possessões não significou necessariamente o desaparecimento de toda influência: parte dela pôde sobreviver em contratos, relações com portos, intermediários e redes privadas.\n\nA expansão das rotas entre Medrimart, o Arquipélago e o Império do Sol demonstrou o potencial desse modelo. As mercadorias passaram a circular por cadeias que reuniam navios, armazéns, caravanas e empresas independentes, cada qual responsável por uma parte do percurso. Essa divisão permitia alcançar lugares distantes e distribuir os riscos, mas também dificultava identificar quem controlava uma operação inteira. Uma carga podia ser adquirida por uma companhia, transportada por outra, armazenada em um porto neutro e revendida por um intermediário antes de chegar ao comprador final. Em determinadas circunstâncias, essa fragmentação permitia que Medrimart ou uma guilda preservasse distância formal de operações comercialmente sensíveis, embora continuasse beneficiando-se da rede que as tornava possíveis. O sistema não eliminava os conflitos de interesse nem garantia segredo absoluto, mas conferia flexibilidade à atuação medrimartiana no exterior. Ao fim dessa expansão, o reino havia aprendido que a influência econômica não dependia somente de possuir territórios, mas de ocupar pontos indispensáveis na circulação dos produtos. A experiência das Grandes Navegações estabeleceu a base do poder comercial que Medrimart levaria para a era industrial e, mais tarde, para a reconstrução de sua presença internacional após a Grande Depressão."
+                        },
+                        {
+                            "tipo": "Acordo Tecnológico com Lakeland (1500–1503)",
+                            "conteudo": "A invenção da máquina a vapor por James Watt, em 1498, marcou o início de uma transformação tecnológica que avançou nos anos seguintes. Em 1500, a Revolução Termopunk e os acontecimentos associados à queima prolongada do Nightblood intensificaram as preocupações sobre o potencial e os riscos das novas tecnologias. Medrimart e Lakeland passaram a negociar os termos de um acordo tecnológico destinado a conter a possibilidade de uma guerra de grandes proporções. A tecnologia a vapor ampliava a capacidade produtiva e podia oferecer vantagens importantes na fabricação, no transporte e na organização de recursos. O controle dessa tecnologia tornou-se, portanto, uma questão de segurança e influência internacional. A disputa por territórios e matérias-primas alimentou planos de guerra, enquanto os dois lados avaliavam o custo de enfrentar um adversário capaz de provocar danos duradouros à economia do outro. Uma guerra em grande escala poderia destruir fábricas, interromper rotas, consumir recursos industriais e comprometer mercados dos quais ambos dependiam.\n\nAs negociações evitaram o confronto total, mas não eliminaram as rivalidades. O acordo resultante envolveu a cessão de parte do território lakelandiano e a imposição de restrições à exportação de tecnologia a vapor por Medrimart. A proibição limitava a disseminação de uma vantagem estratégica e transformava o conhecimento industrial em instrumento diplomático. Para os Pendragon, o tratado também demonstrava que a capacidade produtiva da nação podia ser empregada como forma de pressão sem recorrer diretamente à guerra. Concluído em 1503, o acordo estabeleceu as condições políticas e estratégicas para a expansão posterior da tecnologia a vapor em Medrimart."
+                        },
+                        {
+                            "tipo": "Era do Vapor em Medrimart (1503–1523)",
+                            "conteudo": "A partir de 1503, a industrialização medrimartiana entrou em uma nova etapa, marcada pela ampliação do uso do vapor, pelo crescimento da produção mecanizada e pela adaptação da infraestrutura às necessidades de uma economia em transformação. A expansão industrial ganhou força a partir de 1504, mas não ocorreu de maneira uniforme. Algumas cidades cresceram ao redor de fábricas e oficinas, enquanto outras conservaram funções predominantemente comerciais, agrícolas ou administrativas. As guildas que conseguiram reunir capital, instalações e mão de obra passaram a investir em equipamentos, produção em maior escala e sistemas de abastecimento mais complexos. A Coroa também ampliou sua participação na economia, pois a propriedade de ativos industriais e de infraestrutura permitia aos Pendragon influenciar não apenas o comércio, mas a capacidade produtiva do reino. A indústria oferecia maior capacidade de produção e vantagens estratégicas, mas exigia um fluxo constante de recursos, peças, trabalhadores e compradores para continuar operando.\n\nA transformação mais visível ocorreu nas estradas. As antigas caravanas, que durante séculos haviam reunido carroças, animais, mercadores e guardas, começaram a ser substituídas por veículos motorizados de grande porte. Com o desenvolvimento de motores e equipamentos industriais, as guildas passaram a organizar comboios de caminhões gigantescos, projetados para transportar cargas pesadas por distâncias que antes exigiam longas sequências de viagens. A mudança não eliminou a lógica das caravanas: reforçou-a. Os veículos viajavam em grupos, com planejamento de carga, coordenação de horários, apoio mecânico e medidas de proteção. Um comboio precisava levar não apenas mercadorias, mas também a capacidade de continuar a viagem quando surgissem avarias, atrasos ou perigos. Motoristas, mecânicos, coordenadores e equipes de segurança tornaram-se profissionais indispensáveis a uma economia que dependia de entregas regulares. A confiabilidade de uma rota e a reputação de uma equipe passaram a ter valor econômico próprio.\n\nAs grandes avenidas que atravessavam Medrimart cresceram a partir dessa necessidade. Em vez de organizar o território em torno de uma rede ferroviária nacional, o reino investiu na conexão rodoviária entre suas cidades fortificadas, fábricas, áreas agrícolas, portos e depósitos. As avenidas cruzavam extensas regiões, algumas pouco povoadas, e exigiam postos de abastecimento, oficinas, instalações de apoio e pontos onde os comboios pudessem reorganizar suas cargas. As cidades conservaram muralhas, portões e construções monumentais, mas seus acessos foram adaptados à circulação de veículos pesados. A fortificação protegia o centro urbano; a avenida garantia que ele continuasse ligado ao restante do reino. Assim, a identidade histórica de Medrimart não desapareceu diante da industrialização. As muralhas continuaram a lembrar os séculos de guerra, enquanto o movimento constante dos caminhões demonstrava que a segurança moderna dependia também de manter o abastecimento e a produção em funcionamento. A estrada tornou-se um espaço econômico e cultural, onde mercadorias, trabalhadores, informações e notícias circulavam entre cidades que, apesar de distantes, pertenciam a um mesmo sistema.\n\nO crescimento industrial, entretanto, trouxe dependências que a prosperidade podia ocultar. As fábricas precisavam de matérias-primas e compradores; os caminhões exigiam combustível, manutenção e peças; as cidades necessitavam de alimentos e produtos que nem sempre eram produzidos nas proximidades. A rede rodoviária ampliava a integração interna, mas não tornava Medrimart autossuficiente. Quanto mais o reino produzia, mais dependia de mercados capazes de absorver sua produção e de rotas internacionais que mantivessem o fluxo de recursos. A Coroa e as guildas enriqueceram com a expansão, mas também passaram a compartilhar um risco estrutural: uma interrupção prolongada do comércio podia atingir simultaneamente a indústria, o transporte, o crédito e o abastecimento urbano. A Era do Vapor tornou Medrimart mais produtiva, mais conectada e mais influente, mas construiu uma economia em que a prosperidade dependia de manter um movimento contínuo de mercadorias através de suas cidades, avenidas e rotas internacionais."
+                        },
+                        {
+                            "tipo": "Avante ao Futuro (1523–1749)",
+                            "conteudo": "A Guerra do Mar do Oriente, em 1513, abriu uma nova etapa da expansão medrimartiana. Enquanto os combates alteravam o equilíbrio regional, as guildas procuravam oportunidades para ocupar posições comerciais que continuariam valiosas mesmo depois do fim das hostilidades. Em vez de depender exclusivamente de anexações ou de administrações coloniais diretas, Medrimart ampliou seus investimentos por meio de companhias privadas, acordos locais e intermediários capazes de estabelecer presença em mercados estratégicos. François e Inflaterya, territórios sob domínio lakelandiano nos quais as atividades comerciais medrimartianas eram permitidas, tornaram-se pontos importantes dessa estratégia. As empresas investiam em distribuição, armazenamento e transporte, procurando estabelecer relações com compradores e fornecedores antes que seus concorrentes ocupassem as mesmas posições. O objetivo não era apenas vender mais mercadorias, mas construir redes que tornassem difícil substituir os serviços, os contratos e a infraestrutura fornecidos por Medrimart.\n\nNo Arquipélago, essa estratégia assumiu a forma de uma expansão gradual por cidades-porta e intermediários. As guildas buscavam controlar os pontos pelos quais as mercadorias precisavam passar, mesmo quando não possuíam o território ao redor. Quem controlava depósitos, contratos de transporte e relações com comerciantes locais podia exercer influência sobre o fluxo comercial sem governar formalmente a região. Em Teiko, a presença medrimartiana cresceu durante e depois das batalhas do Mar do Oriente. A implantação de uma companhia local e das Docas do Caracol, em 1603, ofereceu uma base para receber, armazenar e redistribuir mercadorias, aproximando os interesses medrimartianos dos mercados do Arquipélago. As docas não representavam apenas uma instalação portuária: eram um investimento de longo prazo em trabalhadores, serviços, contratos e relações comerciais. Uma vez estabelecida, essa infraestrutura podia continuar produzindo ganhos mesmo depois que os exércitos se retirassem e as alianças políticas mudassem.\n\nA expansão, contudo, não foi recebida de maneira uniforme. O preconceito de setores lakelandianos contra Medrimart alimentava desconfiança em relação aos comerciantes, aos trabalhadores e às companhias que se estabeleciam em territórios disputados. Para alguns grupos, a presença medrimartiana era uma oportunidade de crescimento; para outros, representava uma ameaça à autonomia econômica e à influência local. Ataques contra cidades comerciais e instalações de transporte demonstraram que a prosperidade podia atrair violência. Uma mercadoria destruída significava prejuízo para uma empresa, mas um ataque a depósitos, oficinas ou rotas podia comprometer o abastecimento de uma região inteira. As guildas passaram a investir mais em segurança, proteção de informações e continuidade operacional. A espionagem corporativa tornou-se uma preocupação crescente, pois desenhos industriais, métodos de fabricação, contratos, listas de clientes e informações sobre rotas podiam valer tanto quanto equipamentos físicos. A disputa entre empresas deixou de ocorrer apenas por preços e qualidade e passou a envolver tentativas de descobrir, copiar ou sabotar os recursos dos concorrentes.\n\nFoi nesse contexto que Medrimart desenvolveu serviços especializados em contraterrorismo e contrainteligência. Em 1735, essas atividades ganharam uma estrutura mais formal, organizada para identificar ameaças, proteger cidades e instalações, investigar atividades clandestinas e impedir que a espionagem entre corporações escapasse ao controle. Com o tempo, a experiência acumulada forneceu métodos, profissionais e conhecimentos que seriam aproveitados na formação posterior da DCM. A criação desses serviços, entretanto, não resolveu a tensão entre interesses públicos e privados. Uma investigação podia proteger a segurança do reino, mas também favorecer uma guilda; uma operação de contrainteligência podia preservar informações estratégicas, mas levantar suspeitas sobre o uso da autoridade em disputas comerciais. Medrimart precisou desenvolver mecanismos para lidar com uma realidade na qual empresas privadas controlavam recursos essenciais, enquanto a Coroa tinha a responsabilidade de preservar a estabilidade do conjunto.\n\nAo mesmo tempo, as guerras nas Terras Selvagens contra a URID exigiram contribuições materiais e humanas da Aliança Stalingrad. Medrimart enviou recrutas, suprimentos e apoio tecnológico, mobilizando recursos industriais e logísticos para sustentar o esforço de guerra. Os caminhões e as grandes avenidas permitiam movimentar cargas entre cidades, depósitos e pontos de embarque, mas a capacidade de transportar recursos não significava que o reino controlasse a estratégia militar em que seriam empregados. A liderança da aliança permanecia nas mãos de Lakeland, e os comandantes medrimartianos tinham autonomia limitada diante das decisões estratégicas mais importantes. Essa divisão de responsabilidades produziu uma contradição: Medrimart contribuía de maneira relevante para a sustentação econômica da aliança, mas não possuía a mesma experiência nem a mesma autoridade na condução de grandes campanhas. A expansão comercial prosseguia, mas exigia cada vez mais recursos para proteger mercados, instalações e rotas. A nação que aprendera a transformar a circulação em poder começava a descobrir o custo de sustentar, ao mesmo tempo, uma rede comercial mundial e compromissos militares que não controlava inteiramente."
+                        },
+                        {
+                            "tipo": "A Grande Depressão Medrimartiana (1750–1799)",
+                            "conteudo": "A crise que levou Medrimart à Grande Depressão não começou com uma única derrota, mas com a desarticulação progressiva das relações das quais sua economia dependia. A guerra civil de Lakeland alterou o equilíbrio da Aliança Stalingrad e obrigou Medrimart a assumir responsabilidades maiores na coordenação estratégica do esforço de guerra. O reino possuía indústrias, redes comerciais e capacidade logística, mas essas vantagens não equivaliam à experiência necessária para comandar conflitos de grande escala. A liderança medrimartiana precisou administrar operações militares, abastecimento e compromissos entre aliados enquanto tentava preservar os recursos que sustentavam sua própria economia. A diferença entre capacidade industrial e experiência estratégica tornou-se cada vez mais evidente. Produzir equipamentos e transportar suprimentos eram tarefas que Medrimart conhecia; decidir onde concentrar forças, como responder a campanhas adversárias e quando abandonar posições exigia outro tipo de conhecimento. Os erros e as limitações dessa transição contribuíram para o enfraquecimento da aliança e para a perda de posições que antes sustentavam sua influência internacional.\n\nA Quarta Guerra Mundial, travada entre 1750 e 1775 e conhecida na tradição da URID como Guerra dos Maiores, destruiu a hegemonia da Aliança Stalingrad. A queda de Dysburgo, em 1756, demonstrou que posições consideradas estratégicas podiam ser perdidas apesar dos recursos empregados em sua defesa. O naufrágio do Bota-Fogo, em 1765, acrescentou outro golpe à disputa pelo controle marítimo, evidenciando a vulnerabilidade das embarcações e das rotas que sustentavam o comércio. Em 1770, a invasão do Império do Sol abriu uma nova etapa do conflito, e as batalhas de Las 10 Noches, em 1773, precederam a destruição do Império do Sol, em 1775. Para Medrimart, essa sequência não representou apenas a perda de um aliado ou de uma posição militar. O Império do Sol era um dos principais parceiros comerciais do reino, e sua destruição comprometeu mercados, contratos, rotas e relações de confiança construídas ao longo de gerações. Empresas que haviam organizado sua produção para atender à demanda oriental descobriram que seus compradores já não existiam, enquanto carregamentos e instalações preparados para aquele comércio perderam parte de seu valor.\n\nA derrota militar foi seguida por uma longa fase de instabilidade. Entre 1776 e 1796, a Guerra Fria prolongou a rivalidade por meio de espionagem, sabotagem industrial e competição tecnológica. A ausência de uma guerra convencional contínua não significava paz: empresas e governos precisavam proteger instalações, vigiar concorrentes e investir em tecnologias cuja utilidade dependia tanto da produção quanto da capacidade de impedir que adversários as obtivessem. Em Medrimart, essa incerteza dificultava a recuperação. Investimentos que poderiam reconstruir fábricas ou rotas eram direcionados à segurança, enquanto os comerciantes hesitavam em assumir compromissos de longo prazo em mercados sujeitos a novas interrupções. A Quinta Guerra Mundial, também conhecida como Guerra dos Deuses, entre 1797 e 1799, agravou a situação por meio de operações clandestinas e disputas destinadas a impedir o uso de tecnologias capazes de ameaçar a civilização. A crise diplomática internacional manteve a economia sob pressão justamente quando ela precisava de estabilidade para se reorganizar.\n\nO colapso dos parceiros comerciais produziu efeitos que atravessaram toda a sociedade medrimartiana. A CONC, construída para coordenar operações internacionais de grande escala, viu partes de sua rede perderem utilidade quando portos, mercados e rotas deixaram de funcionar. Isso não significou necessariamente o desaparecimento imediato da companhia, mas a desorganização de suas operações, de seus contratos e de sua capacidade logística. As guildas que forneciam matérias-primas, transportavam mercadorias ou fabricavam produtos para exportação foram atingidas em sequência. As fábricas continuavam capazes de produzir, mas a produção sem compradores se transformava em custo. Os armazéns ficaram cheios, os depósitos precisaram encontrar espaço para mercadorias que não podiam ser vendidas e os caminhões permaneceram parados quando não havia carga lucrativa para transportar. A infraestrutura construída para movimentar grandes volumes de produtos tornou-se um lembrete constante de uma economia que havia perdido parte de seus destinos. Nas cidades, a redução da atividade comercial afetou oficinas, serviços, trabalhadores e comerciantes menores, cuja sobrevivência dependia da circulação de recursos gerada pelas grandes empresas.\n\nA inflação e a interrupção do crédito agravaram a depressão. As guildas passaram a desconfiar da capacidade de pagamento umas das outras, contratos foram suspensos e investimentos que antes pareciam seguros tornaram-se difíceis de justificar. A queda da atividade reduziu receitas, enquanto a manutenção de fábricas, estradas, depósitos e veículos continuava exigindo recursos. Algumas empresas precisaram reorganizar suas operações; outras abandonaram rotas e mercados que já não compensavam os custos. A Coroa enfrentou um problema que não podia resolver apenas por decreto: preservar o funcionamento do reino exigia restaurar a confiança e reduzir o excesso de mercadorias que pressionava os preços. Medrimart abandonou os esforços de sustentar a antiga ordem da Aliança Stalingrad e concentrou-se na própria sobrevivência econômica. Parte dos estoques foi retirada da circulação ou registrada como perda, e oportunidades comerciais foram sacrificadas para impedir que a oferta acumulada prolongasse a desvalorização. Essa decisão tinha um custo imediato, pois mercadorias que poderiam representar riqueza futura deixavam de gerar receita, mas a alternativa ameaçava tornar a crise ainda mais profunda.\n\nA Grande Depressão transformou a percepção medrimartiana de poder. Durante gerações, a expansão comercial havia sido tratada como prova de força; agora, o reino descobria que uma rede extensa também podia transmitir a crise de um mercado para todos os outros. Uma guerra travada longe das cidades medrimartianas podia interromper uma rota, eliminar um comprador e deixar milhares de mercadorias sem destino. A capacidade de produção não garantia prosperidade quando faltavam compradores, assim como possuir grandes avenidas não assegurava movimento quando os comboios não tinham carga rentável. O sofrimento econômico tornou mais evidente a dependência entre Coroa, guildas, trabalhadores e consumidores. A paz passou a ser vista como condição material da recuperação, e não apenas como objetivo diplomático. Medrimart precisava de mercados reabertos, contratos confiáveis e uma ordem internacional que reduzisse a possibilidade de novos colapsos. A crise não destruiu sua tradição comercial, mas obrigou o reino a reconsiderar seus limites e a transformar a preservação econômica em prioridade estratégica."
+                        },
+                        {
+                            "tipo": "A Liga das Nações Unificadas (1799–1805)",
+                            "conteudo": "Quando as guerras terminaram, a recuperação de Lakeland não foi acompanhada por uma recuperação imediata de Medrimart. O reino permanecia marcado pela Grande Depressão, com empresas reorganizando suas atividades, rotas abandonadas e mercados que ainda precisavam ser reconstruídos. Apesar disso, Medrimart conservava algo que as derrotas militares não haviam destruído completamente: uma rede de relações comerciais e pessoais construída ao longo de gerações. Seus mercadores conheciam os interesses de diferentes regiões, suas empresas haviam negociado com organizações estrangeiras e a Coroa mantinha vínculos com grupos influentes que também haviam sofrido com a instabilidade. Essas relações não garantiam obediência, mas ofereciam canais para discutir acordos e encontrar interesses comuns. Enquanto outras potências avaliavam a paz principalmente em termos de segurança e equilíbrio militar, Medrimart tinha uma razão econômica urgente para defendê-la: sem estabilidade, não seria possível recuperar compradores, restabelecer o crédito ou convencer as empresas a investir novamente em rotas internacionais.\n\nA Primeira Convenção de Paz Global, em 1799, marcou o início de uma tentativa de reorganizar as relações entre as nações após décadas de guerras, sabotagem e disputas tecnológicas. A convenção não resolveu automaticamente todas as rivalidades, mas criou uma oportunidade para transformar o cansaço dos conflitos em compromissos políticos. Medrimart participou desse processo aproveitando suas conexões com pessoas e grupos que tinham muito a perder caso o comércio continuasse interrompido. Entre eles estavam nobres ligados às famílias fundadoras da Federação de Yottsu Hoshi, grupos influentes da URID e dos Emirados e famílias lakelandianas endividadas com interesses medrimartianos. Essas relações não formavam um bloco uniforme, nem significavam que todos compartilhavam os mesmos objetivos. Alguns buscavam recuperar mercados, outros precisavam proteger propriedades, e outros ainda desejavam evitar que novas guerras destruíssem o que restava de sua influência. O ponto de convergência era a percepção de que uma ordem internacional estável oferecia benefícios que a continuação dos conflitos já não podia garantir.\n\nA influência medrimartiana manifestou-se na construção de uma coalizão diplomática informal. Em vez de depender apenas de declarações oficiais, o reino utilizou relações econômicas, dívidas, contratos e interesses compartilhados para aproximar participantes que normalmente defenderiam posições diferentes. A Coroa podia apresentar a paz como uma necessidade para a sobrevivência do comércio, enquanto os grupos estrangeiros reconheciam que a reabertura de mercados e a segurança das rotas beneficiariam suas próprias economias. Essa forma de influência refletia a experiência histórica de Medrimart: assim como as guildas precisavam negociar para manter uma cidade abastecida, as nações precisavam encontrar mecanismos de cooperação para impedir que a rivalidade destruísse as condições de prosperidade. A diplomacia não eliminou a desconfiança, mas ofereceu meios para transformar interesses dispersos em compromissos capazes de sustentar uma nova organização internacional.\n\nEm 1800, esse processo culminou na criação da Liga das Nações Unificadas. O tratado dissolveu a estrutura da Aliança Stalingrad e estabeleceu a devolução dos territórios colonizados aos seus respectivos proprietários, encerrando uma etapa da ordem internacional construída durante as guerras. A LNU não era simplesmente uma extensão da influência medrimartiana, nem um instrumento controlado pela Coroa Pendragon. Reunia nações com interesses próprios, experiências distintas e razões diferentes para aceitar a nova ordem. Medrimart contribuiu para sua formação, mas precisava reconhecer os limites de sua influência. A dependência dos mercados estrangeiros significava que o reino tinha muito a ganhar com a estabilidade, porém não podia obrigar os demais participantes a adotar todas as suas prioridades. O livre comércio passou a ser defendido como um fundamento da recuperação, embora sua aplicação dependesse de negociações e da disposição de cada nação em aceitar compromissos.\n\nA criação da LNU alterou o ambiente no qual Medrimart precisaria reconstruir sua economia. O fim da antiga aliança e a devolução dos territórios colonizados reduziram a possibilidade de manter a ordem anterior, mas abriram espaço para relações comerciais que não dependessem diretamente da ocupação militar. Para as guildas, a nova realidade exigia reconstruir contratos, procurar compradores e adaptar operações a fronteiras e autoridades que voltavam a exercer controle sobre seus territórios. Para a Coroa, significava transformar a influência conquistada durante a crise em uma posição diplomática duradoura. A experiência ensinou que a força econômica podia contribuir para estabelecer uma ordem internacional, mas não substituía a necessidade de negociar com parceiros que possuíam interesses próprios. A LNU tornou-se, assim, tanto uma resposta às catástrofes das guerras quanto uma condição para a recuperação de Medrimart. A paz não devolveu imediatamente a prosperidade, mas criou o espaço necessário para que o reino voltasse a produzir, transportar e comercializar sem precisar organizar toda a sua política externa em torno de uma guerra permanente."
+                        },
+                        {
+                            "tipo": "A Era Moderna (1800–presente)",
+                            "conteudo": "A recuperação de Medrimart começou antes que suas cidades voltassem a parecer prósperas. Nos primeiros anos da reconstrução, a economia ainda carregava os efeitos da Grande Depressão: empresas endividadas, instalações subutilizadas, rotas que haviam perdido seus compradores e mercadorias acumuladas em depósitos. Parte dos estoques preservados durante a crise havia sido retirada da circulação ou registrada contabilmente como perda, numa tentativa de reduzir a pressão sobre os preços. Esses recursos não se transformaram imediatamente em riqueza disponível, mas ofereceram uma vantagem quando os mercados começaram a se reabrir. A CONC e as grandes guildas puderam recuperar produtos, reorganizar contratos e oferecer mercadorias a preços competitivos, procurando reconquistar compradores que haviam recorrido a outros fornecedores durante as guerras. O movimento não foi uma retomada simples do passado. As empresas precisaram avaliar quais mercados ainda eram viáveis, quais rotas poderiam voltar a operar e quais produtos exigiam mudanças para atender às novas condições. A recuperação dependeu tanto da disponibilidade de mercadorias quanto da capacidade de restabelecer confiança entre comerciantes que haviam aprendido, durante a crise, que um parceiro aparentemente sólido podia desaparecer junto com seu mercado.\n\nA CONC voltou a ocupar uma posição importante na expansão internacional de Medrimart, mas a experiência da depressão modificou a maneira como o reino encarava o comércio. Em vez de depender de um único grande parceiro ou de concentrar todos os investimentos em poucas rotas, as empresas procuraram distribuir riscos, diversificar compradores e estabelecer redes capazes de sobreviver à perda de um mercado específico. As guildas ampliaram suas operações para outros países, investindo em distribuição, armazenamento, produção e serviços. O comércio medrimartiano passou a incluir não apenas a venda de mercadorias, mas também a exportação de conhecimentos, métodos de gestão, soluções logísticas e serviços técnicos. O objetivo era tornar as empresas úteis em diferentes etapas da economia de outras nações, criando relações que não dependessem de uma única remessa ou de um único contrato. A defesa do livre comércio tornou-se um princípio importante da política externa porque mercados acessíveis e rotas confiáveis eram indispensáveis para a continuidade desse modelo. A Coroa apoiava a expansão, mas o alcance internacional de Medrimart dependia cada vez mais da capacidade das guildas e de suas organizações de atuar em ambientes econômicos diversos.\n\nA transformação também era visível no próprio território. As cidades fortificadas continuaram a definir a paisagem medrimartiana, com muralhas, portões monumentais, edifícios de pedra e centros urbanos que reuniam mercados, oficinas, instalações administrativas e áreas residenciais. Entretanto, os acessos às cidades haviam sido adaptados ao movimento dos caminhões gigantescos que constituíam a base do transporte interno. As grandes avenidas atravessavam o reino, conectando áreas agrícolas, centros industriais, depósitos, portos e mercados regionais por trajetos que podiam durar muitos dias. Ao longo das estradas, postos de abastecimento, oficinas, áreas de descanso e instalações de apoio permitiam que os comboios continuassem a viagem por regiões distantes dos principais centros urbanos. A antiga cultura das caravanas sobrevivia na organização dos transportes: os veículos viajavam em grupos, os carregamentos eram planejados, as equipes coordenavam a manutenção e a segurança, e a reputação de uma companhia dependia da capacidade de entregar suas cargas no destino. Para muitos habitantes, as avenidas eram mais do que infraestrutura. Eram a ligação material entre sua cidade e o restante da nação, o caminho pelo qual chegavam alimentos, ferramentas, notícias, trabalhadores e mercadorias produzidas a centenas de quilômetros.\n\nA integração rodoviária não eliminou todas as formas de transporte, mas estabeleceu uma distinção política importante. As linhas ferroviárias que ligam Medrimart a Lakeland permaneceram sob controle exclusivo da família Pendragon. Ao contrário das redes rodoviárias utilizadas pelas guildas e por empresas de transporte, a ferrovia internacional constituía uma propriedade estratégica da dinastia, cuja operação e acesso dependiam da Coroa. Essa ligação permitia manter uma conexão direta com Lakeland sem entregar às grandes guildas o controle de toda a infraestrutura de transporte internacional. A ferrovia era, assim, uma expressão concreta da posição particular dos Pendragon: embora a economia medrimartiana dependesse de organizações privadas, a família real preservava ativos que lhe permitiam agir de forma independente em questões consideradas estratégicas. As avenidas conectavam o reino por meio de uma multiplicidade de operadores; a ferrovia ligava duas nações sob a autoridade exclusiva da dinastia. Essa diferença reforçava o caráter singular do sistema medrimartiano, no qual a propriedade privada e o poder real coexistiam sem se confundirem completamente.\n\nA segurança também foi transformada pela experiência acumulada nas guerras e na competição corporativa. Os serviços especializados em contraterrorismo e contrainteligência, criados para responder a ataques, espionagem industrial e ameaças às rotas, evoluíram gradualmente até contribuir para a fundação da DCM. A instituição herdou conhecimentos desenvolvidos ao longo de décadas, mas passou a operar em um cenário no qual as ameaças já não se limitavam às cidades comerciais ou aos segredos das grandes empresas. A circulação internacional de informações, tecnologias e recursos exigia capacidades de investigação e coordenação mais amplas. A história dessa transição preservava uma tensão antiga: a segurança de Medrimart dependia da proteção de interesses econômicos privados, mas o uso de instrumentos de segurança também precisava considerar a estabilidade do reino como um todo. A DCM representava a institucionalização de uma experiência que havia começado de maneira prática, quando as guildas e a Coroa perceberam que proteger mercadorias já não era suficiente; era necessário proteger as redes de informação e as condições que permitiam à economia continuar funcionando.\n\nMedrimart passou ainda a participar de projetos internacionais por meio de financiamento, consultoria e transferência de conhecimento. O Projeto Deméter, iniciado em 1818 nas Terras Selvagens da URID, tornou-se um exemplo importante desse modelo. A iniciativa prevê nove megacidades agrícolas isoladas por domos, concebidas para sustentar a produção em condições difíceis. A participação financeira medrimartiana corresponde a aproximadamente 8% a 16% do valor total, enquanto organizações privadas fornecem consultoria e mobilizam engenheiros e especialistas para contribuir com o desenvolvimento técnico. A divisão entre financiamento, execução e conhecimento permite que Medrimart participe de projetos de grande escala sem assumir sozinho os custos ou a administração de toda a iniciativa. O reino oferece capital, experiência e profissionais, enquanto os demais participantes mantêm responsabilidades próprias. Essa forma de atuação reflete uma lição aprendida durante a Grande Depressão: a influência pode ser mais duradoura quando depende de relações distribuídas entre vários parceiros, em vez de concentrar todos os riscos em uma única organização.\n\nA era moderna não apagou as contradições de Medrimart. A concentração de riqueza continua a conceder às grandes guildas influência considerável, enquanto a Coroa precisa equilibrar a defesa de seus próprios interesses com a necessidade de manter uma economia aberta e produtiva. A dependência de mercados internacionais permanece uma vulnerabilidade, mesmo depois das tentativas de diversificação. A diferença está na consciência adquirida durante a depressão: o reino aprendeu que a expansão sem mecanismos de proteção pode transformar prosperidade em fragilidade, e que uma infraestrutura extensa só produz riqueza quando existem mercadorias, compradores e confiança para mantê-la em movimento. Por isso, a estratégia moderna combina comércio internacional, transporte rodoviário, investimentos privados, proteção de informações e relações diplomáticas. Medrimart tornou-se uma potência comercial e exportadora de modelos econômicos, industriais e logísticos, não porque tenha deixado de enfrentar crises, mas porque aprendeu a transformar suas experiências em instrumentos de recuperação. Suas muralhas preservam a memória de uma sociedade nascida sob ameaça; suas avenidas e seus gigantescos comboios demonstram a importância que ela atribui à circulação; a ferrovia Pendragon revela que a dinastia ainda mantém sob controle direto uma ligação estratégica com Lakeland. Em Medrimart, a história continua presente na organização das cidades, no trabalho das guildas e no movimento incessante das mercadorias, fazendo da sobrevivência econômica não apenas uma necessidade, mas um dos princípios fundamentais da identidade nacional."
+                        }
+                    ]
+                },
+                {
+                    "id": "periodos-marcantes",
+                    "titulo": "Períodos e Eventos Históricos",
+                    "periodos": [
+                        {
+                            "tipo": "Destroços de Marfim",
+                            "periodo": "723–915",
+                            "conteudo": "Medrimart nasceu de uma ruptura que Lakeland jamais conseguiu encerrar completamente. O Golpe da Maioridade, a crise de sucessão e a guerra civil que se seguiu destruíram a estabilidade da antiga ordem. A Grande Penegrinação deslocou comunidades inteiras, entre elas os Pendragon, que precisaram reconstruir sua posição longe do centro de poder lakelandiano. A Heresia de Aldari e as perseguições religiosas agravaram a crise, levando comunidades a buscar proteção e autonomia nos territórios coloniais. A tentativa de Lakeland de recuperar o controle culminou na expedição contra Porto Real, em 912. A resistência associada a Joana d’Arc fortaleceu a união entre comunidades distintas, e a marcha sobre Brasrit demonstrou a capacidade dos independentistas de desafiar a autoridade central. Em 915, a independência foi reconhecida e a nova nação assumiu o nome de Medrimart. A separação, porém, não resolveu automaticamente as disputas por terras, recursos e autoridade. Os Pendragon reconstruíram sua influência por meio da propriedade, dos acordos e da proteção oferecida ao novo reino. O exílio tornou-se parte da memória nacional, dando origem a uma cultura que desconfia da dependência absoluta, valoriza a segurança material e entende a sobrevivência como algo que precisa ser organizado.",
+                            "eventos": [
+                                {
+                                    "data": "912",
+                                    "titulo": "Expedição contra Porto Real",
+                                    "descricao": "Lakeland tenta restabelecer o controle sobre os territórios coloniais, desencadeando uma resistência que transforma a crise política em conflito pela autonomia."
+                                },
+                                {
+                                    "data": "915",
+                                    "titulo": "Independência de Medrimart",
+                                    "descricao": "A ameaça a Brasrit e a resistência dos independentistas contribuem para consolidar a separação de Lakeland e o nascimento oficial de Medrimart."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "A Formação da Identidade Medrimartiana",
+                            "periodo": "915–1200",
+                            "conteudo": "Durante as Guerras Santas, Medrimart desenvolveu uma identidade baseada na sobrevivência coletiva, na defesa urbana e na organização dos recursos. As cidades passaram a investir em fortificações, depósitos, oficinas e sistemas de abastecimento capazes de resistir a cercos e interrupções comerciais. As guildas organizaram a produção, o transporte e o comércio, conquistando influência por sua capacidade de manter as comunidades funcionando. Em 920, a Coroa Pendragon consolidou-se como principal referência de autoridade, embora dependesse das grandes guildas para preservar a estabilidade econômica. Cidades fortificadas, mercados e caravanas protegidas estabeleceram uma rede que ligava os centros urbanos sem torná-los completamente dependentes do exterior. As Guerras Santas também contribuíram para definir os limites entre Igreja e governo: a Igreja manteve neutralidade política e autoridade absoluta dentro de seu próprio distrito, o Palácio das Joias. Ao final desse período, Medrimart possuía instituições próprias, uma Coroa apoiada em patrimônio e acordos, guildas economicamente poderosas e uma cultura que associava cooperação, confiança e sobrevivência.",
+                            "eventos": [
+                                {
+                                    "data": "920",
+                                    "titulo": "Consolidação da Coroa Pendragon",
+                                    "descricao": "A dinastia Pendragon estabelece-se como principal referência de autoridade do reino, compartilhando influência com as guildas que controlam recursos, produção e redes de abastecimento."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "Grandes Navegações",
+                            "periodo": "1200–1498",
+                            "conteudo": "As Grandes Navegações ampliaram a tradição comercial medrimartiana, formada por cidades fortificadas, contratos entre guildas e caravanas protegidas. Em 1202, a criação da Companhia Oriental do Novo Comércio, a CONC, reuniu capitais e permitiu financiar expedições, negociar acesso a portos e coordenar mercadorias entre regiões distantes. O Porto de Águas Claras tornou-se parte importante dessa infraestrutura, conectando o comércio marítimo às rotas terrestres. A partir de 1400, a expansão nas Terras Selvagens assumiu um caráter mais violento, com colonização, disputas por recursos, resistência dos povos locais e custos crescentes para proteger assentamentos distantes. Quando a ocupação direta se mostrou onerosa, Medrimart passou a privilegiar relações comerciais com intermediários, portos e redes privadas. As rotas entre Medrimart, o Arquipélago e o Império do Sol demonstraram que a influência econômica não dependia apenas de possuir territórios, mas de controlar pontos indispensáveis à circulação de mercadorias. Essa experiência estabeleceu as bases do poder comercial que sustentaria a futura industrialização.",
+                            "eventos": [
+                                {
+                                    "data": "1202",
+                                    "titulo": "Fundação da Companhia Oriental do Novo Comércio",
+                                    "descricao": "A CONC reúne grandes interesses mercantis e passa a coordenar expedições, contratos e redes de comércio internacional."
+                                },
+                                {
+                                    "data": "1400",
+                                    "titulo": "Expansão nas Terras Selvagens",
+                                    "descricao": "Medrimart amplia sua presença nas Terras Selvagens, disputando recursos e posições estratégicas, enquanto enfrenta resistência local e custos crescentes de ocupação."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "Acordo Tecnológico com Lakeland",
+                            "periodo": "1500–1503",
+                            "conteudo": "A invenção da máquina a vapor por James Watt, em 1498, marcou o início de uma transformação tecnológica que avançaria nos anos seguintes. Em 1500, a Revolução Termopunk e os acontecimentos associados à queima prolongada do Nightblood intensificaram as preocupações com o potencial e os riscos das novas tecnologias. Medrimart e Lakeland negociaram um acordo destinado a conter a possibilidade de uma guerra de grandes proporções. O tratado envolveu a cessão de parte do território lakelandiano e restrições à exportação de tecnologia a vapor por Medrimart. O conhecimento industrial tornou-se instrumento diplomático, demonstrando que a capacidade produtiva podia ser utilizada para exercer pressão internacional sem recorrer diretamente à guerra. Concluído em 1503, o acordo estabeleceu as condições políticas e estratégicas para a expansão posterior do vapor em Medrimart.",
+                            "eventos": [
+                                {
+                                    "data": "1498",
+                                    "titulo": "Invenção da máquina a vapor por James Watt",
+                                    "descricao": "A invenção inaugura uma transformação tecnológica que altera as perspectivas de produção industrial e transporte."
+                                },
+                                {
+                                    "data": "1500",
+                                    "titulo": "Revolução Termopunk",
+                                    "descricao": "Os acontecimentos relacionados à queima prolongada do Nightblood intensificam as preocupações sobre os riscos estratégicos das novas tecnologias."
+                                },
+                                {
+                                    "data": "1500–1503",
+                                    "titulo": "Negociação do Acordo Tecnológico",
+                                    "descricao": "Medrimart e Lakeland negociam concessões territoriais e restrições à exportação de tecnologia a vapor para evitar um confronto de grandes proporções."
+                                },
+                                {
+                                    "data": "1503",
+                                    "titulo": "Conclusão do Acordo Tecnológico",
+                                    "descricao": "O acordo é concluído, estabelecendo condições políticas para a expansão da tecnologia a vapor em Medrimart."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "Era do Vapor em Medrimart",
+                            "periodo": "1503–1523",
+                            "conteudo": "A partir de 1503, Medrimart entrou em uma nova etapa de industrialização, marcada pela ampliação do vapor, pelo crescimento da produção mecanizada e pela adaptação da infraestrutura. As guildas investiram em equipamentos, fábricas e sistemas de abastecimento, enquanto a Coroa ampliou sua influência por meio da propriedade de ativos industriais e estratégicos. As antigas caravanas começaram a ser substituídas por comboios de caminhões gigantescos, mas a lógica coletiva do transporte permaneceu: cargas planejadas, equipes coordenadas, manutenção e proteção das rotas. Em vez de desenvolver uma rede ferroviária nacional, Medrimart investiu em grandes avenidas ligando cidades fortificadas, fábricas, áreas agrícolas, portos e depósitos. As muralhas continuaram a proteger os centros urbanos, enquanto as estradas garantiam o abastecimento e a integração econômica. A industrialização aumentou a produtividade, mas também aprofundou a dependência de matérias-primas, compradores e mercados internacionais. A prosperidade passou a depender do movimento contínuo de mercadorias pelas cidades, avenidas e rotas comerciais.",
+                            "eventos": [
+                                {
+                                    "data": "1503",
+                                    "titulo": "Início da Era do Vapor em Medrimart",
+                                    "descricao": "A conclusão do acordo tecnológico marca a transição para a expansão industrial baseada no vapor."
+                                },
+                                {
+                                    "data": "1504",
+                                    "titulo": "Expansão da industrialização",
+                                    "descricao": "As guildas ampliam os investimentos em fábricas, equipamentos e produção mecanizada, acelerando a transformação econômica do reino."
+                                },
+                                {
+                                    "data": "1523",
+                                    "titulo": "Consolidação da infraestrutura industrial",
+                                    "descricao": "A economia medrimartiana encontra-se cada vez mais estruturada em torno da produção mecanizada, do transporte rodoviário e da circulação internacional de mercadorias."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "Avante ao Futuro",
+                            "periodo": "1523–1749",
+                            "conteudo": "A Guerra do Mar do Oriente, em 1513, abriu uma nova etapa da expansão medrimartiana. As guildas ampliaram seus investimentos por meio de companhias privadas, acordos locais e intermediários, procurando estabelecer presença em mercados estratégicos sem depender exclusivamente da anexação territorial. François e Inflaterya tornaram-se pontos importantes dessa estratégia, enquanto a expansão no Arquipélago avançou por cidades-porta e redes comerciais. Em Teiko, a implantação de uma companhia local e das Docas do Caracol, em 1603, ofereceu uma base para receber, armazenar e redistribuir mercadorias. A expansão também gerou tensões: ataques contra cidades comerciais e instalações de transporte levaram as guildas a investir em segurança, proteção de informações e continuidade operacional. A espionagem corporativa tornou-se uma ameaça crescente, e Medrimart desenvolveu serviços de contraterrorismo e contrainteligência, formalizados em 1735 e posteriormente aproveitados na formação da DCM. Paralelamente, Medrimart enviou recrutas, suprimentos e apoio tecnológico à Aliança Stalingrad nas guerras contra a URID nas Terras Selvagens. Apesar de sua contribuição industrial e logística, a liderança estratégica permanecia nas mãos de Lakeland. Medrimart passou a enfrentar o custo de sustentar uma rede comercial internacional e compromissos militares que não controlava inteiramente.",
+                            "eventos": [
+                                {
+                                    "data": "1513",
+                                    "titulo": "Guerra do Mar do Oriente",
+                                    "descricao": "O conflito altera o equilíbrio regional e abre novas oportunidades para a expansão comercial medrimartiana."
+                                },
+                                {
+                                    "data": "1603",
+                                    "titulo": "Estabelecimento das Docas do Caracol",
+                                    "descricao": "A infraestrutura portuária em Teiko fortalece a presença comercial de Medrimart nos mercados do Arquipélago."
+                                },
+                                {
+                                    "data": "1735",
+                                    "titulo": "Formalização dos serviços de contraterrorismo e contrainteligência",
+                                    "descricao": "Medrimart estrutura serviços para proteger instalações, rotas, informações estratégicas e interesses comerciais, criando parte da base institucional que mais tarde contribuirá para a DCM."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "A Grande Depressão Medrimartiana",
+                            "periodo": "1750–1799",
+                            "conteudo": "A Grande Depressão nasceu da desarticulação progressiva das relações das quais a economia medrimartiana dependia. A guerra civil de Lakeland alterou o equilíbrio da Aliança Stalingrad e obrigou Medrimart a assumir responsabilidades maiores na coordenação estratégica do esforço de guerra. A Quarta Guerra Mundial, entre 1750 e 1775, destruiu a hegemonia da aliança e comprometeu mercados dos quais Medrimart dependia. A queda de Dysburgo, em 1756, o naufrágio do Bota-Fogo, em 1765, a invasão do Império do Sol, em 1770, as batalhas de Las 10 Noches, em 1773, e a destruição do Império do Sol, em 1775, desarticularam rotas, contratos e relações comerciais construídas ao longo de gerações. Entre 1776 e 1796, a Guerra Fria prolongou a instabilidade por meio de espionagem, sabotagem industrial e competição tecnológica. A Quinta Guerra Mundial, também conhecida como Guerra dos Deuses, entre 1797 e 1799, agravou a crise. O colapso dos parceiros comerciais desorganizou as operações da CONC, deixou fábricas sem compradores e acumulou mercadorias em armazéns. A inflação, a interrupção do crédito e a perda de confiança entre guildas agravaram a depressão. Medrimart abandonou os esforços de sustentar a antiga ordem da Aliança Stalingrad e concentrou-se na própria sobrevivência econômica. A crise transformou a percepção nacional de poder: uma rede comercial extensa podia transmitir prosperidade, mas também espalhar o colapso de um mercado para todos os outros.",
+                            "eventos": [
+                                {
+                                    "data": "1750–1775",
+                                    "titulo": "Quarta Guerra Mundial",
+                                    "descricao": "Conhecida na tradição da URID como Guerra dos Maiores, a guerra destrói a hegemonia da Aliança Stalingrad e compromete o equilíbrio comercial internacional."
+                                },
+                                {
+                                    "data": "1756",
+                                    "titulo": "Queda de Dysburgo",
+                                    "descricao": "A perda de uma posição estratégica demonstra os limites da capacidade militar da aliança."
+                                },
+                                {
+                                    "data": "1765",
+                                    "titulo": "Naufrágio do Bota-Fogo",
+                                    "descricao": "A perda da embarcação agrava as disputas pelo controle marítimo e evidencia a vulnerabilidade das rotas comerciais."
+                                },
+                                {
+                                    "data": "1770",
+                                    "titulo": "Invasão do Império do Sol",
+                                    "descricao": "A invasão abre uma nova etapa do conflito e ameaça um dos principais parceiros comerciais de Medrimart."
+                                },
+                                {
+                                    "data": "1773",
+                                    "titulo": "Las 10 Noches",
+                                    "descricao": "As batalhas precedem a destruição do Império do Sol e aprofundam a crise regional."
+                                },
+                                {
+                                    "data": "1775",
+                                    "titulo": "Destruição do Império do Sol",
+                                    "descricao": "O desaparecimento de um dos principais parceiros comerciais de Medrimart compromete mercados, contratos e rotas."
+                                },
+                                {
+                                    "data": "1776–1796",
+                                    "titulo": "Guerra Fria",
+                                    "descricao": "A rivalidade internacional prossegue por meio de espionagem, sabotagem industrial e competição tecnológica."
+                                },
+                                {
+                                    "data": "1797–1799",
+                                    "titulo": "Quinta Guerra Mundial — Guerra dos Deuses",
+                                    "descricao": "Operações clandestinas e disputas tecnológicas prolongam a instabilidade e agravam a depressão."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "A Liga das Nações Unificadas",
+                            "periodo": "1799–1800",
+                            "conteudo": "Após décadas de guerras, Medrimart conservava uma rede de relações comerciais e pessoais que podia ajudar a reconstruir a estabilidade internacional. A Primeira Convenção de Paz Global, em 1799, abriu caminho para reorganizar as relações entre as nações. Medrimart aproveitou conexões econômicas, dívidas, contratos e interesses compartilhados para aproximar grupos que tinham muito a perder com a continuação dos conflitos. Em 1800, esse processo culminou na criação da Liga das Nações Unificadas. O tratado dissolveu a estrutura da Aliança Stalingrad e estabeleceu a devolução dos territórios colonizados aos seus respectivos proprietários. A LNU não era controlada pela Coroa Pendragon: reunia nações com interesses próprios, e sua estabilidade dependia de negociações contínuas. Para Medrimart, a paz e o livre comércio tornaram-se condições materiais para recuperar compradores, restabelecer o crédito e reconstruir as rotas internacionais. A experiência confirmou que a influência econômica podia contribuir para estabelecer uma ordem internacional, mas não substituía a necessidade de negociar com parceiros independentes.",
+                            "eventos": [
+                                {
+                                    "data": "1799",
+                                    "titulo": "Primeira Convenção de Paz Global",
+                                    "descricao": "As nações iniciam negociações para reorganizar as relações internacionais após décadas de guerra, sabotagem e disputas tecnológicas."
+                                },
+                                {
+                                    "data": "1800",
+                                    "titulo": "Criação da Liga das Nações Unificadas",
+                                    "descricao": "A LNU é estabelecida, a Aliança Stalingrad é dissolvida e inicia-se a devolução dos territórios colonizados aos seus respectivos proprietários."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "A Era Moderna",
+                            "periodo": "1800–presente",
+                            "conteudo": "A recuperação de Medrimart começou antes que suas cidades voltassem a parecer prósperas. A CONC e as grandes guildas reorganizaram estoques, contratos e rotas, procurando reconquistar mercados e diversificar compradores para reduzir a dependência de parceiros específicos. O comércio passou a incluir não apenas mercadorias, mas também conhecimentos, métodos de gestão, soluções logísticas e serviços técnicos. No território nacional, as cidades fortificadas permaneceram como marcas da identidade medrimartiana, enquanto grandes avenidas conectavam centros industriais, áreas agrícolas, portos e depósitos. Os caminhões gigantescos mantiveram viva a antiga lógica das caravanas, com comboios planejados, manutenção coordenada e proteção das cargas. As linhas ferroviárias que ligam Medrimart a Lakeland permaneceram sob controle exclusivo da família Pendragon, preservando uma conexão estratégica sob autoridade dinástica. Os serviços de contraterrorismo e contrainteligência evoluíram e contribuíram para a fundação da DCM. Medrimart também passou a participar de projetos internacionais por meio de financiamento, consultoria e transferência de conhecimento. O Projeto Deméter, iniciado em 1818 nas Terras Selvagens da URID, prevê nove megacidades agrícolas isoladas por domos, com participação financeira medrimartiana estimada entre 8% e 16% do valor total e contribuição de organizações privadas em consultoria e engenharia. A era moderna não eliminou as contradições nacionais: as guildas mantêm grande influência econômica, a Coroa protege ativos estratégicos e a dependência de mercados internacionais permanece uma vulnerabilidade. Medrimart procura equilibrar expansão comercial, diversificação, segurança e diplomacia, transformando as lições da Grande Depressão em parte de sua estratégia nacional.",
+                            "eventos": [
+                                {
+                                    "data": "1800",
+                                    "titulo": "Início da reconstrução econômica",
+                                    "descricao": "Com o estabelecimento da LNU, Medrimart inicia a reorganização de contratos, estoques e rotas comerciais após a Grande Depressão."
+                                },
+                                {
+                                    "data": "1818",
+                                    "titulo": "Projeto Deméter",
+                                    "descricao": "Iniciativa nas Terras Selvagens da URID para construir nove megacidades agrícolas protegidas por domos, com financiamento parcial medrimartiano e apoio técnico de organizações privadas."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "estrutura-politica",
+            "icone": "⚖️",
+            "titulo": "Estrutura Política",
+            "subsecoes": [
+                {
+                    "id": "forma-de-governo",
+                    "titulo": "Forma de governo",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "lideres-principais",
+                    "titulo": "Líderes principais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "sucessao-eleicao",
+                    "titulo": "Forma de sucessão ou eleição",
+                    "texto": ""
+                },
+                {
+                    "id": "leis-sistema-judicial",
+                    "titulo": "Leis e sistema judicial",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "tabela",
+                            "titulo": "",
+                            "colunas": [
+                                "Princípio",
+                                "Descrição"
+                            ],
+                            "linhas": []
+                        }
+                    ]
+                },
+                {
+                    "id": "organizacao-militar",
+                    "titulo": "Organização militar e de defesa",
+                    "blocos": [
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "faccoes-politicas",
+                    "titulo": "Facções políticas internas",
+                    "faccoes": [
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "interesses-atuais",
+                    "titulo": "Interesses atuais",
+                    "blocos": [
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "relacoes-internacionais",
+            "icone": "🌍",
+            "titulo": "Relações Internacionais e Diplomacia",
+            "subsecoes": [
+                {
+                    "id": "aliados-inimigos",
+                    "titulo": "Aliados e inimigos históricos",
+                    "blocos": [
+                        {
+                            "tipo": "comparacao",
+                            "titulo": "",
+                            "ladoA": {
+                                "titulo": "",
+                                "descricao": "",
+                                "itens": []
+                            },
+                            "ladoB": {
+                                "titulo": "",
+                                "descricao": "",
+                                "itens": []
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "tratados-acordos",
+                    "titulo": "Tratados e acordos vigentes",
+                    "blocos": [
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "influencia-cultural",
+                    "titulo": "Influência cultural externa",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "influencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "influencia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "espionagem-diplomacia",
+                    "titulo": "Espionagem e diplomacia secreta",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "postura-internacional",
+                    "titulo": "Postura internacional atual",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "conflitos-ativos",
+                    "titulo": "Conflitos ativos e tensões escaláveis",
+                    "blocos": [
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "percepcao-internacional",
+                    "titulo": "Percepção internacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "dependencias-estrategicas",
+                    "titulo": "Dependências estratégicas",
+                    "blocos": [
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "problemas-contradicoes",
+            "icone": "💀",
+            "titulo": "Problemas e Contradições",
+            "subsecoes": [
+                {
+                    "id": "desigualdades-sociais",
+                    "titulo": "Desigualdades sociais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "geografia-territorio",
+            "icone": "🗺️",
+            "titulo": "Geografia e Território",
+            "subsecoes": [
+                {
+                    "id": "capital",
+                    "titulo": "Capital",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "principais-cidades",
+                    "titulo": "Principais cidades",
+                    "blocos": [
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "clima-geografia",
+                    "titulo": "Clima e geografia natural",
+                    "blocos": [
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "recursos-naturais",
+                    "titulo": "Recursos naturais",
+                    "blocos": [
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "regioes-notaveis",
+                    "titulo": "Regiões notáveis",
+                    "blocos": [
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fronteiras-vizinhas",
+                    "titulo": "Fronteiras e nações vizinhas",
+                    "blocos": [
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vida-selvagem",
+            "icone": "🐉",
+            "titulo": "Vida Selvagem e Ecossistema",
+            "subsecoes": [
+                {
+                    "id": "fauna-dominante",
+                    "titulo": "Fauna dominante",
+                    "blocos": [
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "especies-unicas",
+                    "titulo": "Espécies únicas ou simbólicas",
+                    "blocos": [
+                        {
+                            "tipo": "especie-simbolica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie-simbolica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "criaturas-lendarias",
+                    "titulo": "Criaturas ameaçadoras ou lendárias",
+                    "blocos": [
+                        {
+                            "tipo": "criatura-lendaria",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "criatura-lendaria",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "humanos-natureza",
+                    "titulo": "Relação entre humanos e natureza",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fauna-tecnologia",
+                    "titulo": "Uso da fauna na tecnologia",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "arquitetura-monumentos",
+            "icone": "🏛️",
+            "titulo": "Arquitetura e Monumentos",
+            "subsecoes": [
+                {
+                    "id": "estilo-arquitetonico",
+                    "titulo": "Estilo arquitetônico predominante",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "megaestruturas",
+                    "titulo": "Megaestruturas imperiais",
+                    "blocos": [
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "monumentos-historicos",
+                    "titulo": "Monumentos históricos",
+                    "blocos": [
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "edificios-importantes",
+                    "titulo": "Edifícios e instituições emblemáticas",
+                    "blocos": [
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "simbolismo-urbano",
+                    "titulo": "Simbolismo urbano",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "simbolo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "simbolo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "obras-engenharia",
+                    "titulo": "Grandes obras de engenharia",
+                    "blocos": [
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cultura-valores",
+            "icone": "🎭",
+            "titulo": "Cultura, Valores e Sociedade",
+            "subsecoes": [
+                {
+                    "id": "virtudes",
+                    "titulo": "Virtudes e ideais predominantes",
+                    "blocos": [
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "cultura-profunda",
+                    "titulo": "Cultura profunda",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "estrutura-social-cultural",
+                    "titulo": "Estrutura social",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tabela",
+                            "titulo": "",
+                            "colunas": [
+                                "Conceito",
+                                "Importância"
+                            ],
+                            "linhas": []
+                        }
+                    ]
+                },
+                {
+                    "id": "familia-relacoes",
+                    "titulo": "Família e relações pessoais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "visao-morte",
+                    "titulo": "Visão sobre morte e legado",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "arte-narrativas",
+                    "titulo": "Arte e narrativas populares",
+                    "blocos": [
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "filosofia-tradicao",
+            "icone": "📖",
+            "titulo": "Filosofia e Tradição",
+            "subsecoes": [
+                {
+                    "id": "doutrina-moral",
+                    "titulo": "Doutrina moral e ética",
+                    "blocos": [
+                        {
+                            "tipo": "Resumo",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "feriados-celebracoes",
+                    "titulo": "Feriados e celebrações",
+                    "blocos": [
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "costumes-ancestrais",
+                    "titulo": "Costumes ancestrais",
+                    "blocos": [
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "religiao",
+            "icone": "⛪",
+            "titulo": "Religião e Espiritualidade",
+            "subsecoes": [
+                {
+                    "id": "visao-espiritual",
+                    "titulo": "Visão espiritual predominante",
+                    "blocos": [
+                        {
+                            "tipo": "Resumo",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "crencas-principais",
+                    "titulo": "Crenças principais",
+                    "blocos": [
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "instituicoes-religiosas",
+                    "titulo": "Instituições religiosas",
+                    "blocos": [
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "rituais-cerimonias",
+                    "titulo": "Rituais e cerimônias",
+                    "blocos": [
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "morte-pos-vida",
+                    "titulo": "Morte e pós-vida",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "relacao-ciencia",
+                    "titulo": "Religião e ciência",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "variacoes-religiosas",
+                    "titulo": "Variações religiosas internas",
+                    "blocos": [
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "populacao",
+            "icone": "👥",
+            "titulo": "População e Sociedade",
+            "subsecoes": [
+                {
+                    "id": "quantidade-distribuicao",
+                    "titulo": "Quantidade e distribuição populacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "composicao-social",
+                    "titulo": "Composição social",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "vida-popular",
+                    "titulo": "Vida cotidiana da população",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "crescimento-populacional",
+                    "titulo": "Crescimento populacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "grupos-minoritarios",
+                    "titulo": "Grupos minoritários",
+                    "blocos": [
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "identidade-populacional",
+                    "titulo": "Identidade e mentalidade coletiva",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "estrutura-social",
+            "icone": "🏰",
+            "titulo": "Estrutura Social",
+            "subsecoes": [
+                {
+                    "id": "sistema-casas",
+                    "titulo": "Sistema de Casas",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "hierarquia-social",
+                    "titulo": "Hierarquia social",
+                    "blocos": [
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "mobilidade-social",
+                    "titulo": "Mobilidade social",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "papel-individuo",
+                    "titulo": "Papel do indivíduo",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "familia-e-criacao",
+                    "titulo": "Família e criação dos jovens",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "conflitos-sociais",
+                    "titulo": "Conflitos sociais",
+                    "blocos": [
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "visao-social",
+                    "titulo": "Visão coletiva da sociedade",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ciencia-tecnologia",
+            "icone": "⚙️",
+            "titulo": "Ciência e Tecnologia",
+            "subsecoes": [
+                {
+                    "id": "visao-cientifica",
+                    "titulo": "Visão científica e tecnológica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "areas-cientificas",
+                    "titulo": "Principais áreas científicas",
+                    "blocos": [
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "tecnologias-principais",
+                    "titulo": "Tecnologias principais",
+                    "blocos": [
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "instituicoes-cientificas",
+                    "titulo": "Instituições científicas",
+                    "blocos": [
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "ciencia-e-casas",
+                    "titulo": "Controle das Casas sobre ciência",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "ciencia-militar",
+                    "titulo": "Aplicações militares",
+                    "blocos": [
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "limites-eticos",
+                    "titulo": "Limites éticos e conflitos",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "economia",
+            "icone": "💰",
+            "titulo": "Economia",
+            "subsecoes": [
+                {
+                    "id": "modelo-economico",
+                    "titulo": "Modelo econômico predominante",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "setores-economicos",
+                    "titulo": "Principais setores econômicos",
+                    "blocos": [
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "recursos-estrategicos",
+                    "titulo": "Recursos estratégicos",
+                    "blocos": [
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "papel-das-casas",
+                    "titulo": "Papel das Casas na economia",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "trabalho-profissoes",
+                    "titulo": "Trabalho e profissões",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "comercio-internacional",
+                    "titulo": "Comércio internacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "desigualdade-economica",
+                    "titulo": "Desigualdade econômica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "filosofia-economica",
+                    "titulo": "Filosofia econômica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "curiosidade",
+            "icone": "💡",
+            "titulo": "Curiosidades da URID",
+            "subsecoes": [
+                {
+                    "id": "fatos-gerais",
+                    "titulo": "Fatos gerais",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "cultura-curiosa",
+                    "titulo": "Costumes curiosos",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "tecnologia-curiosa",
+                    "titulo": "Curiosidades tecnológicas",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "curiosidades-historicas",
+                    "titulo": "Curiosidades históricas",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "curiosidades-sociais",
+                    "titulo": "Curiosidades sociais",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fatos-incomuns",
+                    "titulo": "Fatos incomuns",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "videoAntesDasConexoes": {
+        "titulo": "",
+        "descricao": "",
+        "youtube": "",
+        "videoLocal": "",
+        "imagemCapa": ""
+    },
+    "relacionados": {
+        "personagens": [
+            ""
+        ],
+        "organizacoes": [
+            ""
+        ],
+        "localizacoes": [
+            ""
+        ],
+        "equipamentos": [
+            ""
+        ],
+        "eventos": [
+            ""
+        ],
+        "documentos": [
+            ""
+        ],
+        "tecnologias": [
+            ""
+        ],
+        "historias": [
+            ""
+        ],
+        "contos": [
+            ""
+        ]
+    },
+    "galeria": {
+        "titulo": "Imagens do Tema",
+        "descricao": "",
+        "imagens": [
+            {
+                "src": "",
+                "alt": "",
+                "legenda": ""
+            }
+        ]
+    }
+}

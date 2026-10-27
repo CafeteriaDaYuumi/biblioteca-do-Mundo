@@ -1,0 +1,2246 @@
+{
+    "id": "teiko",
+    "slug": "",
+    "tipo": "nacao",
+    "identificacao": {
+        "categoria": "Nação",
+        "codigo": "teiko",
+        "registro": "",
+        "nome": "Teiko",
+        "subtitulo": "Distrito livre de Teiko"
+    },
+    "versao": {
+        "criado": "",
+        "atualizado": "",
+        "versao": "1.0"
+    },
+    "tags": [
+        "Localização",
+        "Nação"
+    ],
+    "fontes": [
+        {
+            "tipo": "Reconstrução Memética",
+            "integridade": "~ %",
+            "origem": " — Sondagem Neurológica"
+        },
+        {
+            "tipo": "Análise de Consistência",
+            "integridade": "~ %",
+            "origem": " — Arquivos Embasados"
+        }
+    ],
+    "midiaTopo": {
+        "tipo": "video",
+        "imagemCapa": "",
+        "videoLocal": "",
+        "youtube": ""
+    },
+    "resumo": {
+        "midia": {
+            "tipo": "imagem",
+            "src": "",
+            "alt": ""
+        },
+        "campos": [
+            {
+                "rotulo": "Nome oficial",
+                "valor": ""
+            },
+            {
+                "rotulo": "Capital",
+                "valor": ""
+            },
+            {
+                "rotulo": "Dilema",
+                "valor": ""
+            },
+            {
+                "rotulo": "Língua",
+                "valor": ""
+            },
+            {
+                "rotulo": "Religião",
+                "valor": ""
+            },
+            {
+                "rotulo": "Cultura",
+                "valor": ""
+            },
+            {
+                "rotulo": "Moeda",
+                "valor": ""
+            },
+            {
+                "rotulo": "Padrão Fonotático",
+                "valor": ""
+            },
+            {
+                "rotulo": "Tecnologia predominante",
+                "valor": ""
+            },
+            {
+                "rotulo": "Situação política",
+                "valor": ""
+            }
+        ]
+    },
+    "estatisticas": {
+        "titulo": "Status da nação",
+        "indicadores": [
+            {
+                "indicador": "População",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "PIB",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Moeda",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Estabilidade política",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Poder militar (M.A.T)",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Nível tecnológico",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "IDH",
+                "pontuacao": "",
+                "notas": ""
+            },
+            {
+                "indicador": "Influência Global",
+                "pontuacao": "",
+                "notas": ""
+            }
+        ]
+    },
+    "indice": {
+        "automatico": true,
+        "fixo": true
+    },
+    "cronologia": [],
+    "citacoes": [
+        {
+            "texto": "",
+            "autor": ""
+        },
+        {
+            "texto": "",
+            "autor": ""
+        }
+    ],
+    "secoes": [
+        {
+            "id": "historia",
+            "icone": "🕰️",
+            "titulo": "História",
+            "subsecoes": [
+                {
+                    "id": "resumo-historico",
+                    "titulo": "Resumo",
+                    "blocos": [
+                        {
+                            "tipo": "Origem e abandono",
+                            "conteudo": "Antes de se tornar uma nação independente, Teiko era um distrito pertencente a uma das quatro famílias fundadoras da Federação de Yottsu Hoshi. A ilha, porém, nunca foi desabitada: comunidades locais já viviam ali muito antes das grandes disputas marítimas. Durante a Guerra do Mar do Oriente, em 1513, os conflitos destruíram as frotas navais das quatro famílias e alteraram profundamente o equilíbrio de poder da região. Embora a Aliança Stalingrad tenha conquistado influência sobre as rotas marítimas e demonstrado interesse em outros territórios, Teiko não foi anexada por ela. A presença de habitantes locais e de comunidades já estabelecidas fez com que a ilha não se tornasse um alvo prioritário de ocupação. Por anos, Teiko permaneceu abandonada pelas autoridades que antes reivindicavam seu território. Nesse período, sobreviventes de naufrágios, refugiados e desertores de diferentes lados do conflito chegaram às suas costas. Muitos encontraram abrigo entre as comunidades existentes, enquanto outros precisaram reconstruir a própria vida utilizando os destroços deixados pelo conflito. O abandono, que inicialmente parecia condenar a ilha ao isolamento e à pobreza, acabou criando as condições para o surgimento de uma sociedade singular, formada pela convivência entre povos distintos e pela necessidade de sobreviver longe das grandes potências."
+                        },
+                        {
+                            "tipo": "A Doca do Caracol e a formação cultural",
+                            "conteudo": "Com a consolidação do controle marítimo pela Aliança Stalingrad, Teiko passou gradualmente a estabelecer relações comerciais com a Companhia Oriental do Novo Comércio (CONC), organização mercantil ligada a Medrimart. A Doca do Caracol tornou-se o principal ponto de contato entre a ilha e os comerciantes estrangeiros. Por meio dela, mercadorias, conhecimentos e influências culturais passaram a circular entre Teiko e o mundo exterior. A CONC investiu no comércio local, comprou e vendeu produtos e conquistou acesso aos mercados da ilha, mas nunca transformou Teiko em uma colônia formal. A relação era comercial, não uma soberania estrangeira sobre o território. Ainda assim, o contato com mercadores e viajantes trouxe novas técnicas, materiais e costumes, que se misturaram às tradições das comunidades locais e dos sobreviventes que haviam encontrado abrigo na ilha. A identidade teikiana nasceu dessa combinação: uma cultura que aprendeu a aproveitar os recursos disponíveis, reaproveitar os vestígios das guerras e preservar conhecimentos que as sociedades industriais começavam a abandonar. Com o tempo, a população desenvolveu uma relação profunda com a natureza, o corpo humano e o aperfeiçoamento pessoal. As artes marciais tradicionais ganharam destaque, assim como a medicina natural, a produção orgânica e o artesanato refinado. Teiko passou a valorizar a disciplina, a paciência e o domínio técnico acima da velocidade da mecanização. Enquanto outras nações investiam cada vez mais em máquinas e fábricas, os teikianos aperfeiçoavam práticas transmitidas entre gerações, tornando-se reconhecidos por suas técnicas de combate, seus tratamentos naturais e suas peças artesanais."
+                        },
+                        {
+                            "tipo": "Domínio federativo e Revolução de Teiko",
+                            "conteudo": "A expansão marítima da Federação de Yottsu Hoshi acabou levando suas autoridades a reivindicar Teiko e estabelecer domínio territorial sobre a ilha. A incorporação submeteu os habitantes a uma administração distante, pouco familiarizada com a realidade local e incapaz de compreender a sociedade que havia se formado durante os anos de abandono. O governador enviado pela Federação impôs impostos elevados, negligenciou as necessidades da população e tratou com desprezo os costumes compartilhados pelas diferentes comunidades teikianas. Tradições locais foram proibidas ou reprimidas, enquanto a administração tentava impor sua autoridade sem considerar a identidade própria da ilha. A insatisfação cresceu à medida que os habitantes perceberam que a presença federativa oferecia obrigações e punições, mas pouco em troca. A violência atingiu um ponto decisivo durante o Genocídio da Maré Vermelha, cometido pela Federação, episódio que aprofundou o ressentimento popular e transformou a resistência em um movimento de libertação. A morte do governador em meio à crescente oposição tornou evidente que a autoridade federativa já não conseguia governar a ilha sem enfrentar resistência. Em 1806, a Revolução de Teiko rompeu abertamente com o domínio federal. Elina abandonou a lealdade às autoridades federativas e se juntou aos rebeldes, contribuindo para a ruptura política. A independência não foi apenas resultado de uma revolta espontânea: ela também foi conduzida com cálculo estratégico. Os revolucionários compreenderam que uma tentativa de reconquista pela força colocaria a Federação em uma posição diplomática delicada, pois contraditaria seus próprios discursos e poderia atrair a atenção de outras potências, especialmente diante da população multicultural de Teiko e de suas antigas conexões comerciais. Em 1807, Teiko conquistou sua independência e passou a existir como uma nação soberana."
+                        },
+                        {
+                            "tipo": "A República Livre de Teiko",
+                            "conteudo": "Após a independência, Teiko procurou preservar sua soberania sem romper completamente com a Federação de Yottsu Hoshi. Em 1809, as relações comerciais entre os dois países foram retomadas, e, em 1º de março de 1810, foi firmado um acordo de defesa mútua para situações de guerra. A aproximação estabeleceu uma relação entre nações independentes: ambos mantiveram moedas próprias, negociaram entre si e reconheceram que a cooperação não significava submissão política. Teiko permaneceu fora da Liga das Nações Unificadas (LNU), preservando maior liberdade para conduzir seus próprios assuntos. No presente, a República Livre de Teiko é conhecida como um dos países mais isolados do mundo. Sua localização distante, as dificuldades de navegação e as perigosas Águas Conturbadas fazem com que poucos navios consigam alcançar suas costas a cada ano. O acesso costuma exigir uma passagem pela Federação, o que mantém o contato com o exterior limitado e contribui para a preservação de seus costumes. Sua capital, Yoto, é a maior cidade do país e seu principal destino comercial. Seus centros de comércio possuem uma organização complexa, cujas regras e caminhos são compreendidos plenamente sobretudo pelos próprios teikianos. Apesar de ser o núcleo urbano mais desenvolvido da ilha, Yoto ainda não acompanha o ritmo tecnológico das grandes potências industriais. Teiko compensa essa diferença com conhecimentos tradicionais, domínio de técnicas artesanais, medicina natural e artes marciais. A ilha também é o único lugar conhecido capaz de produzir os Flocos do Jardim, uma planta medicinal extremamente valiosa. Outro de seus locais mais importantes é o Mar das Almas, uma rede de cavernas bioluminescentes que se tornou sagrada para os teikianos e simboliza sua relação com o oceano, a memória e os viajantes que chegam às suas costas. A religião e a filosofia locais compartilham raízes com as da Federação, incorporando também influências taballkanas. Muitos habitantes viajam até a Federação para participar do Festival Desabrochar Espiritual, mantendo vivos os vínculos culturais entre os dois povos. Hoje, Teiko é vista como um refúgio por aqueles que desejam escapar da globalização e viver de maneira mais próxima à natureza. Sua sociedade não rejeita todo contato com o mundo exterior, mas procura decidir cuidadosamente o que aceita dele. Para os teikianos, o verdadeiro progresso não é medido apenas pela quantidade de máquinas produzidas, mas pela capacidade de preservar o conhecimento, aperfeiçoar o espírito e manter o equilíbrio entre as pessoas, a tradição e o mundo natural."
+                        }
+                    ]
+                },
+                {
+                    "id": "periodos-marcantes",
+                    "titulo": "Períodos e Eventos Históricos",
+                    "periodos": [
+                        {
+                            "tipo": "Abandono e formação de Teiko",
+                            "periodo": "1513–período de isolamento",
+                            "conteudo": "A Guerra do Mar do Oriente destruiu as frotas das quatro famílias e deixou Teiko isolada. A ilha, que já possuía habitantes, recebeu sobreviventes de naufrágios, refugiados e desertores. A convivência entre os povos e o reaproveitamento dos destroços contribuíram para a formação de uma identidade cultural própria. Posteriormente, a Doca do Caracol tornou-se o principal ponto de comércio com a CONC, ligada a Medrimart, sem que isso resultasse em colonização formal.",
+                            "eventos": [
+                                {
+                                    "data": "26 de março de 1513",
+                                    "titulo": "Guerra do Mar do Oriente",
+                                    "descricao": "O conflito entre a Aliança Stalingrad e as quatro famílias provoca a destruição das frotas navais da região. Teiko, que já era habitada, fica isolada e abandonada pelas autoridades que antes reivindicavam seu território."
+                                },
+                                {
+                                    "data": "20 de março de 1520",
+                                    "titulo": "Tratado com as Quatro Famílias",
+                                    "descricao": "O tratado encerra a guerra entre a Aliança Stalingrad e as quatro famílias. Teiko, entretanto, permanece à margem das disputas pelo controle territorial, desenvolvendo-se a partir de suas comunidades locais e dos sobreviventes que chegaram à ilha."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "Comércio e domínio federativo",
+                            "periodo": "Período posterior à Guerra do Mar do Oriente–1806",
+                            "conteudo": "Com a consolidação das rotas marítimas, Teiko estabeleceu relações comerciais com a CONC por meio da Doca do Caracol. A ilha recebeu mercadores e influências estrangeiras, mas conservou sua autonomia cultural. Mais tarde, a expansão marítima da Federação de Yottsu Hoshi levou à anexação de Teiko. A administração federativa impôs impostos elevados, negligenciou a população e reprimiu tradições locais, aprofundando o descontentamento que culminaria na revolução.",
+                            "eventos": [
+                                {
+                                    "data": "Data não confirmada",
+                                    "titulo": "Estabelecimento do comércio pela Doca do Caracol",
+                                    "descricao": "Teiko passa a comercializar mercadorias com a CONC, organização mercantil ligada a Medrimart. O comércio aproxima a ilha do mundo exterior, mas não constitui anexação ou colonização pela companhia."
+                                },
+                                {
+                                    "data": "Data não confirmada",
+                                    "titulo": "Anexação de Teiko pela Federação",
+                                    "descricao": "Durante a expansão marítima da Federação de Yottsu Hoshi, Teiko é incorporada ao domínio federativo. A imposição de impostos, a negligência administrativa e a repressão cultural provocam resistência entre os habitantes."
+                                },
+                                {
+                                    "data": "Data não confirmada",
+                                    "titulo": "Genocídio da Maré Vermelha",
+                                    "descricao": "A violência cometida pela Federação contra a população de Teiko intensifica o ressentimento e fortalece o movimento de resistência, tornando-se um dos principais antecedentes da revolução pela independência."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "Revolução e independência",
+                            "periodo": "1806–1810",
+                            "conteudo": "A resistência contra o domínio federativo culmina na Revolução de Teiko. Em 1806, Elina rompe com a autoridade da Federação e se une aos rebeldes. No ano seguinte, Teiko conquista sua independência, utilizando também sua posição diplomática para dificultar uma reconquista pela força. Nos anos seguintes, o país restabelece relações comerciais com a Federação e firma um acordo de defesa mútua, preservando sua soberania.",
+                            "eventos": [
+                                {
+                                    "data": "1806 | Ano unificado",
+                                    "titulo": "Revolução de Teiko",
+                                    "descricao": "A população se revolta contra o domínio federativo após anos de exploração, repressão cultural e violência. Elina abandona a autoridade da Federação e se junta aos rebeldes, contribuindo para a luta pela libertação da ilha."
+                                },
+                                {
+                                    "data": "1807 | Ano unificado",
+                                    "titulo": "Independência de Teiko",
+                                    "descricao": "Teiko rompe com o domínio da Federação de Yottsu Hoshi e estabelece sua soberania. A possibilidade de uma reconquista militar colocaria a Federação em uma posição diplomática delicada, diante de suas próprias declarações políticas e das conexões externas da população teikiana."
+                                },
+                                {
+                                    "data": "1809 | Ano unificado",
+                                    "titulo": "Retomada das relações comerciais",
+                                    "descricao": "Teiko e a Federação retomam o comércio, reconstruindo os vínculos econômicos sem abandonar a independência política da ilha."
+                                },
+                                {
+                                    "data": "1º de março de 1810 | Ano unificado",
+                                    "titulo": "Acordo de Defesa Mútua",
+                                    "descricao": "Teiko e a Federação firmam um acordo de defesa para situações de guerra. A cooperação consolida a aproximação entre os países soberanos, que mantêm moedas próprias e relações comerciais independentes."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "estrutura-politica",
+            "icone": "⚖️",
+            "titulo": "Estrutura Política",
+            "subsecoes": [
+                {
+                    "id": "forma-de-governo",
+                    "titulo": "Forma de governo",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "lideres-principais",
+                    "titulo": "Líderes principais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "lider",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "sucessao-eleicao",
+                    "titulo": "Forma de sucessão ou eleição",
+                    "texto": ""
+                },
+                {
+                    "id": "leis-sistema-judicial",
+                    "titulo": "Leis e sistema judicial",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "tabela",
+                            "titulo": "",
+                            "colunas": [
+                                "Princípio",
+                                "Descrição"
+                            ],
+                            "linhas": []
+                        }
+                    ]
+                },
+                {
+                    "id": "organizacao-militar",
+                    "titulo": "Organização militar e de defesa",
+                    "blocos": [
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "divisao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "faccoes-politicas",
+                    "titulo": "Facções políticas internas",
+                    "faccoes": [
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "interesses-atuais",
+                    "titulo": "Interesses atuais",
+                    "blocos": [
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "interesse",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "relacoes-internacionais",
+            "icone": "🌍",
+            "titulo": "Relações Internacionais e Diplomacia",
+            "subsecoes": [
+                {
+                    "id": "aliados-inimigos",
+                    "titulo": "Aliados e inimigos históricos",
+                    "blocos": [
+                        {
+                            "tipo": "comparacao",
+                            "titulo": "",
+                            "ladoA": {
+                                "titulo": "",
+                                "descricao": "",
+                                "itens": []
+                            },
+                            "ladoB": {
+                                "titulo": "",
+                                "descricao": "",
+                                "itens": []
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "tratados-acordos",
+                    "titulo": "Tratados e acordos vigentes",
+                    "blocos": [
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "acordo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "influencia-cultural",
+                    "titulo": "Influência cultural externa",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "influencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "influencia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "espionagem-diplomacia",
+                    "titulo": "Espionagem e diplomacia secreta",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "subsecao",
+                            "titulo": "",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "postura-internacional",
+                    "titulo": "Postura internacional atual",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "conflitos-ativos",
+                    "titulo": "Conflitos ativos e tensões escaláveis",
+                    "blocos": [
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "percepcao-internacional",
+                    "titulo": "Percepção internacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "dependencias-estrategicas",
+                    "titulo": "Dependências estratégicas",
+                    "blocos": [
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "dependencia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "problemas-contradicoes",
+            "icone": "💀",
+            "titulo": "Problemas e Contradições",
+            "subsecoes": [
+                {
+                    "id": "desigualdades-sociais",
+                    "titulo": "Desigualdades sociais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "geografia-territorio",
+            "icone": "🗺️",
+            "titulo": "Geografia e Território",
+            "subsecoes": [
+                {
+                    "id": "capital",
+                    "titulo": "Capital",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "principais-cidades",
+                    "titulo": "Principais cidades",
+                    "blocos": [
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "cidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "clima-geografia",
+                    "titulo": "Clima e geografia natural",
+                    "blocos": [
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao-climatica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "recursos-naturais",
+                    "titulo": "Recursos naturais",
+                    "blocos": [
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "regioes-notaveis",
+                    "titulo": "Regiões notáveis",
+                    "blocos": [
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "regiao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fronteiras-vizinhas",
+                    "titulo": "Fronteiras e nações vizinhas",
+                    "blocos": [
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fronteira",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vida-selvagem",
+            "icone": "🐉",
+            "titulo": "Vida Selvagem e Ecossistema",
+            "subsecoes": [
+                {
+                    "id": "fauna-dominante",
+                    "titulo": "Fauna dominante",
+                    "blocos": [
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "especies-unicas",
+                    "titulo": "Espécies únicas ou simbólicas",
+                    "blocos": [
+                        {
+                            "tipo": "especie-simbolica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "especie-simbolica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "criaturas-lendarias",
+                    "titulo": "Criaturas ameaçadoras ou lendárias",
+                    "blocos": [
+                        {
+                            "tipo": "criatura-lendaria",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "criatura-lendaria",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "humanos-natureza",
+                    "titulo": "Relação entre humanos e natureza",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fauna-tecnologia",
+                    "titulo": "Uso da fauna na tecnologia",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "arquitetura-monumentos",
+            "icone": "🏛️",
+            "titulo": "Arquitetura e Monumentos",
+            "subsecoes": [
+                {
+                    "id": "estilo-arquitetonico",
+                    "titulo": "Estilo arquitetônico predominante",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "megaestruturas",
+                    "titulo": "Megaestruturas imperiais",
+                    "blocos": [
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "monumentos-historicos",
+                    "titulo": "Monumentos históricos",
+                    "blocos": [
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "monumento-historico",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "edificios-importantes",
+                    "titulo": "Edifícios e instituições emblemáticas",
+                    "blocos": [
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "edificio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "simbolismo-urbano",
+                    "titulo": "Simbolismo urbano",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "simbolo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "simbolo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "obras-engenharia",
+                    "titulo": "Grandes obras de engenharia",
+                    "blocos": [
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "obra",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cultura-valores",
+            "icone": "🎭",
+            "titulo": "Cultura, Valores e Sociedade",
+            "subsecoes": [
+                {
+                    "id": "virtudes",
+                    "titulo": "Virtudes e ideais predominantes",
+                    "blocos": [
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "virtude",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "cultura-profunda",
+                    "titulo": "Cultura profunda",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "estrutura-social-cultural",
+                    "titulo": "Estrutura social",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tabela",
+                            "titulo": "",
+                            "colunas": [
+                                "Conceito",
+                                "Importância"
+                            ],
+                            "linhas": []
+                        }
+                    ]
+                },
+                {
+                    "id": "familia-relacoes",
+                    "titulo": "Família e relações pessoais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "visao-morte",
+                    "titulo": "Visão sobre morte e legado",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "arte-narrativas",
+                    "titulo": "Arte e narrativas populares",
+                    "blocos": [
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "manifestacao-cultural",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "filosofia-tradicao",
+            "icone": "📖",
+            "titulo": "Filosofia e Tradição",
+            "subsecoes": [
+                {
+                    "id": "doutrina-moral",
+                    "titulo": "Doutrina moral e ética",
+                    "blocos": [
+                        {
+                            "tipo": "Resumo",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "feriados-celebracoes",
+                    "titulo": "Feriados e celebrações",
+                    "blocos": [
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "celebracao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "costumes-ancestrais",
+                    "titulo": "Costumes ancestrais",
+                    "blocos": [
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "costume",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "religiao",
+            "icone": "⛪",
+            "titulo": "Religião e Espiritualidade",
+            "subsecoes": [
+                {
+                    "id": "visao-espiritual",
+                    "titulo": "Visão espiritual predominante",
+                    "blocos": [
+                        {
+                            "tipo": "Resumo",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "crencas-principais",
+                    "titulo": "Crenças principais",
+                    "blocos": [
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "instituicoes-religiosas",
+                    "titulo": "Instituições religiosas",
+                    "blocos": [
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "rituais-cerimonias",
+                    "titulo": "Rituais e cerimônias",
+                    "blocos": [
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "ritual",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "morte-pos-vida",
+                    "titulo": "Morte e pós-vida",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "crenca",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "relacao-ciencia",
+                    "titulo": "Religião e ciência",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "variacoes-religiosas",
+                    "titulo": "Variações religiosas internas",
+                    "blocos": [
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "vertente",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "populacao",
+            "icone": "👥",
+            "titulo": "População e Sociedade",
+            "subsecoes": [
+                {
+                    "id": "quantidade-distribuicao",
+                    "titulo": "Quantidade e distribuição populacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "caracteristica",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "composicao-social",
+                    "titulo": "Composição social",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "classe-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "vida-popular",
+                    "titulo": "Vida cotidiana da população",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "crescimento-populacional",
+                    "titulo": "Crescimento populacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "fator",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "grupos-minoritarios",
+                    "titulo": "Grupos minoritários",
+                    "blocos": [
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "identidade-populacional",
+                    "titulo": "Identidade e mentalidade coletiva",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "estrutura-social",
+            "icone": "🏰",
+            "titulo": "Estrutura Social",
+            "subsecoes": [
+                {
+                    "id": "sistema-casas",
+                    "titulo": "Sistema de Casas",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conceito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "hierarquia-social",
+                    "titulo": "Hierarquia social",
+                    "blocos": [
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "nivel-social",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "mobilidade-social",
+                    "titulo": "Mobilidade social",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "forma-ascensao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "papel-individuo",
+                    "titulo": "Papel do indivíduo",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "valor",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "familia-e-criacao",
+                    "titulo": "Família e criação dos jovens",
+                    "blocos": [
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "etapa",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "conflitos-sociais",
+                    "titulo": "Conflitos sociais",
+                    "blocos": [
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "visao-social",
+                    "titulo": "Visão coletiva da sociedade",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ciencia-tecnologia",
+            "icone": "⚙️",
+            "titulo": "Ciência e Tecnologia",
+            "subsecoes": [
+                {
+                    "id": "visao-cientifica",
+                    "titulo": "Visão científica e tecnológica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "areas-cientificas",
+                    "titulo": "Principais áreas científicas",
+                    "blocos": [
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "area",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "tecnologias-principais",
+                    "titulo": "Tecnologias principais",
+                    "blocos": [
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "tecnologia",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "instituicoes-cientificas",
+                    "titulo": "Instituições científicas",
+                    "blocos": [
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "instituicao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "ciencia-e-casas",
+                    "titulo": "Controle das Casas sobre ciência",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aspecto",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "ciencia-militar",
+                    "titulo": "Aplicações militares",
+                    "blocos": [
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "aplicacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "limites-eticos",
+                    "titulo": "Limites éticos e conflitos",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "conflito",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "economia",
+            "icone": "💰",
+            "titulo": "Economia",
+            "subsecoes": [
+                {
+                    "id": "modelo-economico",
+                    "titulo": "Modelo econômico predominante",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "principio",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "setores-economicos",
+                    "titulo": "Principais setores econômicos",
+                    "blocos": [
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "setor",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "recursos-estrategicos",
+                    "titulo": "Recursos estratégicos",
+                    "blocos": [
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "recurso",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "papel-das-casas",
+                    "titulo": "Papel das Casas na economia",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "grupo",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "trabalho-profissoes",
+                    "titulo": "Trabalho e profissões",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "profissao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "comercio-internacional",
+                    "titulo": "Comércio internacional",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "exportacao",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "desigualdade-economica",
+                    "titulo": "Desigualdade econômica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "problema",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "filosofia-economica",
+                    "titulo": "Filosofia econômica",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "curiosidade",
+            "icone": "💡",
+            "titulo": "Curiosidades da URID",
+            "subsecoes": [
+                {
+                    "id": "fatos-gerais",
+                    "titulo": "Fatos gerais",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "cultura-curiosa",
+                    "titulo": "Costumes curiosos",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "tecnologia-curiosa",
+                    "titulo": "Curiosidades tecnológicas",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "curiosidades-historicas",
+                    "titulo": "Curiosidades históricas",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "curiosidades-sociais",
+                    "titulo": "Curiosidades sociais",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "fatos-incomuns",
+                    "titulo": "Fatos incomuns",
+                    "blocos": [
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        },
+                        {
+                            "tipo": "curiosidade",
+                            "titulo": "",
+                            "descricao": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "videoAntesDasConexoes": {
+        "titulo": "",
+        "descricao": "",
+        "youtube": "",
+        "videoLocal": "",
+        "imagemCapa": ""
+    },
+    "relacionados": {
+        "personagens": [
+            ""
+        ],
+        "organizacoes": [
+            ""
+        ],
+        "localizacoes": [
+            ""
+        ],
+        "equipamentos": [
+            ""
+        ],
+        "eventos": [
+            ""
+        ],
+        "documentos": [
+            ""
+        ],
+        "tecnologias": [
+            ""
+        ],
+        "historias": [
+            ""
+        ],
+        "contos": [
+            ""
+        ]
+    },
+    "galeria": {
+        "titulo": "Imagens do Tema",
+        "descricao": "",
+        "imagens": [
+            {
+                "src": "",
+                "alt": "",
+                "legenda": ""
+            }
+        ]
+    }
+}
