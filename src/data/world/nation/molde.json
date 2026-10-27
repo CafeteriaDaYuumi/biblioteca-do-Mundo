@@ -21,8 +21,13 @@
     "fontes": [
         {
             "tipo": "Reconstrução Memética",
-            "integridade": "",
-            "origem": ""
+            "integridade": "~ %",
+            "origem": " — Sondagem Neurológica"
+        },
+        {
+            "tipo": "Análise de Consistência",
+            "integridade": "~ %",
+            "origem": " — Arquivos Embasados"
         }
     ],
     "midiaTopo": {
@@ -143,11 +148,11 @@
     "secoes": [
         {
             "id": "historia",
-            "icone": "🕰️",
+             "icone": "🕰️",
             "titulo": "História",
             "subsecoes": [
                 {
-                    "id": "resumo",
+                    "id": "resumo-historico",
                     "titulo": "Resumo",
                     "blocos": [
                         {
@@ -157,83 +162,49 @@
                         {
                             "tipo": "",
                             "conteudo": ""
+                        },
+                        {
+                            "tipo": "",
+                            "conteudo": ""
+                        },
+                        {
+                            "tipo": "",
+                            "conteudo": ""
                         }
                     ]
                 },
                 {
-                    "id": "eventos",
-                    "titulo": "Eventos",
-                    "blocos": [
+                    "id": "periodos-marcantes",
+                    "titulo": "Períodos e Eventos Históricos",
+                    "periodos": [
                         {
-                            "titulo": "",
-                            "descricao": "",
-                            "data": ""
+                            "tipo": "",
+                            "periodo": "",
+                            "conteudo": "",
+                            "eventos": [
+                                {
+                                    "data": " | Ano unificado",
+                                    "titulo": "",
+                                    "descricao": ""
+                                },
+                                {
+                                    "data": "| Ano unificado",
+                                    "titulo": "",
+                                    "descricao": ""
+                                }
+                            ]
                         },
                         {
-                            "titulo": "",
-                            "descricao": "",
-                            "data": ""
+                            "tipo": "",
+                            "periodo": "",
+                            "conteudo": "",
+                            "eventos": []
                         },
                         {
-                            "titulo": "",
-                            "descricao": "",
-                            "data": ""
-                        },
-                        {
-                            "titulo": "",
-                            "descricao": "",
-                            "data": ""
-                        },
-                        {
-                            "titulo": "",
-                            "descricao": "",
-                            "data": ""
-                        },
-                        {
-                            "titulo": "",
-                            "descricao": "",
-                            "data": ""
-                        },
-                        {
-                            "titulo": "",
-                            "descricao": "",
-                            "data": ""
-                        }
-                    ]
-                },
-                {
-                    "id": "linha-temporal",
-                    "titulo": "Linha Temporal",
-                    "blocos": [
-                        {
-                            "titulo": "",
-                            "inicio": "",
-                            "fim": "",
-                            "descricao": ""
-                        },
-                        {
-                            "titulo": "",
-                            "inicio": "",
-                            "fim": "",
-                            "descricao": ""
-                        },
-                        {
-                            "titulo": "",
-                            "inicio": "",
-                            "fim": "",
-                            "descricao": ""
-                        },
-                        {
-                            "titulo": "",
-                            "inicio": "",
-                            "fim": "",
-                            "descricao": ""
-                        },
-                        {
-                            "titulo": "",
-                            "inicio": "",
-                            "fim": "",
-                            "descricao": ""
+                            "tipo": "",
+                            "periodo": "",
+                            "conteudo": "",
+                            "eventos": []
                         }
                     ]
                 }
@@ -2236,4 +2207,3 @@
         ]
     }
 }
-

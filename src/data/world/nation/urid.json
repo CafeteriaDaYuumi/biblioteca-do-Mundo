@@ -4,15 +4,15 @@
     "tipo": "nacao",
     "identificacao": {
         "categoria": "Nação",
-        "codigo": "Republicas Imperiais de Diastlov",
+        "codigo": "urid",
         "registro": "",
         "nome": "U.R.I.D",
-        "subtitulo": "Que MoonClaus Assista sua batalha"
+        "subtitulo": "União das Republicas Imperiais de Diastlov"
     },
     "versao": {
         "criado": "08/08/2026",
-        "atualizado": "",
-        "versao": "1.0"
+        "atualizado": "26/10/2026",
+        "versao": "1.1"
     },
     "tags": [
         "Localização",
@@ -21,8 +21,13 @@
     "fontes": [
         {
             "tipo": "Reconstrução Memética",
-            "integridade": "~82%",
-            "origem": ""
+            "integridade": "~41%",
+            "origem": "104 — Sondagem Neurológica"
+        },
+        {
+            "tipo": "Análise de Consistência",
+            "integridade": "~36%",
+            "origem": "211 — Arquivos Embasados"
         }
     ],
     "midiaTopo": {
@@ -135,320 +140,322 @@
     "citacoes": [
         {
             "texto": "O frio não perdoa, mas também não mente.",
-            "autor": "Strelkov Vradiy Yorik"
+            "autor": "Millei yoruk Kovisk"
         },
         {
             "texto": "A casa ergue o homem, mas é o homem que sustenta a casa",
             "autor": "Stravograd Velkor Barakov Drask"
+        },
+         {
+            "texto": "Que MoonClaus Assista sua batalha",
+            "autor": "Vladmir Petrosk"
         }
+
+        
     ],
     "secoes": [
         {
             "id": "historia",
+             "icone": "🕰️",
             "titulo": "História",
             "subsecoes": [
                 {
-                    "id": "resumo",
+                    "id": "resumo-historico",
                     "titulo": "Resumo",
                     "blocos": [
                         {
-                            "tipo": "texto",
-                            "conteudo": "Antes da existência da União das Repúblicas Imperiais, o extremo norte era formado por pequenas tribos espalhadas por uma região marcada pelo frio extremo, montanhas, longas distâncias e escassez. Esses povos não possuíam uma unidade política comum e sobreviviam em grupos independentes. A sobrevivência moldou profundamente sua cultura, estabelecendo valores de resistência, disciplina, função, força e adaptação ao ambiente. Nesse período, as primeiras estruturas semelhantes às futuras Casas surgiram progressivamente como organizações de proteção, conhecimento, função e resistência.\n\nDurante o Edo I, as Terras Selvagens tornaram-se palco da disputa entre os povos de Taballkainos, Medrimart e Lakeland. As Duas potências buscavam ampliar sua influência sobre a região por meio da conquista de pequenas áreas, estabelecimento de posições estratégicas e submissão de diferentes povos. Entre os territórios disputados estava uma ilha que posteriormente seria conhecida como Arquipélago da Condensa Carmesim, transformando as recém-descobertas Terras Selvagens em um novo palco para as disputas entre as grandes potências.\n\nDurante a Primeira Guerra Mundial, o conflito entre Medrimart e Lakeland transformou as Terras Selvagens em um dos principais teatros da guerra. Enquanto as duas potências disputavam o controle da região, os povos do norte organizaram suas próprias resistências contra a presença estrangeira. As forças envolvidas ainda utilizavam principalmente armas de origem medieval, fazendo com que o conhecimento do território, o clima, as montanhas e a capacidade de sobrevivência fossem fatores decisivos.\n\nPovos menores passaram progressivamente a se submeter a tribos mais fortes em busca de proteção. Os grandes agrupamentos não nasceram de uma única decisão política, mas de um processo gradual provocado pela guerra e pela necessidade de sobrevivência. Ao longo do conflito, sete grandes polos de resistência se consolidaram. Esses polos ficaram conhecidos como os Sete Senhores da Guerra. A formação das futuras Sete Nações do Norte ocorreu progressivamente a partir desses polos após a Primeira Guerra, e não como uma estrutura já pronta desde o início do conflito.\n\nA guerra terminou com a expulsão das forças de Medrimart e Lakeland das Terras Selvagens. A retirada não ocorreu porque os povos do norte simplesmente derrotaram as grandes potências em campo aberto, mas porque a ocupação se tornou inviável diante do frio extremo, das enormes distâncias, do terreno e principalmente das dificuldades logísticas. A retirada passou a ser conhecida em parte da historiografia como a Vergonha Imperial: uma guerra em que grandes potências militares foram obrigadas a abandonar suas conquistas por não conseguirem sustentar uma ocupação contra o próprio ambiente.\n\nPara os povos do norte, entretanto, a retirada estrangeira produziu uma consequência inesperada. Os sete grandes polos de resistência permaneceram fortalecidos e começaram a consolidar seus territórios. Ao longo das gerações, esses polos transformaram-se progressivamente em estruturas políticas permanentes, dando origem às Sete Nações do Norte. Elas continuaram independentes entre si durante séculos, enquanto antigas famílias dirigentes permaneciam importantes e novas famílias e Casas surgiam, desapareciam, eram substituídas ou incorporadas.\n\nAs Casas do Império moderno, portanto, não são simplesmente descendentes diretas dos Sete Senhores da Guerra. Algumas linhagens permaneceram, outras desapareceram e muitas foram absorvidas ou substituídas ao longo da história. O sistema de Casas nasceu de uma longa evolução social e política, na qual proteção, conhecimento, função, território e poder foram gradualmente reunidos em estruturas cada vez mais organizadas.\n\nDurante o Edo II, o surgimento do Thermopunk alterou profundamente o equilíbrio mundial. A tecnologia a vapor transformou a indústria, os transportes, a produção e a guerra, enquanto as grandes potências passaram a disputar seu desenvolvimento. A formação da Aliança Stalingrad consolidou um novo bloco científico, econômico e militar, preparando o mundo para uma nova fase de conflitos.\n\nA Segunda Guerra Mundial colocou novamente as Sete Nações diante de uma potência tecnologicamente superior. A Aliança utilizava máquinas e armamentos a vapor, enquanto os povos do norte ainda dependiam principalmente de armas convencionais, como lanças, arcos e equipamentos tradicionais. Entretanto, o ambiente voltou a atuar como uma arma indireta. Máquinas apresentavam falhas diante do frio, equipamentos eram abandonados ou destruídos e linhas de abastecimento tornavam-se extremamente difíceis de manter.\n\nOs povos das Sete Nações passaram a capturar equipamentos e utilizar os espólios tecnológicos abandonados pela Aliança. Pela primeira vez, o conhecimento Thermopunk começou a ser sistematicamente estudado, desmontado, reconstruído e adaptado às necessidades locais. Essa prática estabeleceu uma característica que permaneceria na cultura tecnológica do futuro Império: o conhecimento estrangeiro não deveria simplesmente ser copiado, mas compreendido, modificado e transformado de acordo com as condições extremas do norte.\n\nA Aliança conseguiu conquistar determinadas regiões e estabelecer posições permanentes. Esses territórios permaneceriam sob controle aliado durante décadas, funcionando como pontos de pressão contra as nações do norte.\n\nApós Edo III ocorreu a Guerra dos Cem Anos, entre 1603 e 1705. As Sete Nações já possuíam conhecimento tecnológico próprio e haviam assimilado parte significativa da tecnologia Thermopunk, mas a Aliança continuava tecnologicamente superior. A estratégia das nações do norte era principalmente defensiva: resistir, desgastar o inimigo e recuar quando necessário para estabelecer novas posições. A guerra tornou-se um conflito prolongado de trincheiras, fortalezas, bombardeios, fome, doenças, frio extremo e destruição ambiental.\n\nEntre os episódios mais importantes da guerra esteve o Vale do Inferno, território localizado no centro do continente e controlado pela família Drakamov, leal a uma das nações imperiais. O território acabou completamente isolado pelas forças da Aliança. Cercados durante anos, aproximadamente 1.200 defensores continuaram lutando com o objetivo de atrasar o avanço inimigo e provocar o maior prejuízo possível. A resistência destruiu postos aliados, provocou enormes perdas materiais e obrigou a Aliança a gastar recursos e tempo muito além do previsto. Ao final da resistência, cerca de 12.700 baixas aliadas foram atribuídas ao conflito, além das grandes perdas materiais. O episódio tornou-se uma das maiores lendas militares da história imperial.\n\nDurante os últimos quinze anos da Guerra dos Cem Anos, surgiu a figura que mudaria definitivamente o futuro das Sete Nações: Diastlov. General visionário e líder responsável pela unificação dos povos do norte, Diastlov percebeu que a sobrevivência das nações não poderia depender indefinidamente da fragmentação entre tribos, Casas e territórios independentes. Inspirado pela capacidade de transformar autoridade militar em uma estrutura política duradoura, ele iniciou um processo de reorganização destinado a transformar povos separados em uma única estrutura capaz de sustentar uma civilização permanente.\n\nA atuação de Diastlov começou nos últimos quinze anos da Guerra dos Cem Anos, mas não terminou com o fim do conflito em 1705. Após a guerra, ele continuou conduzindo a reorganização das antigas nações até a fundação oficial da URID em 1725. Durante esse período, consolidou alianças, reorganizou forças, estabeleceu novas estruturas administrativas e aproximou Casas que haviam passado séculos competindo entre si.\n\nA Unificação de Diastlov estabeleceu as bases da estrutura imperial que permanece até hoje. Sete Casas principais passaram a ocupar uma posição central na organização política, acompanhadas por duas linhagens imperiais. Essas estruturas foram diretamente ligadas ao processo de unificação conduzido por Diastlov. As Casas deixaram de representar apenas relações familiares e passaram a constituir uma estrutura permanente de poder, proteção, produção, conhecimento e administração. O modelo político estabelecido durante a unificação tornou-se a base sobre a qual o Império continuaria funcionando nos séculos seguintes.\n\nEm 1725 ocorreu a fundação oficial da União das Repúblicas Imperiais, cuja sigla é URI. Assim como outros Estados possuem um nome oficial e uma sigla utilizada para identificá-los, União das Repúblicas Imperiais é o nome oficial associado à base URI. A nova estrutura reuniu as antigas nações sob um sistema imperial comum sem eliminar completamente suas identidades históricas.\n\nApós a morte de Diastlov, o nome oficial do Estado foi posteriormente ampliado para União das Repúblicas Imperiais de Diastlov. O nome passou a homenagear diretamente o general e governante responsável pela unificação e tornou-se associado à memória do fundador político do sistema imperial.\n\nA memória da unificação consolidou uma fé profunda no frio, na luta e na força da adaptação. Para a cultura imperial, as dificuldades históricas não são interpretadas apenas como tragédias. Elas também representam provas que produziram conhecimento. Uma derrota pode ser aceita quando produz aprendizado; uma falha pode ser tolerada quando leva à evolução. O verdadeiro fracasso é repetir o erro sem aprender com ele.\n\nApós a unificação, a URID entrou em uma fase de industrialização e construção em larga escala. Os primeiros grandes centros urbanos não surgiram simplesmente de um planejamento abstrato. Bases, fortalezas, posições defensivas e assentamentos capazes de resistir ao ambiente extremo começaram a concentrar população e produção. Ao redor das Casas mais fortes surgiram estruturas cada vez maiores, que posteriormente se transformaram em cidades.\n\nEssa concentração também possuía uma razão prática. Grande parte do território imperial continuava sendo extremamente difícil de habitar e, em muitas regiões, também era difícil de atravessar. O frio, as enormes distâncias e as condições do terreno dificultavam a movimentação de pessoas, recursos e máquinas. Manter a população espalhada aumentava os custos, os riscos e as dificuldades logísticas. A concentração urbana permitia proteção, eficiência, controle das estruturas essenciais, armazenamento de recursos e movimentação organizada.\n\nCom o crescimento das bases e dos centros produtivos surgiram os distritos industriais. Esses distritos se formaram ao redor das estruturas capazes de resistir ao ambiente e das Casas que possuíam recursos suficientes para mantê-las. Fortalezas, bases, centros de produção e áreas residenciais cresceram umas ao redor das outras, formando complexos cada vez maiores. Com o passar das gerações, esses complexos evoluíram para as megaestruturas urbanas que se tornariam uma das marcas da URID.\n\nA industrialização também permitiu o desenvolvimento de uma identidade tecnológica própria. O conhecimento Thermopunk foi combinado com alquimia, engenharia, Nightblood e posteriormente Quiopunck, criando sistemas adaptados às necessidades do Império. O corpo humano passou a ser tratado como algo que poderia ser aprimorado e adaptado, enquanto máquinas, alquimia e biotecnologia passaram a atuar em conjunto. Dessa integração surgiu uma das bases da cultura tecnológica imperial.\n\nNa Quarta Guerra Mundial ocorreu uma transformação decisiva. Pela primeira vez, a URID deixou de lutar apenas para sobreviver e passou a realizar grandes campanhas ofensivas. O Império iniciou ataques e reconquistas contra os territórios ocupados pela Aliança, transformando a antiga estratégia de resistência em uma estratégia de expansão militar e territorial.\n\nA Quinta Guerra Mundial levou o conflito aos últimos territórios insulares controlados pelas potências estrangeiras. Em 1778, o Arquipélago da Condensa Carmesim finalmente caiu, encerrando um dos últimos grandes focos territoriais da presença aliada na região.\n\nA expansão histórica da URID foi, portanto, predominantemente militar e territorial. Durante sua formação e consolidação, conquistar posições, recuperar territórios e eliminar ameaças externas fazia parte da sobrevivência do Império. A URID cresceu inicialmente pela capacidade de resistir, reorganizar-se e posteriormente conquistar aquilo que havia sido tomado por potências estrangeiras.\n\nNa era contemporânea, entretanto, a estratégia imperial tornou-se diferente. A URID não depende mais da conquista direta de territórios para ampliar seu poder. Sua expansão moderna ocorre principalmente através de influência econômica, produção industrial, tecnologia, infraestrutura e dependência estrutural. Onde a URID não governa diretamente, pode fornecer aquilo de que outros dependem. E quanto maior a dependência de uma nação em relação à produção, tecnologia ou infraestrutura imperial, maior se torna a capacidade de influência da URID.\n\nA URID contemporânea vive uma contradição. O Império continua crescendo, desenvolvendo cidades, tecnologias, indústrias e relações econômicas, mas sua estrutura interna tornou-se cada vez mais complexa. O crescimento de cidades como Sirius, o maior contato com estrangeiros e a abertura limitada ao exterior mostram que a sociedade imperial está se tornando mais conectada e difícil de controlar. Ao mesmo tempo, as Casas continuam disputando influência, recursos, prestígio e espaço político.\n\nAs disputas entre Casas não são apenas problemas sociais ou econômicos. Elas constituem uma das principais estruturas de risco político futuro da URID. O sistema criado por Diastlov depende do equilíbrio entre as duas linhagens imperiais, as Sete Casas principais e as demais estruturas políticas que surgiram posteriormente. Enquanto essas forças permanecem alinhadas, o modelo imperial continua estável. Uma ruptura significativa pode provocar instabilidade em escala nacional.\n\nAssim, a história da URID não terminou com sua fundação. O mesmo princípio que nasceu nas tribos do norte continua funcionando no presente: cada geração recebe uma estrutura construída pelas anteriores e precisa provar que consegue sustentá-la. A diferença é que a estrutura atual se tornou tão grande e complexa que uma falha interna pode produzir consequências muito maiores do que qualquer tribo ancestral poderia imaginar.\n\nEntre grupos mais tradicionais existe a crença de que o maior teste da URID ainda não aconteceu. Segundo essa visão, o Império não necessariamente cairá diante de uma invasão estrangeira; seu verdadeiro perigo poderia surgir de dentro da própria estrutura imperial, caso suas Casas, instituições ou linhagens deixem de conseguir manter o equilíbrio construído por Diastlov.\n\nEssa crença ganha uma interpretação ainda mais radical através da Congregação do Último Jardim. Para seus seguidores, o eventual colapso da ordem imperial não seria apenas uma tragédia, mas uma etapa necessária para que o mundo pudesse ser reiniciado. Dessa forma, uma antiga ideia de sobrevivência transformou-se em uma possível fonte de radicalismo e ameaça política.\n\nA história da URID é, portanto, uma história de transformação contínua. As tribos transformaram-se progressivamente em polos de resistência; os polos transformaram-se nas Sete Nações; as Sete Nações foram unificadas por Diastlov; a unificação criou o Império; a resistência transformou-se em expansão militar; e a expansão territorial transformou-se, na era moderna, em influência econômica e estrutural.\n\nO Império não nasceu de uma sequência simples de vitórias. Nasceu da sobrevivência, da adaptação e da capacidade de transformar derrotas em conhecimento. A mesma filosofia continua presente na sociedade Diastloviana: sobreviver não é suficiente. É preciso provar que se é capaz de sustentar aquilo que foi conquistado."
+                            "tipo": "Tribos do Norte",
+                            "conteudo": "Muito antes de existir uma União, o Norte era um território de povos que aprenderam a viver sem esperar que o mundo fosse generoso com eles. O frio podia fechar caminhos, a distância separava comunidades e a escassez obrigava cada grupo a conhecer muito bem aquilo que possuía. As tribos tinham suas próprias tradições, autoridades e maneiras de organizar a vida. Não formavam um único povo político, nem estavam sempre de acordo umas com as outras. A autonomia era parte de sua identidade, mas também tinha um custo: quando uma ameaça ultrapassava as fronteiras de uma comunidade, não existia uma autoridade comum capaz de reunir todas as forças do Norte. Cada povo podia defender sua terra, porém nenhum deles tinha, sozinho, meios para proteger toda a região.\n\nFoi nesse mundo que os navios Taball apareceram nas Terras Selvagens. No começo, a chegada de estrangeiros talvez parecesse apenas mais um encontro com gente vinda de longe, mas logo ficou evidente que eles não estavam ali somente para comerciar ou atravessar o território. Os invasores reivindicavam terras, impunham seus nomes e tentavam decidir quem tinha o direito de permanecer nelas. O arquipélago conhecido pelos habitantes como Garras de Leviatã foi tomado e rebatizado como Arquipélago da Condessa Carmesim. A troca de nome acompanhou uma violência muito maior: comunidades foram massacradas, pessoas foram escravizadas e costumes e memórias locais foram atacados como se pudessem ser apagados junto com seus habitantes. Para os povos do Norte, a invasão não era uma disputa distante entre governantes. Era a ameaça de perder a terra, a liberdade e até a possibilidade de transmitir aos filhos aquilo que os antepassados haviam ensinado.\n\nA primeira grande lição dessa história não foi a de que as tribos eram invencíveis. Elas não eram. Eram comunidades distintas, vulneráveis à fome, ao clima, às doenças e às divisões internas. Sua vantagem estava no conhecimento do lugar e na capacidade de continuar vivendo onde os invasores tinham dificuldade para se sustentar. O Norte não oferecia uma vitória fácil a ninguém, e cada expedição estrangeira precisava enfrentar não apenas os defensores, mas as distâncias, o frio e a própria fragilidade de suas linhas de abastecimento. A resistência nasceu desse encontro entre a vontade de permanecer e a necessidade de compreender o ambiente. Muito antes de a URID possuir exércitos, fábricas ou uma capital, já existia a experiência que marcaria sua história: sobreviver exigia mais do que coragem; exigia aprender, adaptar-se e não desperdiçar aquilo que poderia garantir o dia seguinte."
+                        },
+                        {
+                            "tipo": "Invasões e Sete Senhores da Guerra",
+                            "conteudo": "Quando uma nova onda de colonizadores Taball chegou ao Norte, as tribos perceberam que a primeira retirada estrangeira não havia encerrado a disputa. Os invasores voltaram com suas próprias rivalidades, mas também com a intenção de ocupar a região de maneira duradoura. A guerra que se seguiu ficaria conhecida como Guerra dos Paus e Pedras, a primeira das grandes guerras mundiais. O nome lembrava a diferença entre os recursos disponíveis aos combatentes e a escala de uma luta que se estendeu por gerações. Para as comunidades locais, cada batalha estava ligada à defesa de suas casas e rotas de sobrevivência; para os colonizadores, o território era uma conquista a consolidar. Nenhum dos lados, contudo, podia ignorar as condições do Norte. Alimentos e equipamentos nem sempre chegavam ao destino, doenças se espalhavam pelos acampamentos e o frio cobrava seu preço mesmo quando não havia inimigos à vista. Muitas vidas foram perdidas não em combate, mas por falta de abrigo, suprimentos ou condições para continuar a campanha.\n\nA resistência não foi uma marcha organizada por um único comandante. Foi uma sucessão de defesas locais, alianças frágeis, retiradas e retomadas, sustentadas por comunidades que tinham motivos diferentes para lutar, mas compreendiam o que significaria uma vitória definitiva dos invasores. Com o tempo, as forças colonizadoras perderam a capacidade de manter todas as posições que haviam tomado. A resistência das tribos, somada a tempestades intensas que atingiram as rotas e os acampamentos, contribuiu para que os ocupantes recuassem em direção ao mar. Alguns não conseguiram escapar. Seus corpos foram empalados ao longo de praias, numa demonstração cruel de que a invasão seria lembrada e de que o preço da conquista não seria esquecido.\n\nA retirada foi uma sobrevivência conquistada, mas a memória posterior não a trataria como uma vitória simples. Para os povos que haviam resistido, ela significava que suas comunidades continuariam existindo. Para a tradição imperial que surgiria séculos depois, o desfecho carregaria uma vergonha difícil de aceitar: as forças estrangeiras não haviam sido expulsas apenas pela disciplina ou pela superioridade dos defensores, mas também por um clima que ninguém controlava e que muitos interpretaram como intervenção divina. A lembrança ficou conhecida como Vergonha Imperial. A URID herdaria desse passado uma desconfiança profunda de tudo aquilo que pudesse tornar uma nação dependente do acaso. A lição extraída não foi que a natureza jamais deveria ser respeitada, mas que nenhum Estado poderia construir sua segurança esperando que as tempestades fizessem por ele aquilo que não conseguira realizar.\n\nA guerra deixou o Norte vivo, mas não unido. As tribos continuaram distintas, e as rivalidades não desapareceram com a retirada dos colonizadores. O que mudou foi a memória compartilhada de que uma ameaça externa podia transformar a sobrevivência de cada comunidade em um problema comum. Essa consciência ainda não bastava para criar um Estado. Seria necessária uma invasão diferente, sustentada por máquinas e por uma organização que as tribos não poderiam enfrentar apenas repetindo as estratégias do passado."
+                        },
+                        {
+                            "tipo": "Anos das Cinzas",
+                            "conteudo": "Quando Lakeland e Medrimart retornaram ao Norte, já não agiam como expedições isoladas. As duas potências, que tinham seus próprios interesses e disputas, uniram forças na Aliança Stalingrad e trouxeram consigo máquinas de ferro, armas de longo alcance e tecnologia a vapor. A invasão avançou pelas planícies e abriu uma entrada para o continente. Dessa vez, o inimigo podia sustentar campanhas maiores, transportar armamentos mais pesados e ocupar posições que ameaçavam cortar as comunidades do acesso às terras de que dependiam. O conhecimento do território continuava valioso, mas já não era suficiente por si só. As tribos precisavam enfrentar uma potência industrial sem possuir uma estrutura equivalente para produzir equipamentos, manter linhas de abastecimento ou coordenar a defesa de regiões inteiras.\n\nA resposta do Norte começou com aquilo que havia ao alcance dos defensores. Equipamentos a vapor foram capturados, reparados e estudados. Máquinas construídas para facilitar a conquista tornaram-se instrumentos de resistência, e seus mecanismos ensinaram aos povos locais como transformar recursos disponíveis em novas capacidades. O frio, que havia sido um obstáculo para os próprios habitantes em muitas circunstâncias, também expunha falhas nas máquinas e nos planos dos invasores. Aprender a usar a tecnologia estrangeira não significava simplesmente copiá-la. Era preciso descobrir como mantê-la funcionando, como adaptá-la às condições locais e como fazê-la servir a uma guerra que os colonizadores acreditavam poder vencer pela superioridade material.\n\nA Aliança, por sua vez, procurou privar a resistência dos recursos que a sustentavam. Florestas foram destruídas, vilas queimadas e comunidades expulsas de seus territórios. O período passou à memória como Inverno das Florestas, não apenas pela dureza do ambiente, mas pela maneira como a guerra atingiu as próprias condições de vida. Famílias inteiras partiram sem saber onde encontrariam abrigo. Os deslocamentos formaram a chamada Nevasca dos Refugiados: pessoas que carregavam consigo feridas, histórias de violência e a necessidade urgente de reconstruir a vida em outro lugar. Essa migração aproximou povos que antes podiam manter distância uns dos outros. Compartilhar alimentos, proteger rotas e organizar a defesa deixou de ser uma questão de conveniência; tornou-se uma condição para que as comunidades não fossem isoladas e derrotadas uma a uma.\n\nFoi durante essa guerra, e não antes dela, que as sete nações do Norte começaram a consolidar suas identidades políticas. A formação não apagou as diferenças entre os povos, nem transformou todos em uma única sociedade de imediato. Cada nação carregava experiências próprias de deslocamento, resistência e organização, mas todas haviam sido moldadas por uma guerra que mostrara os limites da fragmentação. À medida que os defensores aprenderam a fabricar suas próprias armas a vapor e a manter posições em trincheiras, deixaram de depender inteiramente dos equipamentos capturados. O avanço foi lento e custoso, mas demonstrou que o conhecimento podia ser convertido em independência.\n\nA Guerra do Vapor terminou sem uma declaração solene. A Aliança recuou para posições que ainda conseguia manter, e as frentes perderam intensidade até que o silêncio passou a ser entendido como o fim do conflito. A guerra seguinte não começaria imediatamente, mas o Norte já não era o mesmo. As sete nações haviam sido forjadas pela necessidade de sobreviver, e sua cooperação militar foi formalizada na coalizão conhecida como “7 nações, 1 frente”. A coalizão não criou os povos que a compunham; tentou coordenar na guerra futura comunidades que haviam aprendido, por experiência própria, que a unidade podia ser tão importante quanto a bravura individual. Ainda assim, a aliança era um acordo entre nações distintas, não uma União. Suas rivalidades e interesses particulares continuavam presentes, à espera de um novo teste."
+                        },
+                        {
+                            "tipo": "O Norte Resiste",
+                            "conteudo": "O intervalo de relativa quietude não trouxe uma paz definitiva. A Aliança Stalingrad voltou a avançar com forças mais numerosas, veículos blindados e equipamentos aperfeiçoados. A guerra que começou então ficou conhecida como Guerra dos Cem Anos, embora seu peso não possa ser medido apenas pela duração. Para o Norte, ela foi uma experiência de desgaste contínuo: posições eram defendidas por longos períodos, linhas de abastecimento precisavam ser reconstruídas e regiões inteiras passavam de zona de combate a território devastado. A resistência já possuía maior organização e conhecimento técnico, mas enfrentava um adversário que também aprendia, ampliava sua capacidade industrial e estava disposto a transformar o território em um instrumento de guerra.\n\nA brutalidade atingiu outro patamar quando a Aliança Stalingrad empregou a Chuva Laranja, uma arma química e biológica capaz de contaminar a água e destruir matéria orgânica em poucos dias. Seu efeito não se limitava a abrir uma brecha nas defesas: a contaminação avançava sobre o ambiente, matava combatentes dos dois lados e tornava grandes extensões de terra hostis à vida. Corpos se desfaziam, recursos eram inutilizados e quilômetros da frente deixavam de ser lugares onde um exército pudesse simplesmente avançar ou recuar. A arma mostrou que uma guerra podia continuar destruindo mesmo depois que os tiros cessassem, porque a própria terra se tornava parte do perigo.\n\nPara o Norte, a Chuva Laranja foi uma ameaça militar e uma revelação política. Se o inimigo possuía uma tecnologia capaz de alterar a guerra dessa maneira, a condenação moral não impediria que ela fosse usada novamente. Era necessário estudá-la, compreender seus mecanismos e impedir que a União permanecesse indefesa diante de quem dominasse esse conhecimento. Foi nesse contexto que surgiu a Virtude de Alquimia Quiopunk — Desembargador Barão Vermelho, dedicada a estudar a Chuva Laranja e a desenvolver capacidades próprias. A decisão expressava uma característica que se tornaria central à URID: aprender com o que ameaçava o país, mesmo quando esse aprendizado exigia encarar instrumentos de destruição que ninguém deveria tratar com leviandade. A capacidade técnica passou a ser vista como parte da defesa nacional, e não como luxo reservado aos tempos de paz.\n\nO último grande foco de resistência da guerra concentrou-se no Vale de Tepresk, conhecido pelos Stalingrad como Vale do Inferno. A região contaminada era difícil de atravessar e ainda assim abrigava defensores que continuavam lutando, mesmo depois de anos de perdas. A resistência diastloviana tornou-se conhecida por sua ferocidade, mas sua persistência também refletia uma situação extrema: ceder significava permitir que a Aliança encerrasse a campanha em seus próprios termos. Quando o Vale foi finalmente destruído, em 1705, a última ação dos resistentes atingiu Dysburgo, centro de controle colonial nas planícies. A destruição da chamada Bomba Infernos, um protótipo diastloviano, provocou uma explosão que matou integrantes do alto comando e desorganizou temporariamente as forças coloniais. A guerra não terminou com uma vitória limpa, nem com a rendição completa de um lado. Terminou depois de uma devastação que tornou impossível manter a mesma campanha e obrigou os adversários a interromper o avanço.\n\nO Norte havia sobrevivido a outra tentativa de conquista, mas a sobrevivência deixara de ser suficiente. As sete nações tinham demonstrado coragem, desenvolvido tecnologia e mantido uma frente comum, porém a coalizão continuava sujeita a decisões divergentes e à falta de uma autoridade capaz de transformar os esforços militares em um projeto duradouro. Os anos de guerra tinham produzido recursos, experiência e líderes capazes de mobilizar soldados de diferentes origens. Também tinham produzido cansaço, perdas e a convicção de que a região não poderia passar por mais um século de conflito sem mudar sua organização política. Foi desse impasse, e não de uma conciliação repentina entre todos os povos, que surgiu a possibilidade de uma União."
+                        },
+                        {
+                            "tipo": "Anos do Imperador",
+                            "conteudo": "A figura que transformaria o desgaste da guerra em um novo projeto político foi o general Diastlov. Ele não começou sua ascensão governando uma nação unificada, mas conduzindo homens por territórios onde décadas de combate haviam deixado ruínas, áreas contaminadas e recursos difíceis de alcançar. Sua ofensiva levou as forças do Norte de volta a territórios ocupados pelos colonizadores. Para sustentar o avanço, Diastlov atravessou terras contaminadas e tomou a mina de Ferro Negro Santa Terezina, convertendo-a em uma posição fortificada. A mina oferecia mais do que um recurso valioso: dava aos soldados uma base a partir da qual podiam manter a campanha e demonstrava que a reconquista precisava ser acompanhada pela capacidade de conservar aquilo que fosse recuperado.\n\nDiastlov manteve a posição e deu a ela o nome de Astroford. O lugar se tornou quartel-general e centro de organização, mas sua importância foi além da estratégia. Para soldados que haviam passado a vida entre retiradas e frentes de combate, Astroford representava a possibilidade de que o esforço não terminasse em mais uma linha abandonada. O general conquistou a lealdade de combatentes e comandantes de diferentes nações, muitos dos quais já não queriam retornar a uma coalizão em que cada governo pudesse retirar suas tropas quando seus interesses mudassem. Eles queriam uma estrutura capaz de coordenar a defesa e garantir que as conquistas não fossem perdidas por disputas internas. A exigência de unificação foi levada às sete nações, colocando diante de seus dirigentes uma escolha que a guerra havia adiado por muito tempo.\n\nNem todos aceitaram. Quatro nações concordaram com a proposta, enquanto três recusaram a unificação e exigiram a retirada de seus homens da frente. A disputa deixou claro que a coalizão não possuía meios para obrigar seus integrantes a manter o compromisso comum. Diastlov respondeu com força militar. Na Batalha das Bestas, seu exército derrotou as forças leais às três nações contrárias e substituiu suas lideranças. A vitória abriu caminho para a união política das sete nações, mas também definiu o caráter contraditório do novo Estado: a unidade foi apresentada como a única maneira de impedir que antigas rivalidades destruíssem o futuro do Norte, porém foi imposta a quem se recusou a aceitá-la. A URID nasceu da convicção de que a fragmentação era perigosa, mas sua fundação mostrou que o poder imperial não hesitaria em recorrer à violência para eliminar aquilo que considerasse uma ameaça à sobrevivência coletiva.\n\nA União das Repúblicas Imperiais surgiu como uma estrutura política que reunia as sete nações sob um projeto comum. Diastlov foi posteriormente nomeado imperador, e Astroford passou a ocupar um lugar central na memória do novo Estado: era a posição avançada que se transformara em capital simbólica de uma era de reconquista. O nome do Ferro Negro também passou a ser associado à cidade, pois a extração concentrada na região tornou Astroford referência para o metal que sustentava parte crescente da capacidade industrial. A ligação entre a cidade, o recurso e o poder imperial tornou-se um exemplo de como a URID pensava seu próprio desenvolvimento. Uma conquista só tinha valor duradouro se pudesse ser defendida, explorada e integrada à estrutura produtiva.\n\nA morte de Diastlov não dissolveu o Estado que ele ajudara a criar. Ao contrário, obrigou os governantes seguintes a demonstrar que a União podia sobreviver ao homem que se tornara seu símbolo. Dois imperadores regentes concordaram em adotar o nome União das Repúblicas Imperiais de Diastlov, preservando a memória do fundador e vinculando a legitimidade do regime à continuidade de seu projeto. O nome consolidou a ideia de que a URID não era apenas uma aliança temporária de povos em guerra, mas uma instituição destinada a durar. Essa continuidade, entretanto, nunca foi neutra. A centralização permitiu coordenar recursos e impedir que cada nação conduzisse sua própria política de defesa, mas também reduziu o espaço para a recusa. A União prometia segurança contra o retorno da fragmentação; em troca, exigia que seus integrantes aceitassem que o destino comum pudesse prevalecer sobre suas decisões particulares."
+                        },
+                        {
+                            "tipo": "Anos das Engrenagens",
+                            "conteudo": "Com a unificação, a URID pôde transformar parte da energia antes consumida pelas disputas entre as sete nações em produção, pesquisa e reconstrução. Isso não significou que a guerra tivesse desaparecido. A União continuou cercada por adversários, e sua indústria cresceu sob a pressão de manter exércitos, proteger recursos e sustentar campanhas. Ainda assim, o trabalho deixou de se limitar à fabricação improvisada de armas para uma frente ameaçada. Minas, oficinas, centros de pesquisa e sistemas de transporte passaram a fazer parte de um projeto mais amplo, no qual a capacidade de produzir era considerada tão importante quanto a capacidade de vencer uma batalha.\n\nA experiência acumulada com as máquinas a vapor, o estudo das armas inimigas e o trabalho da Alquimia Quiopunk contribuíram para o desenvolvimento de novas técnicas e virtudes. A engenharia mecânica, associada ao Thermopunk, e a alquimia aplicada passaram a integrar a transformação tecnológica do país. Não houve uma invenção única que tenha tornado a União poderosa de repente. O avanço veio de muitas tentativas, de erros que precisaram ser corrigidos e da adaptação de soluções às condições específicas do Norte. O conhecimento era valorizado quando podia ser colocado em prática, mantido em funcionamento e convertido em capacidade concreta para a sociedade.\n\nA industrialização também ampliou o alcance do Estado sobre a vida cotidiana. A exploração de recursos e a expansão da produção criaram novas possibilidades, mas aumentaram as exigências sobre trabalhadores, comunidades e territórios. A mesma organização que permitia sustentar cidades e exércitos podia impor prioridades sem considerar plenamente o custo individual. Para a URID, essa contradição era frequentemente justificada pela lembrança de tudo o que acontecia quando o abastecimento falhava ou quando uma região ficava indefesa. O país não separava com facilidade a prosperidade da segurança: produzir alimentos, metais, máquinas e energia significava reduzir a possibilidade de que outra potência pudesse decidir o destino de sua população.\n\nEssa mentalidade ajudou a construir uma nação capaz de planejar em grande escala. Ao mesmo tempo, reforçou uma ideia que atravessaria toda a história imperial: a liberdade de cada parte deveria ser limitada sempre que, aos olhos do Estado, ameaçasse a continuidade do conjunto. A URID tornou-se mais moderna e tecnicamente capaz, mas não abandonou os hábitos formados nas guerras. A disciplina continuou sendo tratada como virtude, a dependência como perigo e o sacrifício como parte esperada da vida coletiva. O país estava aprendendo a construir não apenas para sobreviver ao próximo inverno ou à próxima invasão, mas para permanecer forte durante gerações. O problema era que, uma vez transformada em princípio de governo, a lógica da guerra podia continuar operando mesmo quando a emergência que a havia criado já não era a única realidade da nação."
+                        },
+                        {
+                            "tipo": "Império Avante",
+                            "conteudo": "A unificação não trouxe o fim da rivalidade com a Aliança Stalingrad. A disputa que se seguiu foi uma guerra total, travada por terra e pelo mar, na qual ambos os lados tentaram controlar planícies, rotas de abastecimento e caminhos estratégicos. A URID já não era uma coalizão improvisada de povos ameaçados: possuía uma estrutura central, recursos industriais e uma liderança capaz de manter campanhas prolongadas. Essa capacidade permitiu que suas forças destruíssem Dysburgo depois de catorze dias de bombardeio e expulsassem a Aliança das planícies. A vitória mudou o equilíbrio da guerra, mas não a encerrou. Com o continente em disputa, o mar tornou-se decisivo, e os navios passaram a representar tanto a capacidade de transportar forças quanto a vulnerabilidade de quem dependia dessas rotas.\n\nA guerra naval foi marcada por operações de alto risco e represálias. O Bota Fogo, navio da Aliança Stalingrad, foi destruído depois de uma série de ataques suicidas durante a madrugada e afundou em águas rasas. A perda passou a ter significado muito além do resultado imediato de uma batalha. Quando a Aliança emboscou o Dragnar, embarcação que transportava um dos príncipes regentes da URID, a ação foi apresentada como resposta ao naufrágio do Bota Fogo. Cada lado passou a interpretar a violência do adversário como justificativa para uma nova retaliação, e a guerra se tornou também uma disputa pela capacidade de impor custos políticos e simbólicos ao inimigo.\n\nEnquanto combatia a Aliança, a URID expandiu sua campanha para os territórios do Império do Sol. Ali, a União mostrou outra face de seu poder. A nação que havia construído sua identidade sobre a resistência à ocupação passou a ocupar terras alheias, saquear recursos e destruir estruturas de uma potência derrotada. O cerco à capital do Império do Sol durou dez dias e terminou com a tomada da cidade, episódio conhecido como Batalha de Las 10 Noches. A vitória entregou à URID o controle da região. Quando a guerra terminou, os territórios do Império do Sol passaram a ser chamados Emirados Arcaídos e ficaram sob domínio imperial. A expansão ampliou os recursos e a influência da União, mas também incorporou à sua história o sofrimento de povos que passaram a conhecer a mesma força de conquista que os próprios nortistas haviam enfrentado.\n\nA URID justificava sua expansão como uma forma de garantir segurança e impedir que antigos inimigos voltassem a ameaçá-la. Essa explicação tinha peso para uma sociedade cuja história estava cheia de invasões, mas não apagava as consequências das campanhas. O império podia acreditar que estava criando uma ordem estável e, ainda assim, impor essa ordem por meio de bombardeios, saques e submissão. Essa contradição acompanhou a União à medida que ela deixava de ser apenas uma potência regional e se tornava um ator capaz de alterar o equilíbrio de outras nações.\n\nMesmo após a guerra continental, a disputa pelo domínio marítimo continuou. Na Guerra dos Deuses, a URID enfrentou uma combinação de forças que incluía a CONC medrimartiana, a Aliança Stalingrad — com remanescentes do Império do Sol, Lakeland e Medrimart — e forças federativas mercenárias. O conflito concentrou no mar rivalidades acumuladas por séculos, envolvendo poder militar, rotas estratégicas e alianças que mudavam conforme os interesses de cada participante. A destruição em mar aberto foi tão grande que relatórios e pronunciamentos foram classificados como sigilosos e permaneceram sob segredo da LNU. O público conheceu a dimensão da catástrofe, mas não todos os seus detalhes. A guerra mostrou que mesmo uma potência preparada para suportar perdas podia chegar a um ponto em que a vitória deixava de oferecer uma garantia de segurança.\n\nA criação da LNU, poucos anos depois, nasceu desse temor compartilhado de que as guerras entre grandes potências pudessem continuar escalando até ameaçar todos os envolvidos. A nova organização não eliminou as rivalidades, mas ofereceu um espaço em que tratados e obrigações internacionais podiam substituir, em determinadas disputas, a continuação das campanhas militares. Para a URID, aceitar essa estrutura significava lidar com limites externos que não faziam parte de sua tradição mais antiga. Também significava reconhecer que a força, sozinha, não podia assegurar uma paz duradoura quando cada adversário se preparava para responder ao próximo golpe."
+                        },
+                        {
+                            "tipo": "URID Contemporânea",
+                            "conteudo": "A entrada da URID na ordem internacional exigiu uma decisão difícil sobre o Arquipélago da Condessa Carmesim. A região carregava a memória de uma das primeiras conquistas coloniais, com massacres, escravização e tentativas de apagar a identidade dos habitantes originais. No Tratado de Paz da LNU, a União e seus aliados aceitaram abrir mão do arquipélago, desde que a população civil fosse preservada. A condição não apagava a história nem resolvia todas as disputas sobre o território, mas impedia que a negociação fosse tratada apenas como uma troca de fronteiras entre potências. O acordo abriu caminho para a participação da URID na LNU e marcou uma mudança na maneira como a União precisava apresentar suas decisões ao restante do mundo. Depois de séculos em que a segurança fora buscada sobretudo pela resistência e pela força, a diplomacia passou a impor compromissos que também precisavam ser considerados parte dos interesses nacionais.\n\nA adesão à ordem internacional não fez a URID abandonar sua preocupação com a segurança material. A memória de cercos, deslocamentos e escassez havia ensinado que uma nação podia ter soldados e território e, ainda assim, ficar vulnerável se não conseguisse alimentar sua população. Por isso, a União firmou parcerias com corporações medrimartianas para construir nove megacidades protegidas, organizadas em torno de fazendas controladas e destinadas a reforçar a produção de alimentos. Conhecidas como Deméter 01 a Deméter 09, elas foram concebidas para tornar o abastecimento menos vulnerável a bloqueios, crises e interrupções. Na visão imperial, a alimentação não era apenas uma questão econômica ou doméstica: era parte da defesa do país. Um Estado que dependesse de outros para manter sua população viva poderia ser pressionado sem que um único disparo fosse necessário.\n\nA mesma lógica orientou o projeto de Sirius A e Sirius B. A União planejou as duas cidades tanto para cumprir os compromissos assumidos com a LNU quanto para apresentar ao mundo uma imagem de modernidade, organização e capacidade administrativa. A URID queria ser vista não apenas como a potência que sobrevivera a invasões e vencera guerras, mas como uma sociedade capaz de construir cidades complexas e mantê-las em funcionamento. Com o crescimento das duas áreas, a distância entre elas deixou de representar uma separação real. Acabaram formando uma única cidade, e essa união tornou-se um símbolo involuntário da maneira como a URID organizava seu espaço: estruturas criadas separadamente podiam ser integradas quando a expansão e as necessidades do conjunto tornavam a divisão pouco prática.\n\nA história contemporânea da União continua marcada pela tensão entre proteção e controle. A centralização permitiu coordenar recursos, desenvolver infraestrutura e sustentar projetos que exigiam planejamento de longo prazo. Também deu ao Estado poder para impor prioridades, exigir sacrifícios e tratar a discordância como um risco quando ela ameaçava os objetivos oficiais. A disciplina que ajudou as comunidades do Norte a resistir à colonização tornou-se uma virtude cívica, mas em certos momentos também serviu para justificar a obediência. A mesma cultura que valoriza a capacidade de suportar dificuldades pode olhar para a vulnerabilidade como uma falha, mesmo quando reconhecer limites seria necessário para evitar novas perdas.\n\nPor isso, a URID não pode ser entendida apenas como a nação que resistiu às invasões, nem apenas como um império que conquistou territórios alheios. Ela é resultado de ambas as experiências. Suas instituições nasceram da memória de comunidades que quase perderam suas terras e suas culturas, da percepção de que a fragmentação as tornava vulneráveis e da convicção de que o conhecimento e a produção eram indispensáveis à sobrevivência. Mas a União também impôs sua unificação pela força, substituiu lideranças que se opuseram ao projeto imperial e expandiu seu domínio sobre outros povos. A violência que sofreu não a impediu de exercê-la; em alguns momentos, ajudou a construir a justificativa com que o Estado explicava suas próprias campanhas.\n\nA Vergonha Imperial permanece central para compreender essa mentalidade. A primeira grande retirada dos invasores foi possível, em parte, porque o clima e as tempestades fizeram o que nenhum exército podia garantir sozinho. A URID transformou essa lembrança em uma exigência de preparação: nunca mais depender do acaso para sobreviver. Essa exigência impulsionou sua indústria, sua pesquisa e sua organização, mas também alimentou a ideia de que quase qualquer sacrifício poderia ser aceito se reduzisse a vulnerabilidade do país. O resultado é uma sociedade capaz de planejar em grande escala, construir infraestrutura e responder a ameaças com rapidez, mas que precisa conviver com a pergunta sobre o limite entre proteger a coletividade e submetê-la.\n\nNos documentos atuais, a história da URID é registrada segundo o calendário unificado da LNU, adotado para permitir que os acontecimentos de diferentes nações sejam comparados em uma cronologia comum. Os povos do Norte utilizaram outros sistemas de datação no passado, mas os registros históricos foram organizados no padrão internacional; quando o dia e o mês de um acontecimento antigo não são conhecidos, conserva-se o ano estabelecido sem inventar uma equivalência. A padronização facilita a consulta aos fatos, mas não substitui o sentido da história que eles compõem: uma nação criada por povos que se recusaram a desaparecer, transformada por guerras que exigiram mais do que resistência e consolidada por um Estado que fez da segurança uma promessa central, mesmo quando o preço dessa promessa passou a ser cobrado de outros."
                         }
                     ]
                 },
                 {
                     "id": "periodos-marcantes",
-                    "titulo": "Períodos marcantes",
-                    "blocos": [
+                    "titulo": "Períodos e Eventos Históricos",
+                    "periodos": [
                         {
-                            "tipo": "periodo",
-                            "titulo": "Era da Sobrevivência — Pré-Diastlov",
-                            "descricao": "Período das tribos independentes do extremo norte. O frio, as montanhas, as grandes distâncias e a escassez moldaram os primeiros valores culturais da sociedade que posteriormente formaria a URID. As primeiras estruturas de Casa surgiram progressivamente como organizações de proteção, função, conhecimento e resistência."
+                            "tipo": "Antes da União: os povos do Norte",
+                            "periodo": "Antes de 1208 | Ano unificado",
+                            "conteudo": "Antes de existir uma autoridade comum, o Norte era habitado por tribos autônomas, cada qual com suas tradições, lideranças e formas de organizar a sobrevivência. O clima rigoroso, as distâncias e a escassez moldavam a vida cotidiana. As comunidades conheciam profundamente o território, mas sua autonomia também significava que não havia uma estrutura capaz de coordenar a defesa de toda a região. Essa fragmentação se tornaria decisiva quando potências estrangeiras começaram a reivindicar as terras do Norte.",
+                            "eventos": []
                         },
                         {
-                            "tipo": "periodo",
-                            "titulo": "Edo I — Era dos Mudos",
-                            "descricao": "Período marcado pela disputa das Terras Selvagens entre Medrimart e Lakeland. A presença estrangeira começou a alterar o equilíbrio regional e preparou o cenário para a Primeira Guerra Mundial."
+                            "tipo": "A chegada dos Taball e a Guerra dos Paus e Pedras",
+                            "periodo": "1208–1490 | Ano unificado",
+                            "conteudo": "A chegada dos Taball abriu um período de ocupação, violência e resistência. A tomada das Garras de Leviatã e a mudança de seu nome para Arquipélago da Condessa Carmesim simbolizaram a tentativa colonial de impor domínio não apenas sobre a terra, mas também sobre a memória de seus habitantes. Quando uma nova onda de colonizadores chegou ao Norte, as tribos enfrentaram uma guerra prolongada em condições extremas. A resistência local, as dificuldades de abastecimento, as doenças e o clima contribuíram para o recuo dos invasores. A retirada preservou a existência dos povos do Norte, mas sua dependência das tempestades seria lembrada mais tarde como uma humilhação estratégica.",
+                            "eventos": [
+                                {
+                                    "data": "1208 | Ano unificado",
+                                    "titulo": "A chegada dos navios Taball",
+                                    "descricao": "Navios Taball chegam às Terras Selvagens, iniciando o contato entre as potências estrangeiras e os povos do Norte."
+                                },
+                                {
+                                    "data": "1215 | Ano unificado",
+                                    "titulo": "A tomada das Garras de Leviatã",
+                                    "descricao": "Colonizadores tomam o arquipélago conhecido como Garras de Leviatã e o rebatizam como Arquipélago da Condessa Carmesim. A conquista é acompanhada por massacres, escravização e tentativas de apagar a cultura dos habitantes originais."
+                                },
+                                {
+                                    "data": "1400 | Ano unificado",
+                                    "titulo": "A nova chegada dos colonizadores Taball",
+                                    "descricao": "Uma nova onda de colonizadores chega ao Norte, renovando a disputa pelo território e preparando o início de uma guerra de grande escala."
+                                },
+                                {
+                                    "data": "1401 | Ano unificado",
+                                    "titulo": "Início da Guerra dos Paus e Pedras",
+                                    "descricao": "Começa a primeira das grandes guerras mundiais, travada entre povos locais e colonizadores. A falta de suprimentos, o clima extremo e as doenças causam perdas severas para ambos os lados."
+                                },
+                                {
+                                    "data": "1489 | Ano unificado",
+                                    "titulo": "O recuo dos colonizadores",
+                                    "descricao": "As forças coloniais começam a abandonar posições e a recuar em direção ao mar, pressionadas pela resistência das tribos e pelas condições do Norte."
+                                },
+                                {
+                                    "data": "1490 | Ano unificado",
+                                    "titulo": "A Vergonha Imperial",
+                                    "descricao": "A retirada dos colonizadores é consolidada. A memória imperial posterior considera o desfecho uma vergonha porque tempestades e condições naturais tiveram papel decisivo na expulsão dos invasores, em vez de uma vitória atribuída exclusivamente à força e à preparação dos combatentes."
+                                }
+                            ]
                         },
                         {
-                            "tipo": "periodo",
-                            "titulo": "Formação dos Sete Polos de Resistência",
-                            "descricao": "Durante a Primeira Guerra Mundial, tribos menores passaram progressivamente a se submeter a grupos mais fortes em busca de proteção. Os sete maiores polos de resistência consolidaram-se como os Sete Senhores da Guerra. Após a retirada estrangeira, esses polos fortaleceram seus territórios e evoluíram gradualmente para as Sete Nações do Norte."
+                            "tipo": "A Guerra do Vapor e o nascimento das sete nações",
+                            "periodo": "1516–1575 | Ano unificado",
+                            "conteudo": "O retorno de Lakeland e Medrimart, unidas na Aliança Stalingrad, trouxe uma guerra de natureza diferente. Máquinas de ferro, armas de longo alcance e tecnologia a vapor permitiram que os invasores conquistassem planícies e abrissem caminho para o continente. As tribos aprenderam a reparar e reaproveitar equipamentos inimigos, enquanto a destruição das florestas e das vilas provocou deslocamentos em massa. O Inverno das Florestas e a Nevasca dos Refugiados aproximaram comunidades que antes viviam separadas. Durante o conflito, essas comunidades consolidaram-se em sete nações. Após o recuo da Aliança, elas organizaram a coalizão “7 nações, 1 frente”, buscando impedir que a divisão política voltasse a facilitar uma invasão.",
+                            "eventos": [
+                                {
+                                    "data": "1516 | Ano unificado",
+                                    "titulo": "A formação da Aliança Stalingrad",
+                                    "descricao": "Lakeland e Medrimart retornam ao Norte unidas na Aliança Stalingrad, trazendo máquinas de ferro, armamentos de longo alcance e tecnologia a vapor. As forças coloniais conquistam planícies e estabelecem uma entrada para o continente."
+                                },
+                                {
+                                    "data": "1517 | Ano unificado",
+                                    "titulo": "As máquinas dos invasores tornam-se armas da resistência",
+                                    "descricao": "Povos locais capturam, reparam e reaproveitam equipamentos a vapor dos colonizadores, adaptando-os às condições do Norte e explorando a vulnerabilidade das máquinas ao frio."
+                                },
+                                {
+                                    "data": "1518 | Ano unificado",
+                                    "titulo": "O Inverno das Florestas",
+                                    "descricao": "As forças coloniais destroem florestas e queimam vilas para enfraquecer a resistência, comprometendo os recursos de sobrevivência das comunidades."
+                                },
+                                {
+                                    "data": "1518 | Ano unificado",
+                                    "titulo": "A Nevasca dos Refugiados",
+                                    "descricao": "O deslocamento de comunidades inteiras força antigos grupos rivais a compartilhar abrigo, recursos e defesa. A experiência da guerra começa a consolidar as identidades das sete nações do Norte."
+                                },
+                                {
+                                    "data": "1535 | Ano unificado",
+                                    "titulo": "A produção local de armas a vapor",
+                                    "descricao": "Os povos do Norte passam a fabricar suas próprias armas a vapor e a sustentar linhas defensivas em trincheiras e posições estratégicas."
+                                },
+                                {
+                                    "data": "1570 | Ano unificado",
+                                    "titulo": "O fim da Guerra do Vapor",
+                                    "descricao": "O avanço colonial retrocede para posições anteriores. Sem uma declaração formal de paz, a redução dos combates é posteriormente reconhecida como o encerramento da guerra."
+                                },
+                                {
+                                    "data": "1575 | Ano unificado",
+                                    "titulo": "A coalizão “7 nações, 1 frente”",
+                                    "descricao": "As sete nações organizam uma coalizão militar para coordenar a defesa contra os colonizadores. A aliança melhora a cooperação, mas não constitui ainda um Estado unificado."
+                                }
+                            ]
                         },
                         {
-                            "tipo": "periodo",
-                            "titulo": "Edo II — Era do Vapor",
-                            "descricao": "O surgimento do Thermopunk transformou a indústria, os transportes e a guerra. A formação da Aliança Stalingrad formada por Medrimart e Lakeland consolidou um novo bloco científico, econômico e militar."
+                            "tipo": "A Guerra dos Cem Anos e o Vale do Inferno",
+                            "periodo": "1603–1705 | Ano unificado",
+                            "conteudo": "A Aliança Stalingrad retomou as campanhas com tecnologia aperfeiçoada, veículos blindados e forças mais numerosas. A resistência do Norte estava mais organizada, mas a guerra se transformou em um conflito de desgaste, no qual territórios inteiros foram destruídos. O emprego da Chuva Laranja contaminou a água e a matéria orgânica, tornando regiões da frente hostis à vida e ameaçando os dois lados. A resposta do Norte incluiu a criação de uma instituição dedicada ao estudo da arma e ao desenvolvimento de capacidades próprias. O conflito terminou depois da destruição do Vale de Tepresk, chamado Vale do Inferno pelos Stalingrad, e de uma ação final contra Dysburgo que matou integrantes do alto comando colonial e desestabilizou temporariamente as forças invasoras.",
+                            "eventos": [
+                                {
+                                    "data": "1603 | Ano unificado",
+                                    "titulo": "Início da Guerra dos Cem Anos",
+                                    "descricao": "A Aliança Stalingrad retoma as campanhas com tecnologia melhorada, veículos blindados e forças organizadas em maior escala. A resistência enfrenta uma guerra prolongada de desgaste."
+                                },
+                                {
+                                    "data": "1650 | Ano unificado",
+                                    "titulo": "A Chuva Laranja",
+                                    "descricao": "A Aliança Stalingrad testa e emprega uma arma química e biológica que contamina a água, destrói matéria orgânica e mata combatentes de ambos os lados. A contaminação inutiliza quilômetros da frente e cria uma região perigosa por muito tempo."
+                                },
+                                {
+                                    "data": "1666 | Ano unificado",
+                                    "titulo": "A Virtude de Alquimia Quiopunk — Desembargador Barão Vermelho",
+                                    "descricao": "É fundada a instituição dedicada a estudar a Chuva Laranja e desenvolver conhecimentos e armas próprios, reduzindo a dependência tecnológica do Norte diante de seus adversários."
+                                },
+                                {
+                                    "data": "1705 | Ano unificado",
+                                    "titulo": "A destruição do Vale do Inferno",
+                                    "descricao": "A resistência no Vale de Tepresk é finalmente destruída. Em sua última ação, os defensores destroem o protótipo diastloviano conhecido como Bomba Infernos em Dysburgo, centro de controle colonial nas planícies. A explosão mata integrantes do alto comando e desorganiza as forças coloniais, contribuindo para o encerramento da guerra."
+                                }
+                            ]
                         },
                         {
-                            "tipo": "periodo",
-                            "titulo": "Segunda Guerra Mundial — Guerra do Vapor",
-                            "descricao": "A Aliança utilizou sua superioridade tecnológica para expandir sua influência. Os povos do norte enfrentaram máquinas e armamentos superiores e começaram a capturar, estudar e adaptar equipamentos estrangeiros."
+                            "tipo": "A ascensão de Diastlov e a fundação da União",
+                            "periodo": "1706–1755 | Ano unificado",
+                            "conteudo": "Depois de décadas de guerra, a coalizão das sete nações mostrou seus limites. O general Diastlov avançou sobre territórios ocupados, tomou a mina de Ferro Negro Santa Terezina e transformou-a em uma fortificação. Ao renomear a posição como Astroford, criou um centro estratégico que passou a simbolizar a possibilidade de conservar as conquistas e organizar uma força comum. Muitos soldados defendiam uma unificação plena, mas três nações recusaram o projeto. Diastlov derrotou suas forças na Batalha das Bestas e substituiu suas lideranças. A União nasceu, portanto, tanto da necessidade de superar a fragmentação quanto de uma imposição militar. A nomeação de Diastlov como imperador e a posterior adoção do nome União das Repúblicas Imperiais de Diastlov consolidaram o novo Estado e sua memória fundadora.",
+                            "eventos": [
+                                {
+                                    "data": "1706 | Ano unificado",
+                                    "titulo": "A tomada da mina Santa Terezina",
+                                    "descricao": "O general Diastlov inicia uma ofensiva em territórios conquistados pelos colonizadores, atravessa terras contaminadas e toma a mina de Ferro Negro Santa Terezina, transformando-a em forte avançado."
+                                },
+                                {
+                                    "data": "1708 | Ano unificado",
+                                    "titulo": "A fundação de Astroford",
+                                    "descricao": "Diastlov mantém a fortificação e a renomeia Astroford. O local torna-se quartel-general estratégico e símbolo de continuidade para soldados e comandantes de diferentes nações."
+                                },
+                                {
+                                    "data": "1710 | Ano unificado",
+                                    "titulo": "A Batalha das Bestas",
+                                    "descricao": "Quatro nações aceitam a unificação e três a recusam. Diastlov enfrenta as forças leais às nações contrárias, vence a batalha e substitui suas lideranças, impondo a integração política."
+                                },
+                                {
+                                    "data": "1715 | Ano unificado",
+                                    "titulo": "A fundação da União das Repúblicas Imperiais",
+                                    "descricao": "As sete nações são reunidas sob uma estrutura política comum, encerrando formalmente a era da coalizão militar independente."
+                                },
+                                {
+                                    "data": "1720 | Ano unificado",
+                                    "titulo": "Diastlov é nomeado imperador",
+                                    "descricao": "Diastlov recebe o título imperial. Astroford consolida-se como capital simbólica da nova era e como lembrança da primeira grande conquista do Estado unificado."
+                                },
+                                {
+                                    "data": "1725 | Ano unificado",
+                                    "titulo": "O Ferro Negro e Astroford",
+                                    "descricao": "A extração concentrada na região faz com que o metal antes conhecido como Ferro Negro passe a ser associado ao nome Astroford, reforçando a ligação entre a cidade e a capacidade industrial imperial."
+                                },
+                                {
+                                    "data": "1745 | Ano unificado",
+                                    "titulo": "A morte de Diastlov",
+                                    "descricao": "Morre o fundador militar da União, deixando aos governantes seguintes o desafio de preservar a estrutura política sem depender da presença de seu líder original."
+                                },
+                                {
+                                    "data": "1755 | Ano unificado",
+                                    "titulo": "A adoção do nome União das Repúblicas Imperiais de Diastlov",
+                                    "descricao": "Dois imperadores regentes concordam em renomear oficialmente o Estado como União das Repúblicas Imperiais de Diastlov, vinculando sua identidade política à memória de seu fundador."
+                                }
+                            ]
                         },
                         {
-                            "tipo": "periodo",
-                            "titulo": "Edo III — Era da Industrialização Bárbara",
-                            "descricao": "As nações do norte assimilaram e adaptaram os conhecimentos tecnológicos obtidos durante os conflitos anteriores. A industrialização bárbara transformou suas estruturas econômicas e militares, permitindo o desenvolvimento de soluções próprias para as condições extremas do território."
+                            "tipo": "A industrialização e a consolidação imperial",
+                            "periodo": "1750–1790 | Ano unificado",
+                            "conteudo": "A União converteu a experiência das guerras em um programa de industrialização, pesquisa e exploração de recursos. O avanço não veio de uma única invenção, mas de melhorias acumuladas em oficinas, minas, transporte e instituições de conhecimento. A capacidade de produzir máquinas, armas e suprimentos passou a ser vista como parte da defesa nacional. Essa transformação fortaleceu o Estado, mas também ampliou sua influência sobre o trabalho e os recursos das comunidades. A disciplina, a preparação e o sacrifício coletivo foram valorizados como garantias contra uma nova invasão; ao mesmo tempo, esses princípios tornaram mais fácil justificar a imposição de prioridades estatais sobre as necessidades individuais. A industrialização, assim, foi tanto uma conquista material quanto a consolidação de uma cultura política moldada pela guerra.",
+                            "eventos": []
                         },
                         {
-                            "tipo": "periodo",
-                            "titulo": "Guerra dos Cem Anos e Ascensão de Diastlov",
-                            "descricao": "Entre 1603 e 1705, as Sete Nações enfrentaram uma longa guerra de desgaste contra a Aliança. Nos últimos quinze anos do conflito, Diastlov surgiu como general visionário e iniciou a reorganização política e militar que continuaria após o fim da guerra até a fundação da URID."
+                            "tipo": "A Guerra dos Maiores e a expansão da URID",
+                            "periodo": "1750–1775 | Ano unificado",
+                            "conteudo": "A rivalidade com a Aliança Stalingrad transformou-se em guerra total, travada por terra e mar. A URID utilizou sua estrutura centralizada e sua crescente capacidade industrial para atacar posições estratégicas e expulsar a Aliança das planícies. As operações navais foram marcadas por perdas e represálias, enquanto a campanha contra o Império do Sol revelou o alcance e as contradições do poder imperial. A União, cuja memória nacional se baseava na resistência à ocupação, passou a ocupar territórios alheios e a impor sua própria autoridade por meio da destruição e da conquista. A vitória ampliou seu domínio, mas também deixou povos submetidos ao mesmo tipo de violência que os nortistas haviam sofrido no passado.",
+                            "eventos": [
+                                {
+                                    "data": "1750 | Ano unificado",
+                                    "titulo": "Início da Guerra dos Maiores",
+                                    "descricao": "A URID e a Aliança Stalingrad entram em uma guerra total pelo controle de territórios, rotas e posições estratégicas."
+                                },
+                                {
+                                    "data": "1765 | Ano unificado",
+                                    "titulo": "A destruição de Dysburgo",
+                                    "descricao": "Após catorze dias de bombardeio, a URID destrói Dysburgo, centro estratégico da Aliança Stalingrad, e a expulsa das planícies, abrindo uma nova fase da disputa pelo mar."
+                                },
+                                {
+                                    "data": "1765 | Ano unificado",
+                                    "titulo": "O naufrágio do Bota Fogo",
+                                    "descricao": "O navio da Aliança Stalingrad é destruído após diversos ataques suicidas durante a madrugada e afunda em águas rasas."
+                                },
+                                {
+                                    "data": "1768 | Ano unificado",
+                                    "titulo": "A destruição do Dragnar",
+                                    "descricao": "A Aliança Stalingrad embosca e destrói o Dragnar, navio que transportava um dos príncipes regentes da URID, apresentando a ação como resposta ao naufrágio do Bota Fogo."
+                                },
+                                {
+                                    "data": "1770 | Ano unificado",
+                                    "titulo": "A campanha contra o Império do Sol",
+                                    "descricao": "A URID avança sobre os territórios do Império do Sol, realizando operações de conquista e saque que ampliam seu domínio regional."
+                                },
+                                {
+                                    "data": "1773 | Ano unificado",
+                                    "titulo": "A Batalha de Las 10 Noches",
+                                    "descricao": "Após um cerco de dez dias, as forças imperiais tomam a capital do Império do Sol e consolidam o controle sobre a região."
+                                },
+                                {
+                                    "data": "1775 | Ano unificado",
+                                    "titulo": "O fim da Guerra dos Maiores",
+                                    "descricao": "A guerra termina e os territórios do Império do Sol passam a ser chamados Emirados Arcaídos, permanecendo sob controle da URID."
+                                }
+                            ]
                         },
                         {
-                            "tipo": "periodo",
-                            "titulo": "Unificação de Diastlov",
-                            "descricao": "Entre o início da reorganização nos últimos quinze anos da Guerra dos Cem Anos e a fundação oficial em 1725, Diastlov consolidou as antigas nações em uma estrutura imperial comum. A unificação estabeleceu sete Casas principais e duas linhagens imperiais e definiu o modelo político que continua sustentando o Império."
+                            "tipo": "A Guerra dos Deuses e a nova ordem internacional",
+                            "periodo": "1796–1801 | Ano unificado",
+                            "conteudo": "A disputa pelo mar continuou mesmo após o fim da Guerra dos Maiores e culminou na Guerra dos Deuses. O conflito reuniu a CONC medrimartiana, a Aliança Stalingrad — incluindo remanescentes do Império do Sol, Lakeland e Medrimart —, forças federativas mercenárias e a Marinha Imperial. A escala da destruição em mar aberto levou à classificação sigilosa de relatórios e pronunciamentos, cujos detalhes permaneceram ocultos pela LNU. A guerra demonstrou que a rivalidade entre grandes potências podia produzir perdas que nenhuma vitória compensaria. Quatro anos depois, a criação da LNU e o tratado de paz estabeleceram uma nova estrutura de compromissos internacionais. A URID aceitou abrir mão do Arquipélago da Condessa Carmesim sob a condição de preservar a população civil, em uma negociação que conectou a memória das primeiras conquistas coloniais aos limites diplomáticos da nova ordem.",
+                            "eventos": [
+                                {
+                                    "data": "14 de Agosto, 1796 | Ano unificado",
+                                    "titulo": "Início da Guerra dos Deuses",
+                                    "descricao": "Começa a guerra marítima entre a Marinha Imperial, a CONC medrimartiana, a Aliança Stalingrad e forças federativas mercenárias, em uma disputa pelo controle do mar."
+                                },
+                                {
+                                    "data": "17 de Dezembro, 1796 | Ano unificado",
+                                    "titulo": "Fim da Guerra dos Deuses",
+                                    "descricao": "O conflito termina após uma destruição marítima de grande escala. Relatórios e pronunciamentos do período são classificados como sigilosos e mantidos em segredo pela LNU."
+                                },
+                                {
+                                    "data": "1800 | Ano unificado",
+                                    "titulo": "A criação da LNU",
+                                    "descricao": "É criada a LNU, em resposta à necessidade de estabelecer mecanismos internacionais capazes de reduzir o risco de novas guerras entre grandes potências."
+                                },
+                                {
+                                    "data": "11 do Sol, 1801 | Ano unificado",
+                                    "titulo": "O Tratado de Paz da LNU",
+                                    "descricao": "Os aliados abrem mão do Arquipélago da Condessa Carmesim em troca da garantia de preservação da população civil, condição vinculada à entrada da URID na LNU."
+                                }
+                            ]
                         },
                         {
-                            "tipo": "periodo",
-                            "titulo": "Edo IV — Sombras da Ciência",
-                            "descricao": "Após a Guerra dos Cem Anos, o mundo entrou em uma fase de reconstrução industrial, corrida científica, espionagem e reorganização política. No norte, Diastlov conduziu o processo de unificação das antigas nações, culminando na fundação oficial da URID em 1725."
-                        },
-                        {
-                            "tipo": "periodo",
-                            "titulo": "Ascensão da Quiopunck",
-                            "descricao": "A integração entre alquimia, Nightblood, engenharia mecânica e conhecimentos biológicos criou a base da Quiopunck. A tecnologia deixou de ser apenas uma herança estrangeira e passou a ser transformada em uma área própria do desenvolvimento imperial."
-                        },
-                        {
-                            "tipo": "periodo",
-                            "titulo": "Industrialização e Megaestruturas",
-                            "descricao": "Bases, fortalezas e centros produtivos resistentes ao ambiente começaram a concentrar população ao redor de Casas fortes. Distritos industriais cresceram nessas posições por razões econômicas, defensivas e logísticas. A dificuldade de sobreviver e se deslocar por grandes partes do território tornou a concentração urbana uma necessidade, levando ao desenvolvimento das megaestruturas."
-                        },
-                        {
-                            "tipo": "periodo",
-                            "titulo": "Guerras de Resistência e Expansão",
-                            "descricao": "A URID passou gradualmente de uma postura predominantemente defensiva para campanhas ofensivas de grande escala. Conflitos com Medrimart, Lakeland e outras potências moldaram a identidade militar do Império e levaram à recuperação dos territórios anteriormente ocupados."
-                        },
-                        {
-                            "tipo": "periodo",
-                            "titulo": "Expansão Territorial",
-                            "descricao": "Durante sua expansão histórica, a URID utilizou conquista militar, reconquista territorial e ocupação estratégica para eliminar ameaças e garantir posições fundamentais para a segurança imperial."
-                        },
-                        {
-                            "tipo": "periodo",
-                            "titulo": "Edo V — Guerra Fria",
-                            "descricao": "O fim da Quarta Guerra Mundial encerrou os grandes confrontos convencionais, mas não produziu estabilidade. As grandes potências passaram a competir por espionagem, sabotagem, influência política, operações clandestinas e corrida tecnológica. O Projeto Komurem tornou-se um dos principais símbolos dessa corrida."
-                        },
-                        {
-                            "tipo": "periodo",
-                            "titulo": "Quinta Guerra Mundial — Guerra dos Deuses",
-                            "descricao": "O colapso diplomático iniciado durante o Edo V levou a um conflito marcado principalmente por espionagem, infiltrações, sabotagens, assassinatos políticos e operações clandestinas. O Projeto Komurem tornou-se o centro dos temores internacionais. O conflito terminou com negociações que deram origem à Primeira Convenção de Paz Global."
-                        },
-                        {
-                            "tipo": "periodo",
-                            "titulo": "Era de um Novo Amanhecer",
-                            "descricao": "O início do período contemporâneo após séculos de guerras devastadoras. A nova era é marcada pela reconstrução das nações, expansão do comércio internacional, integração entre povos e avanço tecnológico. Os acordos internacionais estabelecidos após a Quinta Guerra Mundial criaram uma nova estrutura para impedir que conflitos regionais evoluíssem novamente para guerras de escala mundial."
-                        },
-                        {
-                            "tipo": "periodo",
-                            "titulo": "Era Atual — Expansão Controlada",
-                            "descricao": "A expansão moderna não depende mais da conquista direta. A URID amplia seu poder principalmente através de produção, tecnologia, infraestrutura e dependência econômica. Ao mesmo tempo, o crescimento das cidades, o contato maior com estrangeiros, a abertura limitada ao exterior e as disputas entre Casas tornam a sociedade imperial cada vez mais complexa."
-                        },
-                        {
-                            "tipo": "periodo",
-                            "titulo": "Continuidade e Tensão Interna",
-                            "descricao": "A estrutura política criada por Diastlov permanece ativa, mas o equilíbrio entre as duas linhagens imperiais, as Sete Casas e as demais forças políticas precisa ser constantemente mantido. As disputas internas representam uma das principais ameaças futuras à estabilidade do Império."
-                        }
-                    ]
-                },
-                {
-                    "id": "eventos",
-                    "titulo": "Eventos",
-                    "blocos": [
-                        {
-                            "tipo": "evento",
-                            "data": "14/07/1650",
-                            "titulo": "Incidente da Chuva Laranja",
-                            "descricao": "Nas linhas montanhosas do norte, a Aliança Stalingrad realizou o primeiro teste conhecido da Chuva Laranja, uma poderosa arma química desenvolvida a partir do líquido Nightblood encontrado na região. A substância destruía a vegetação, contaminava o solo e comprometia ecossistemas inteiros. A contaminação atingia rios e era carregada pela correnteza para regiões rio abaixo, espalhando seus efeitos para além das áreas diretamente atingidas. A exposição prolongada provocava doenças severas, deformações e alterações biológicas nos seres vivos, enquanto a destruição da vegetação transformava áreas férteis em regiões estéreis e perigosas. O uso da arma marcou o início de uma das formas mais devastadoras de guerra química empregadas pela Aliança."
-                        },
-                        {
-                            "tipo": "evento",
-                            "data": "1702",
-                            "titulo": "Queda do Vale do Inferno",
-                            "descricao": "Após anos de resistência isolada, a resistência do Vale do Inferno, em Dysburgo, finalmente caiu. Sem homens ou suprimentos, os defensores haviam resistido a diversos ataques químicos, que transformaram a região em uma floresta contaminada e profundamente alterada. Os últimos sobreviventes, conscientes de que os efeitos da contaminação e uma enorme operação de assalto se aproximavam, sacrificaram suas últimas forças em uma sequência de ataques suicidas e posições defensivas até o limite. Seu ato final foi incapacitar o porto aliado responsável pelo abastecimento das linhas ofensivas na região. A destruição do porto interrompeu temporariamente o fluxo de suprimentos e retardou a chegada de reforços, proporcionando um último suspiro para que a resistência imperial fortalecesse suas posições e mantivesse suas linhas. O sacrifício dos defensores tornou-se reconhecido mundialmente como símbolo de soldados que lutaram até o fim. Como os rostos dos combatentes jamais foram identificados, a imagem da caveira passou a ser associada às unidades que serviram no Vale do Inferno."
-                        },
-                        {
-                            "tipo": "evento",
-                            "data": "01/01/1725",
-                            "titulo": "Fundação Oficial da URID",
-                            "descricao": "Na cidade imperial de Asgard, é oficialmente fundada a União das Repúblicas Imperiais. A fundação representa o resultado final do processo de unificação iniciado por Diastlov nos últimos quinze anos da Guerra dos Cem Anos e continuado por ele após o fim do conflito. A cerimônia é marcada pelo memorável grito de 'Glória ou Morte', que posteriormente se torna associado ao nascimento do Império."
-                        },
-                        {
-                            "tipo": "evento",
-                            "data": "20/13/1760",
-                            "titulo": "Queda de Dysburgo",
-                            "descricao": "A cidade-fortaleza de Dysburgo, centro operacional e logístico da Aliança na região, foi tomada após seis meses de campanhas militares constantes. A conquista ocorreu após vinte dias de bombardeios contínuos da artilharia imperial, utilizando modelos recém-construídos e equipamentos capturados de postos aliados, enquanto as posições elevadas ao redor da cidade eram utilizadas para maximizar o alcance e a eficiência dos disparos. Ao final da campanha, Dysburgo encontrava-se quase completamente em ruínas. A vitória marcou o fim da guerra na região, após a Aliança recuar em meio a conflitos internos de poder que evoluíram para uma guerra civil. Durante o período de instabilidade, morreu Cleiman Natiel II de Lakeland, general responsável pelas forças aliadas na região."
-                        },
-                        {
-                            "tipo": "evento",
-                            "data": "08/05/1765",
-                            "titulo": "Naufrágio do Bota-Fogo",
-                            "descricao": "Na madrugada de 8 de maio de 1765, o Bota-Fogo, nau capitânia de Lakeland e maior navio a vapor de sua época, foi emboscado por uma série de ataques suicidas realizados por embarcações menores carregadas com explosivos e Nightblood. As explosões incendiaram o oceano ao redor da embarcação e provocaram o naufrágio do navio construído como símbolo do orgulho do rei. Mesmo gravemente danificado, o Bota-Fogo executou sua última ordem antes de afundar: bombardear a recém-conquistada e rebatizada Reconquista, uma fragata utilizada pelo Império para iniciar sua era naval. O ataque causou a morte de um dos príncipes regentes do Império, Vilen."
-                        },
-                        {
-                            "tipo": "evento",
-                            "data": "06/1770",
-                            "titulo": "Invasão do Império do Sol",
-                            "descricao": "Em resposta à morte do príncipe Vilen, o Império lançou uma série de invasões contra o  Império do Sol, menbro da aliança Stealingrad e pricipal apoio aliado aos povos taballkainos. Utilizando a madrugada e milhares de embarcações posicionadas ao longo da costa, incluindo jangadas projetadas para transportar tropas, as forças imperiais iniciaram uma campanha de grande escala. O sexto mês ficou conhecido nos Emirados como o 'Mês do Inferno'. Durante a ofensiva, ondas sucessivas de tropas avançaram com o objetivo de pilhar, saquear e destruir o máximo possível da estrutura do Império do Sol, conquistando grande parte de seu território."
-                        },
-                        {
-                            "tipo": "evento",
-                            "data": "1773",
-                            "titulo": "Batalhas de Las 10 Noches",
-                            "descricao": "As forças imperiais cercaram a capital do Império do Sol, BilyonNilt. Durante dez dias e dez noites, os combates se concentraram na tentativa de romper as muralhas da cidade. No decorrer da batalha, o Império conquistou sucessivas posições em combates noturnos, pagando custos humanos extremamente elevados. A unidade Spartanos resistiu tempo suficiente para permitir a evacuação da cidade, sendo destruída durante a retirada. O conflito terminou com a morte do imperador do Sol, que recusou abandonar a capital."
-                        },
-                        {
-                            "tipo": "evento",
-                            "data": "1778",
-                            "titulo": "Queda da Condensa Carmesim",
-                            "descricao": "Com as forças aliadas em frangalhos, a conquista da Condensa Carmesim ocorreu sem resistência significativa e praticamente sem danos à estrutura da cidade. Após meses de resistência armada e confrontos no mar, as forças aliadas deixaram a ilha mediante um acordo de paz, encerrando o último grande foco aliado no continente."
-                        },
-                        {
-                            "tipo": "evento",
-                            "data": "1799",
-                            "titulo": "Tratado do Novo Amanhecer",
-                            "descricao": "Após a Quinta Guerra Mundial, quatro nações assinaram o tratado conhecido como a 'Nova Era'. A Primeira Convenção de Paz Global estabeleceu uma nova ordem de paz na qual cada nação permaneceria territorialmente e politicamente como estava no momento da assinatura. O acordo determinava a retirada das forças hostis presentes nos territórios negociados e estabelecia as bases para uma nova relação diplomática entre as quatro nações."
-                        },
-                        {
-                            "tipo": "evento",
-                            "data": "19/01/1800",
-                            "titulo": "Criação da ONU",
-                            "descricao": "Como consequência direta da Primeira Convenção de Paz Global, é criada a Organização das Nações Unidas em 19 de janeiro de 1800. A instituição nasce com o objetivo de preservar a nova ordem internacional estabelecida pelo tratado e fornecer uma estrutura permanente para negociações entre as nações."
-                        }
-                    ]
-                },
-                {
-                    "id": "linha-temporal",
-                    "titulo": "Linha Temporal",
-                    "blocos": [
-                        {
-                            "tipo": "era",
-                            "titulo": "Edo I — A Era dos Mudos",
-                            "inicio": "1400",
-                            "fim": "1401",
-                            "descricao": "Período anterior à Primeira Guerra Mundial, marcado pela disputa das Terras Selvagens entre Taballkainos, Medrimart e Lakeland. As três potências ampliaram sua influência sobre a região por meio da conquista de pequenas áreas, estabelecimento de posições estratégicas e submissão de diferentes povos. As tribos do extremo norte ainda permaneciam politicamente fragmentadas, mas a crescente presença estrangeira começava a alterar o equilíbrio da região e preparava o cenário para o primeiro grande conflito."
-                        },
-                        {
-                            "tipo": "guerra",
-                            "titulo": "Primeira Guerra Mundial — Titanomaquia",
-                            "inicio": "1402",
-                            "fim": "1490",
-                            "descricao": "Primeiro grande conflito envolvendo as Terras Selvagens. A guerra foi travada principalmente entre as forças de Medrimart e Lakeland, enquanto os povos do norte organizavam resistências próprias contra a presença estrangeira. Os dois lados ainda utilizavam principalmente armamentos de origem medieval, fazendo com que o conhecimento do território, o clima extremo e a capacidade de sobrevivência tivessem enorme importância. Durante o conflito, tribos menores passaram a se submeter a tribos mais fortes em busca de proteção, formando progressivamente sete grandes polos de resistência que posteriormente seriam conhecidos como os Sete Senhores da Guerra. A guerra terminou com a expulsão das forças estrangeiras das Terras Selvagens. A retirada ocorreu principalmente pela incapacidade de sustentar a ocupação diante do frio, das enormes distâncias, do terreno e das dificuldades logísticas, episódio posteriormente conhecido em parte da historiografia como a Vergonha Imperial. Após a guerra, os sete polos permaneceram fortalecidos e começaram progressivamente a consolidar-se como as futuras Sete Nações do Norte."
-                        },
-                        {
-                            "tipo": "era",
-                            "titulo": "Edo II — A Era do Vapor",
-                            "inicio": "1491",
-                            "fim": "1504",
-                            "descricao": "O período entre a Primeira e a Segunda Guerra Mundial é marcado pela transformação tecnológica provocada pelo surgimento do Thermopunk. A tecnologia a vapor altera a indústria, os transportes e a guerra, enquanto as grandes potências passam a disputar o controle sobre seu desenvolvimento. A formação da Aliança Stalingrad consolida um novo bloco científico, econômico e industrial, preparando o mundo para o primeiro grande conflito da era industrial."
-                        },
-                        {
-                            "tipo": "guerra",
-                            "titulo": "Segunda Guerra Mundial — A Guerra do Vapor",
-                            "inicio": "1505",
-                            "fim": "1570",
-                            "descricao": "Primeiro grande conflito industrial da história. A Aliança Stalingrad utiliza a superioridade proporcionada pelo Thermopunk para expandir sua influência mundial. As campanhas militares passam a depender de máquinas, indústria e logística em uma escala jamais vista. No norte, a superioridade tecnológica estrangeira encontra dificuldades provocadas pelo ambiente. Equipamentos são abandonados ou destruídos, permitindo que os povos das Sete Nações capturem, estudem e adaptem tecnologias inimigas. O conhecimento a vapor começa então a ser assimilado de maneira sistemática."
-                        },
-                        {
-                            "tipo": "era",
-                            "titulo": "Edo III — Era da Industrialização Bárbara",
-                            "inicio": "1571",
-                            "fim": "1602",
-                            "descricao": "As nações do norte assimilam e adaptam os conhecimentos tecnológicos obtidos durante os conflitos anteriores. A industrialização bárbara transforma a estrutura econômica e militar dos povos da região, permitindo que desenvolvam soluções próprias para as condições extremas do território. Ao mesmo tempo, a Aliança Stalingrad amplia sua exploração colonial e forma novas alianças para impedir o fortalecimento das nações do norte. O crescente confronto de interesses leva ao colapso das relações diplomáticas e prepara o início de uma nova guerra."
-                        },
-                        {
-                            "tipo": "guerra",
-                            "titulo": "Terceira Guerra Mundial — Guerra dos Cem Anos",
-                            "inicio": "1603",
-                            "fim": "1705",
-                            "descricao": "Também conhecida como Guerra das Trincheiras, foi o maior conflito terrestre da Era Vitoriana. A Aliança Stalingrad e seus aliados tentam consolidar o domínio sobre as terras do norte, mas encontram uma resistência muito maior do que esperavam. O conflito transforma-se em uma guerra de desgaste, marcada por trincheiras, fortalezas Thermopunk, frio extremo, fome, doenças, bombardeios e destruição ambiental. Durante a guerra, os povos do norte desenvolvem novas formas de tecnologia militar e resistência, enquanto a Aliança sofre enormes perdas para manter suas linhas. Nos últimos quinze anos do conflito, Diastlov inicia o processo de reorganização e unificação das Sete Nações. A guerra termina em 1705, após mais de um século de combates, mas o processo político iniciado por Diastlov continua até a fundação da URID."
-                        },
-                        {
-                            "tipo": "era",
-                            "titulo": "Edo IV — As Sombras da Ciência",
-                            "inicio": "1706",
-                            "fim": "1749",
-                            "descricao": "O fim da Guerra dos Cem Anos não traz uma paz verdadeira. O mundo entra em um período de reconstrução industrial, corrida científica e reorganização política. A disputa entre as potências começa a migrar dos campos de batalha para laboratórios, centros de pesquisa e redes de espionagem. A integração entre Thermopunk e Quiopunck passa a receber investimentos cada vez maiores. No norte, Diastlov continua conduzindo a reorganização das antigas nações, consolidando as sete Casas principais e as duas linhagens imperiais até a fundação oficial da União das Repúblicas Imperiais em 1725. Após sua morte, o nome do Estado é posteriormente ampliado para União das Repúblicas Imperiais de Diastlov."
-                        },
-                        {
-                            "tipo": "guerra",
-                            "titulo": "Quarta Guerra Mundial — A Guerra dos Maiores",
-                            "inicio": "1750",
-                            "fim": "1775",
-                            "descricao": "O primeiro grande conflito em que a URID abandona sua postura predominantemente defensiva e passa a realizar ofensivas de grande escala. O Império ataca posições estratégicas da Aliança Stalingrad, enquanto a Federação aproveita o deslocamento das forças aliadas para iniciar suas próprias operações. A guerra assume proporções globais e força a Aliança a combater em múltiplas frentes. O conflito marca a transformação definitiva da URID em uma potência ofensiva e termina com a destruição da posição continental da Aliança e a consolidação do Império como uma das maiores potências do mundo."
-                        },
-                        {
-                            "tipo": "era",
-                            "titulo": "Edo V — A Guerra Fria",
-                            "inicio": "1776",
-                            "fim": "1796",
-                            "descricao": "O fim da Quarta Guerra Mundial encerra os grandes confrontos convencionais, mas não produz estabilidade. A ascensão da URID, o enfraquecimento da Aliança Stalingrad e o crescimento econômico da Federação criam um novo equilíbrio de poder. As grandes potências passam a competir por meio de espionagem, sabotagem, influência política, operações clandestinas e corrida tecnológica. O Projeto Komurem torna-se o principal símbolo dessa corrida, enquanto o medo de novas armas e tecnologias capazes de ameaçar a civilização aumenta progressivamente."
-                        },
-                        {
-                            "tipo": "guerra",
-                            "titulo": "Quinta Guerra Mundial — A Guerra dos Deuses",
-                            "inicio": "1797",
-                            "fim": "1799",
-                            "descricao": "O colapso diplomático iniciado durante o Edo V transforma a disputa entre as potências em um conflito travado principalmente nas sombras. Espionagem, infiltrações, sabotagens, assassinatos políticos e operações clandestinas substituem as grandes frentes de batalha. O Projeto Komurem torna-se o centro dos temores internacionais devido ao potencial de suas pesquisas. Pela primeira vez, as grandes potências percebem que uma vitória absoluta poderia significar a destruição de toda a civilização. A guerra termina com negociações que dão origem à Primeira Convenção de Paz Global e encerram oficialmente a Era Vitoriana."
-                        },
-                        {
-                            "tipo": "era",
-                            "titulo": "Era de um Novo Amanhecer",
-                            "inicio": "1800",
-                            "fim": "…",
-                            "descricao": "O início do período contemporâneo após séculos de guerras devastadoras. A nova era é marcada pela reconstrução das nações, expansão do comércio internacional, integração entre povos e avanço tecnológico. Os acordos internacionais estabelecidos após a Quinta Guerra Mundial criam uma nova estrutura para impedir que conflitos regionais evoluam novamente para guerras de escala mundial. O mundo passa gradualmente de uma ordem definida pela conquista e pela guerra para uma ordem baseada na diplomacia, no comércio e na cooperação internacional. Para a URID, essa mudança não representa abandono de sua filosofia histórica, mas uma transformação de seus métodos: a antiga expansão militar e territorial dá lugar à expansão econômica, tecnológica, industrial e estrutural."
-                        }
-                    ]
-                },
-                {
-                    "id": "ciclo-temporal",
-                    "titulo": "Ciclo Temporal",
-                    "blocos": [
-                        {
-                            "tipo": "texto",
-                            "conteudo": "A URID não evolui esquecendo o passado. Ela evolui repetindo padrões, mas com mais estrutura. A lógica de sobrevivência das antigas tribos continua presente na sociedade contemporânea, embora tenha sido transformada pela industrialização, pela tecnologia e pela organização imperial."
-                        },
-                        {
-                            "tipo": "aspecto",
-                            "titulo": "Eras passadas relevantes",
-                            "descricao": "A lógica de sobrevivência da era pré-Diastlov ainda define o comportamento atual. O sistema de Casas, a hierarquia, a valorização da competência e a ideia de prova constante são heranças diretas dos períodos em que sobreviver dependia da capacidade de adaptação."
-                        },
-                        {
-                            "tipo": "aspecto",
-                            "titulo": "Mudanças recentes",
-                            "descricao": "O crescimento de cidades como Sirius e das megaestruturas imperiais, o desenvolvimento tecnológico, o maior contato com estrangeiros, a abertura limitada ao exterior e a crescente complexidade das disputas entre Casas mostram que o Império se tornou muito mais complexo do que as antigas comunidades que lhe deram origem."
-                        },
-                        {
-                            "tipo": "aspecto",
-                            "titulo": "Continuidade entre passado e presente",
-                            "descricao": "A mesma sociedade que antes precisava concentrar-se em fortalezas e assentamentos resistentes para sobreviver ao frio hoje concentra população, indústria, conhecimento e infraestrutura em megaestruturas. A mesma cultura que transformava derrotas em aprendizado agora transforma crises políticas, tecnológicas e econômicas em novas formas de adaptação. O princípio permanece: aquilo que sobrevive precisa ser capaz de se adaptar."
-                        },
-                        {
-                            "tipo": "aspecto",
-                            "titulo": "Tensões futuras",
-                            "descricao": "O equilíbrio entre as duas Famílias Imperiais, as Sete Casas principais e as demais estruturas políticas depende de alinhamento constante. As disputas entre Casas podem transformar rivalidades econômicas e políticas em crises de escala nacional caso o equilíbrio construído durante a unificação seja rompido. A complexidade adquirida pelo Império torna uma ruptura interna potencialmente mais perigosa do que os conflitos enfrentados pelas antigas tribos."
-                        },
-                        {
-                            "tipo": "aspecto",
-                            "titulo": "Profecias e previsões",
-                            "descricao": "Entre grupos mais tradicionais existe a crença de que o maior teste da URID ainda não aconteceu. Segundo essa visão, o Império não necessariamente cairá diante de uma invasão externa, mas poderá ruir por uma falha interna. A Congregação do Último Jardim leva essa ideia ao extremo, acreditando que o colapso da ordem atual é necessário para 'reiniciar' o mundo. Essa crença transforma uma interpretação histórica em uma possível fonte de radicalismo, tensão política e conflito futuro."
-                        },
-                        {
-                            "tipo": "aspecto",
-                            "titulo": "Expansão histórica",
-                            "descricao": "Durante sua formação e consolidação, a URID utilizou principalmente conquista militar, reconquista territorial e ocupação estratégica. A expansão territorial estava diretamente relacionada à sobrevivência, à recuperação de posições tomadas por potências estrangeiras e à eliminação de ameaças externas."
-                        },
-                        {
-                            "tipo": "aspecto",
-                            "titulo": "Expansão moderna",
-                            "descricao": "A URID moderna não busca ampliar seu território através da conquista direta. Sua estratégia é estrutural: expandir influência através de produção, tecnologia, infraestrutura, comércio e dependência econômica. Onde não governa, sustenta. E onde sustenta, eventualmente passa a controlar."
-                        },
-                        {
-                            "tipo": "aspecto",
-                            "titulo": "Planos de expansão e colonização",
-                            "descricao": "A URID nunca estabeleceu como princípio moderno uma política de expansão territorial direta semelhante à de seus períodos de guerra. Sua estratégia contemporânea é aumentar sua influência sem necessariamente assumir formalmente o território de outra nação. A dependência econômica, tecnológica e estrutural permite que o Império amplie seu alcance sem repetir integralmente os métodos militares utilizados durante sua expansão histórica."
+                            "tipo": "Segurança alimentar e a URID contemporânea",
+                            "periodo": "1818–1840 | Ano unificado",
+                            "conteudo": "Na era contemporânea, a URID continuou tratando a segurança material como parte central da soberania. A experiência de cercos, escassez e dependência de rotas externas levou o Estado a investir em megacidades protegidas voltadas à produção alimentar. Em parceria com corporações medrimartianas, a União desenvolveu as Deméter, um conjunto de nove cidades agrícolas protegidas, planejadas para reduzir a vulnerabilidade do abastecimento. Ao mesmo tempo, os projetos de Sirius A e Sirius B foram concebidos para cumprir compromissos com a LNU e apresentar ao exterior uma imagem de modernidade e capacidade administrativa. A aproximação e posterior integração das duas cidades simbolizaram a tendência da URID de reunir estruturas separadas quando o crescimento tornava a integração mais eficiente. A União chegou a essa fase como uma potência industrial e organizada, mas ainda marcada pela tensão entre a promessa de proteger a coletividade e a autoridade central que decide quanto cada pessoa e região deve sacrificar por ela.",
+                            "eventos": [
+                                {
+                                    "data": "1818 | Ano unificado",
+                                    "titulo": "O projeto Deméter",
+                                    "descricao": "A URID firma parceria com corporações medrimartianas para desenvolver nove megacidades protegidas, com fazendas controladas destinadas a reforçar a produção e a segurança alimentar. As cidades recebem os nomes Deméter 01 a Deméter 09."
+                                },
+                                {
+                                    "data": "1823 | Ano unificado",
+                                    "titulo": "O projeto Sirius",
+                                    "descricao": "A URID inicia o projeto de duas cidades, Sirius A e Sirius B, destinadas a cumprir compromissos com a LNU e demonstrar ao mundo exterior a capacidade tecnológica e administrativa do Estado."
+                                },
+                                {
+                                    "data": "1840 | Ano unificado",
+                                    "titulo": "A integração de Sirius A e Sirius B",
+                                    "descricao": "O crescimento das duas cidades faz com que se aproximem a ponto de já não poderem ser tratadas como centros urbanos separados. Sirius A e Sirius B passam a formar uma única cidade."
+                                }
+                            ]
                         }
                     ]
                 }
@@ -607,7 +614,7 @@
                         {
                             "tipo": "corrente",
                             "titulo": "Militaristas Revanchistas",
-                            "descricao": "Defendem o fortalecimento militar da URID e uma política externa mais agressiva contra Medrimart e Lakeland. Consideram que as antigas guerras e perdas do Império ainda não foram devidamente vingadas e que a atual postura predominantemente econômica permite que seus antigos inimigos continuem ampliando influência sobre regiões estratégicas. Buscam investimentos maciços em armamentos, forças navais, aéreas e terrestres, além do desenvolvimento de novas tecnologias militares e Quiopunck. Seu objetivo não é apenas ampliar a capacidade de defesa, mas preparar a URID para uma eventual guerra de revanche contra Medrimart e Lakeland, levando o conflito até seus próprios territórios caso seja necessário. Dentro da facção, existe uma visão de que a paz atual representa apenas uma pausa histórica e que o Império deve estar preparado para transformar antigas derrotas em uma futura vitória definitiva. O crescimento dos Militaristas Revanchistas também é visto com preocupação pela ONU, que considera sua ascensão uma ameaça ao equilíbrio político e militar internacional. Como forma de impedir que a corrente concentre poder suficiente para alterar a política externa da URID, a ONU apoia diplomaticamente e economicamente as demais correntes políticas imperiais, fortalecendo grupos expansionistas econômicos, diplomáticos, industriais e moderados capazes de atuar como contrapeso aos militaristas. Essa política de contenção não busca necessariamente eliminar os Militaristas Revanchistas, mas impedir que eles obtenham influência suficiente para conduzir a URID a uma nova guerra de grande escala."
+                            "descricao": "Defendem o fortalecimento militar da URID e uma política externa mais agressiva contra Medrimart e Lakeland. Consideram que as antigas guerras e perdas do Império ainda não foram devidamente vingadas e que a atual postura predominantemente econômica permite que seus antigos inimigos continuem ampliando influência sobre regiões estratégicas. Buscam investimentos maciços em armamentos, forças navais, aéreas e terrestres, além do desenvolvimento de novas tecnologias militares e Quiopunck. Seu objetivo não é apenas ampliar a capacidade de defesa, mas preparar a URID para uma eventual guerra de revanche contra Medrimart e Lakeland, levando o conflito até seus próprios territórios caso seja necessário. Dentro da facção, existe uma visão de que a paz atual representa apenas uma pausa histórica e que o Império deve estar preparado para transformar antigas derrotas em uma futura vitória definitiva. O crescimento dos Militaristas Revanchistas também é visto com preocupação pela LNU, que considera sua ascensão uma ameaça ao equilíbrio político e militar internacional. Como forma de impedir que a corrente concentre poder suficiente para alterar a política externa da URID, a LNU apoia diplomaticamente e economicamente as demais correntes políticas imperiais, fortalecendo grupos expansionistas econômicos, diplomáticos, industriais e moderados capazes de atuar como contrapeso aos militaristas. Essa política de contenção não busca necessariamente eliminar os Militaristas Revanchistas, mas impedir que eles obtenham influência suficiente para conduzir a URID a uma nova guerra de grande escala."
                         },
                         {
                             "tipo": "corrente",
@@ -720,7 +727,7 @@
                             "tipo": "acordo",
                             "titulo": "Tratado de Livre Comércio",
                             "ano": "1807",
-                            "descricao": "Acordo que permite o livre comércio entre as nações signatárias, respeitando as regulamentações estabelecidas pela ONU e pela legislação interna de cada país. O tratado possui importância estratégica para a URID, cuja economia depende da exportação de sua produção industrial para mercados externos."
+                            "descricao": "Acordo que permite o livre comércio entre as nações signatárias, respeitando as regulamentações estabelecidas pela LNU e pela legislação interna de cada país. O tratado possui importância estratégica para a URID, cuja economia depende da exportação de sua produção industrial para mercados externos."
                         },
                         {
                             "tipo": "acordo",
@@ -826,12 +833,12 @@
                         {
                             "tipo": "conflito",
                             "titulo": "Emirados Arcaicos",
-                            "descricao": "Territórios anteriormente pertencentes ao Império do Sol e posteriormente incorporados à URID. A região possui grandes reservas de Nightblood, tornando sua manutenção uma questão estratégica para o Império.\n\nA soberania sobre o território é constantemente contestada e gera conflitos diplomáticos, políticos e discussões recorrentes dentro do Conselho da ONU. A presença imperial também possui importância energética e industrial, aumentando o custo estratégico de qualquer tentativa de abandonar ou perder o controle da região."
+                            "descricao": "Territórios anteriormente pertencentes ao Império do Sol e posteriormente incorporados à URID. A região possui grandes reservas de Nightblood, tornando sua manutenção uma questão estratégica para o Império.\n\nA soberania sobre o território é constantemente contestada e gera conflitos diplomáticos, políticos e discussões recorrentes dentro do Conselho da LNU. A presença imperial também possui importância energética e industrial, aumentando o custo estratégico de qualquer tentativa de abandonar ou perder o controle da região."
                         },
                         {
                             "tipo": "conflito",
                             "titulo": "Farol da Vigília",
-                            "descricao": "Em 1838, o encouraçado imperial Farol da Vigília naufragou nas ilhas de Solary. A URID estabeleceu inicialmente uma pequena operação de resgate militar no local. Anos depois, a estrutura evoluiu para uma base militar submarina altamente desenvolvida, ainda ocupada por militares imperiais ativos.\n\nA ONU contesta a permanência da instalação com base no Tratado de Desmilitarização, enquanto a URID sustenta oficialmente que a presença permanece vinculada à operação de recuperação de um patrimônio militar de elevado valor estratégico."
+                            "descricao": "Em 1838, o encouraçado imperial Farol da Vigília naufragou nas ilhas de Solary. A URID estabeleceu inicialmente uma pequena operação de resgate militar no local. Anos depois, a estrutura evoluiu para uma base militar submarina altamente desenvolvida, ainda ocupada por militares imperiais ativos.\n\nA LNU contesta a permanência da instalação com base no Tratado de Desmilitarização, enquanto a URID sustenta oficialmente que a presença permanece vinculada à operação de recuperação de um patrimônio militar de elevado valor estratégico."
                         },
                         {
                             "tipo": "conflito",
@@ -971,7 +978,7 @@
                     "blocos": [
                         {
                             "tipo": "texto",
-                            "conteudo": "Astroford, conhecida como a Capital do Ferro Negro, é o coração político, industrial e administrativo da URID.\n\nA cidade foi construída dentro de uma gigantesca cratera de mineração criada pela exploração de uma das maiores reservas conhecidas de Astroford. A própria cratera tornou-se parte da estrutura urbana, permitindo que a cidade se expandisse tanto verticalmente quanto para as profundezas da terra.\n\nA mineração não foi encerrada com a construção da capital. Pelo contrário. Astroford continua sendo explorada abaixo da própria cidade. Túneis, poços, plataformas industriais e sistemas subterrâneos avançam constantemente em direção às reservas ainda existentes.\n\nA cidade se organiza em grandes estruturas concêntricas e megaedificações interligadas. A arquitetura combina torres, plataformas elevadas, sistemas subterrâneos, linhas industriais e complexos de transporte, formando uma estrutura urbana semelhante a uma gigantesca engrenagem.\n\nNo centro absoluto de Astroford encontra-se a Torre Espírito Resiliente. O complexo funciona simultaneamente como monumento dedicado ao General Diastlov, centro histórico, arquivo imperial e uma das principais estruturas institucionais da União.\n\nA torre preserva documentos, registros, artefatos e memórias relacionadas à formação da URID. Também abriga estruturas administrativas e espaços destinados às instituições centrais do Império.\n\nAstroford representa a transformação de uma região marcada pela exploração, guerra e escassez em um dos maiores símbolos da capacidade imperial de reconstruir e adaptar o ambiente.\n\nA cidade não simplesmente ocupa a cratera.\n\nEla continua aprofundando-a."
+                            "conteudo": "Astroford, conhecida como a Capital do Ferro Negro, é o coração político, industrial e administrativo da URID.\n\nA cidade foi construída dentro de uma gigantesca cratera de mineração criada pela exploração de uma das maiores reservas conhecidas de Astroford. A própria cratera tornou-se parte da estrutura urbana, permitindo que a cidade se expandisse tanto verticalmente quanto para as profundezas da terra.\n\nA mineração não foi encerrada com a construção da capital. Pelo contrário. Astroford continua sendo explorada abaixo da própria cidade. Túneis, poços, plataformas industriais e sistemas subterrâneos avançam constantemente em direção às reservas ainda existentes.\n\nA cidade se organiza em grandes estruturas concêntricas e megaedificações interligadas. A arquitetura combina torres, plataformas elevadas, sistemas subterrâneos, linhas industriais e complexos de transporte, formando uma estrutura urbana semelhante a uma gigantesca engrenagem.\n\nNo centro absoluto de Astroford encontra-se a Torre Espírito Resiliente. O complexo funciona simultaneamente como mLNUmento dedicado ao General Diastlov, centro histórico, arquivo imperial e uma das principais estruturas institucionais da União.\n\nA torre preserva documentos, registros, artefatos e memórias relacionadas à formação da URID. Também abriga estruturas administrativas e espaços destinados às instituições centrais do Império.\n\nAstroford representa a transformação de uma região marcada pela exploração, guerra e escassez em um dos maiores símbolos da capacidade imperial de reconstruir e adaptar o ambiente.\n\nA cidade não simplesmente ocupa a cratera.\n\nEla continua aprofundando-a."
                         }
                     ]
                 },
@@ -1446,9 +1453,9 @@
             ]
         },
         {
-            "id": "arquitetura-monumentos",
+            "id": "arquitetura-mLNUmentos",
             "icone": "🏛️",
-            "titulo": "Arquitetura e Monumentos",
+            "titulo": "Arquitetura e MLNUmentos",
             "subsecoes": [
                 {
                     "id": "estilo-arquitetonico",
@@ -1456,7 +1463,7 @@
                     "blocos": [
                         {
                             "tipo": "texto",
-                            "conteudo": "A arquitetura da URID não existe apenas para abrigar pessoas. Ela existe para sustentar, resistir e representar.\n\nO estilo arquitetônico imperial nasceu da necessidade de sobreviver em um continente marcado pelo frio extremo, pelas nevascas e pelas grandes distâncias. Com o passar dos séculos, essa necessidade transformou-se em uma filosofia de construção: estruturas pesadas, verticais, funcionais e permanentes.\n\nA arquitetura da URID tornou-se uma combinação de pedra, metal e engenharia industrial, criando cidades que se aproximam mais de grandes fortalezas e catedrais industriais do que de centros urbanos convencionais.\n\nAs construções utilizam grandes blocos de pedra escura, frequentemente reforçados por estruturas metálicas, vigas aparentes, placas, rebites e contrafortes. Arcos elevados, pilares espessos, torres estreitas e fachadas profundamente recortadas são comuns, não apenas por motivos estéticos, mas porque permitem distribuir o peso de estruturas gigantescas e proteger seus interiores contra o ambiente externo.\n\nA verticalidade é uma das características mais marcantes da arquitetura imperial. Torres, chaminés, elevadores, passarelas e estruturas de sustentação elevam-se muito acima das ruas, enquanto níveis subterrâneos continuam descendo abaixo das cidades. O resultado são ambientes onde o céu frequentemente desaparece atrás de construções monumentais, pontes e estruturas suspensas.\n\nAs cidades não são formadas por edifícios isolados. Nas grandes concentrações urbanas, prédios, torres, passarelas, tubos, elevadores, trilhos e sistemas internos são conectados progressivamente até formarem enormes unidades urbanas. Habitação, comércio, produção, transporte e serviços coexistem em diferentes níveis.\n\nA verticalidade representa concentração de poder, otimização do território e domínio técnico. A cidade cresce para cima não apenas por falta de espaço, mas porque esse modelo permite proteger grandes populações do ambiente externo e concentrar infraestrutura em estruturas controláveis.\n\nO metal é predominante nas partes estruturais e industriais. O Astroford é empregado principalmente nas bases, estruturas críticas, fortificações e componentes que exigem resistência excepcional. Placas metálicas, vigas, correntes, rebites, tubulações, condutores e mecanismos permanecem frequentemente visíveis, incorporados diretamente à arquitetura em vez de serem escondidos atrás das paredes.\n\nA pedra constitui a identidade visual das grandes cidades. Muros espessos, fundações monumentais, torres, catedrais industriais, fortalezas administrativas e complexos subterrâneos utilizam enormes quantidades de pedra escura. Com o passar dos anos, fuligem, ferrugem, condensação e umidade alteram suas superfícies, fazendo com que mesmo construções relativamente novas adquiram uma aparência antiga e severa.\n\nO vapor é parte inseparável desse ambiente. A infraestrutura industrial atravessa as cidades como uma segunda camada arquitetônica. Grandes tubulações passam por paredes, atravessam ruas, sobem pelas fachadas e desaparecem dentro das torres. Válvulas e sistemas de exaustão liberam vapor constantemente, principalmente nas áreas industriais, estações, complexos energéticos e setores subterrâneos.\n\nDurante os períodos mais frios, o vapor encontra o ar congelante e transforma-se imediatamente em grandes nuvens brancas. Em corredores, becos e níveis inferiores, a condensação se acumula sobre metal e pedra, formando gotas nas paredes e deixando o chão permanentemente úmido. Algumas regiões permanecem envoltas por uma névoa constante, enquanto luzes atravessam o vapor e criam sombras distorcidas entre pilares, passarelas e torres.\n\nA URID também possui uma identidade sonora própria. A cidade nunca é completamente silenciosa. Engrenagens giram atrás das paredes, pistões trabalham em ciclos constantes, locomotivas atravessam os níveis de transporte, válvulas liberam pressão, bombas movimentam água e vapor e grandes motores permanecem ativos dia e noite.\n\nPara um visitante, esse ruído pode ser opressor. Para quem nasceu na URID, ele é apenas parte da vida. Crianças crescem ouvindo o funcionamento das máquinas durante a noite. Trabalhadores aprendem a distinguir uma falha mecânica pelo som antes mesmo que os instrumentos indiquem o problema. Moradores dormem acompanhados pelo grave constante das estruturas industriais e acordam com o reinício dos sistemas urbanos.\n\nO silêncio absoluto, por consequência, tornou-se incomum. Quando uma região industrial é desligada, os habitantes percebem imediatamente. Não porque alguma sirene precise avisá-los, mas porque a ausência do ruído revela que algo está errado.\n\nO som das máquinas deixou de ser percebido apenas como ruído industrial. Ele tornou-se parte da identidade acústica da cidade, tão natural quanto o vento, a chuva ou o movimento das pessoas.\n\nA arquitetura imperial não é apenas vista. Ela é ouvida e sentida no calor das tubulações, na vibração dos pisos, na umidade acumulada nas paredes e no vapor que escapa pelas estruturas.\n\nEssa combinação cria uma atmosfera característica da URID: catedrais de pedra atravessadas por máquinas, torres envoltas em vapor, estruturas metálicas cobertas por umidade e cidades acompanhadas permanentemente pelo som de sua própria infraestrutura.\n\nO vidro existe, mas raramente é protagonista. Quando utilizado em grandes estruturas, normalmente é reforçado e integrado a sistemas de proteção. Sua utilização mais marcante ocorre em projetos específicos, como Sirius, onde o teto de vidro permite visualizar o céu a partir de uma cidade construída abaixo do nível do solo.\n\nMesmo os espaços destinados à população carregam essa estética. Corredores possuem pilares espessos, portas metálicas, arcos altos e iluminação indireta. Praças são cercadas por monumentos, torres e estruturas industriais. Estações parecem fortalezas ferroviárias. Grandes edifícios administrativos assumem proporções quase religiosas, com fachadas monumentais que fazem o indivíduo parecer pequeno diante da estrutura.\n\nMonumentos imperiais seguem a mesma lógica. Estátuas, memoriais e edifícios públicos são construídos em pedra e metal, frequentemente elevados sobre grandes plataformas ou integrados às próprias estruturas urbanas. Generais, imperadores, industriais e figuras históricas são representados em proporções monumentais, cercados por engrenagens, colunas, arcos e elementos que remetem à força do Estado.\n\nNada na arquitetura imperial precisa parecer leve.\n\nEla é pesada.\n\nEscura.\n\nVertical.\n\nÚmida.\n\nViva pelo vapor e pelo ruído das máquinas.\n\nE, acima de tudo, permanente.\n\nAs construções foram feitas para durar."
+                            "conteudo": "A arquitetura da URID não existe apenas para abrigar pessoas. Ela existe para sustentar, resistir e representar.\n\nO estilo arquitetônico imperial nasceu da necessidade de sobreviver em um continente marcado pelo frio extremo, pelas nevascas e pelas grandes distâncias. Com o passar dos séculos, essa necessidade transformou-se em uma filosofia de construção: estruturas pesadas, verticais, funcionais e permanentes.\n\nA arquitetura da URID tornou-se uma combinação de pedra, metal e engenharia industrial, criando cidades que se aproximam mais de grandes fortalezas e catedrais industriais do que de centros urbanos convencionais.\n\nAs construções utilizam grandes blocos de pedra escura, frequentemente reforçados por estruturas metálicas, vigas aparentes, placas, rebites e contrafortes. Arcos elevados, pilares espessos, torres estreitas e fachadas profundamente recortadas são comuns, não apenas por motivos estéticos, mas porque permitem distribuir o peso de estruturas gigantescas e proteger seus interiores contra o ambiente externo.\n\nA verticalidade é uma das características mais marcantes da arquitetura imperial. Torres, chaminés, elevadores, passarelas e estruturas de sustentação elevam-se muito acima das ruas, enquanto níveis subterrâneos continuam descendo abaixo das cidades. O resultado são ambientes onde o céu frequentemente desaparece atrás de construções mLNUmentais, pontes e estruturas suspensas.\n\nAs cidades não são formadas por edifícios isolados. Nas grandes concentrações urbanas, prédios, torres, passarelas, tubos, elevadores, trilhos e sistemas internos são conectados progressivamente até formarem enormes unidades urbanas. Habitação, comércio, produção, transporte e serviços coexistem em diferentes níveis.\n\nA verticalidade representa concentração de poder, otimização do território e domínio técnico. A cidade cresce para cima não apenas por falta de espaço, mas porque esse modelo permite proteger grandes populações do ambiente externo e concentrar infraestrutura em estruturas controláveis.\n\nO metal é predominante nas partes estruturais e industriais. O Astroford é empregado principalmente nas bases, estruturas críticas, fortificações e componentes que exigem resistência excepcional. Placas metálicas, vigas, correntes, rebites, tubulações, condutores e mecanismos permanecem frequentemente visíveis, incorporados diretamente à arquitetura em vez de serem escondidos atrás das paredes.\n\nA pedra constitui a identidade visual das grandes cidades. Muros espessos, fundações mLNUmentais, torres, catedrais industriais, fortalezas administrativas e complexos subterrâneos utilizam enormes quantidades de pedra escura. Com o passar dos anos, fuligem, ferrugem, condensação e umidade alteram suas superfícies, fazendo com que mesmo construções relativamente novas adquiram uma aparência antiga e severa.\n\nO vapor é parte inseparável desse ambiente. A infraestrutura industrial atravessa as cidades como uma segunda camada arquitetônica. Grandes tubulações passam por paredes, atravessam ruas, sobem pelas fachadas e desaparecem dentro das torres. Válvulas e sistemas de exaustão liberam vapor constantemente, principalmente nas áreas industriais, estações, complexos energéticos e setores subterrâneos.\n\nDurante os períodos mais frios, o vapor encontra o ar congelante e transforma-se imediatamente em grandes nuvens brancas. Em corredores, becos e níveis inferiores, a condensação se acumula sobre metal e pedra, formando gotas nas paredes e deixando o chão permanentemente úmido. Algumas regiões permanecem envoltas por uma névoa constante, enquanto luzes atravessam o vapor e criam sombras distorcidas entre pilares, passarelas e torres.\n\nA URID também possui uma identidade sonora própria. A cidade nunca é completamente silenciosa. Engrenagens giram atrás das paredes, pistões trabalham em ciclos constantes, locomotivas atravessam os níveis de transporte, válvulas liberam pressão, bombas movimentam água e vapor e grandes motores permanecem ativos dia e noite.\n\nPara um visitante, esse ruído pode ser opressor. Para quem nasceu na URID, ele é apenas parte da vida. Crianças crescem ouvindo o funcionamento das máquinas durante a noite. Trabalhadores aprendem a distinguir uma falha mecânica pelo som antes mesmo que os instrumentos indiquem o problema. Moradores dormem acompanhados pelo grave constante das estruturas industriais e acordam com o reinício dos sistemas urbanos.\n\nO silêncio absoluto, por consequência, tornou-se incomum. Quando uma região industrial é desligada, os habitantes percebem imediatamente. Não porque alguma sirene precise avisá-los, mas porque a ausência do ruído revela que algo está errado.\n\nO som das máquinas deixou de ser percebido apenas como ruído industrial. Ele tornou-se parte da identidade acústica da cidade, tão natural quanto o vento, a chuva ou o movimento das pessoas.\n\nA arquitetura imperial não é apenas vista. Ela é ouvida e sentida no calor das tubulações, na vibração dos pisos, na umidade acumulada nas paredes e no vapor que escapa pelas estruturas.\n\nEssa combinação cria uma atmosfera característica da URID: catedrais de pedra atravessadas por máquinas, torres envoltas em vapor, estruturas metálicas cobertas por umidade e cidades acompanhadas permanentemente pelo som de sua própria infraestrutura.\n\nO vidro existe, mas raramente é protagonista. Quando utilizado em grandes estruturas, normalmente é reforçado e integrado a sistemas de proteção. Sua utilização mais marcante ocorre em projetos específicos, como Sirius, onde o teto de vidro permite visualizar o céu a partir de uma cidade construída abaixo do nível do solo.\n\nMesmo os espaços destinados à população carregam essa estética. Corredores possuem pilares espessos, portas metálicas, arcos altos e iluminação indireta. Praças são cercadas por mLNUmentos, torres e estruturas industriais. Estações parecem fortalezas ferroviárias. Grandes edifícios administrativos assumem proporções quase religiosas, com fachadas mLNUmentais que fazem o indivíduo parecer pequeno diante da estrutura.\n\nMLNUmentos imperiais seguem a mesma lógica. Estátuas, memoriais e edifícios públicos são construídos em pedra e metal, frequentemente elevados sobre grandes plataformas ou integrados às próprias estruturas urbanas. Generais, imperadores, industriais e figuras históricas são representados em proporções mLNUmentais, cercados por engrenagens, colunas, arcos e elementos que remetem à força do Estado.\n\nNada na arquitetura imperial precisa parecer leve.\n\nEla é pesada.\n\nEscura.\n\nVertical.\n\nÚmida.\n\nViva pelo vapor e pelo ruído das máquinas.\n\nE, acima de tudo, permanente.\n\nAs construções foram feitas para durar."
                         },
                         {
                             "tipo": "caracteristica",
@@ -1647,7 +1654,7 @@
                         {
                             "tipo": "edificio",
                             "titulo": "Torre Espírito Resiliente",
-                            "descricao": "Monumento e complexo histórico localizado no centro de Astroford, dedicado à memória e ao legado do General Diastlov. Preserva registros, documentos, artefatos e memórias relacionados à formação do Império e abriga instituições centrais do governo imperial."
+                            "descricao": "MLNUmento e complexo histórico localizado no centro de Astroford, dedicado à memória e ao legado do General Diastlov. Preserva registros, documentos, artefatos e memórias relacionados à formação do Império e abriga instituições centrais do governo imperial."
                         },
                         {
                             "tipo": "edificio",
@@ -1657,30 +1664,30 @@
                     ]
                 },
                 {
-                    "id": "monumentos-historicos",
-                    "titulo": "Monumentos históricos",
+                    "id": "mLNUmentos-historicos",
+                    "titulo": "MLNUmentos históricos",
                     "blocos": [
                         {
                             "tipo": "texto",
-                            "conteudo": "O império não ergue monumentos apenas para celebrar pessoas. Monumentos funcionam como registros públicos de feitos, sacrifícios, guerras, fracassos e acontecimentos considerados fundamentais para a identidade imperial.\n\nEstátuas são frequentemente acompanhadas de placas que registram a história do indivíduo, suas ações e o motivo pelo qual sua memória foi preservada. O objetivo não é necessariamente idealizar a pessoa, mas registrar aquilo que ela representou.\n\nMemoriais também existem para lembrar derrotas e falhas. O império preserva acontecimentos que demonstram momentos em que sua estrutura não foi suficiente, tratando essas lembranças como parte da própria identidade coletiva."
+                            "conteudo": "O império não ergue mLNUmentos apenas para celebrar pessoas. MLNUmentos funcionam como registros públicos de feitos, sacrifícios, guerras, fracassos e acontecimentos considerados fundamentais para a identidade imperial.\n\nEstátuas são frequentemente acompanhadas de placas que registram a história do indivíduo, suas ações e o motivo pelo qual sua memória foi preservada. O objetivo não é necessariamente idealizar a pessoa, mas registrar aquilo que ela representou.\n\nMemoriais também existem para lembrar derrotas e falhas. O império preserva acontecimentos que demonstram momentos em que sua estrutura não foi suficiente, tratando essas lembranças como parte da própria identidade coletiva."
                         },
                         {
-                            "tipo": "monumento-historico",
-                            "titulo": "Monumentos de Diastlov",
+                            "tipo": "mLNUmento-historico",
+                            "titulo": "MLNUmentos de Diastlov",
                             "descricao": "Estátuas, memoriais e estruturas dedicadas ao general responsável pela fundação do Império e pela criação de Astroford."
                         },
                         {
-                            "tipo": "monumento-historico",
+                            "tipo": "mLNUmento-historico",
                             "titulo": "Memoriais das Grandes Guerras",
-                            "descricao": "Monumentos dedicados aos conflitos que moldaram a história militar da URID e às gerações que participaram de suas campanhas."
+                            "descricao": "MLNUmentos dedicados aos conflitos que moldaram a história militar da URID e às gerações que participaram de suas campanhas."
                         },
                         {
-                            "tipo": "monumento-historico",
+                            "tipo": "mLNUmento-historico",
                             "titulo": "Memoriais do Vale do Inferno",
                             "descricao": "Estruturas dedicadas aos combatentes que resistiram isolados durante anos e se tornaram um dos maiores símbolos militares da história imperial."
                         },
                         {
-                            "tipo": "monumento-historico",
+                            "tipo": "mLNUmento-historico",
                             "titulo": "Memoriais de Falhas",
                             "descricao": "Locais destinados a preservar acontecimentos em que decisões, estruturas ou campanhas imperiais falharam. São mantidos como lembrança das consequências de erros passados."
                         }
@@ -1712,7 +1719,7 @@
                         {
                             "tipo": "estrutura",
                             "titulo": "Vale do Inferno",
-                            "descricao": "Uma região transformada em monumento pela própria história. Marcada por guerras antigas, ruínas, armadilhas e corpos preservados pelo frio, tornou-se símbolo dos extremos da resistência imperial."
+                            "descricao": "Uma região transformada em mLNUmento pela própria história. Marcada por guerras antigas, ruínas, armadilhas e corpos preservados pelo frio, tornou-se símbolo dos extremos da resistência imperial."
                         },
                         {
                             "tipo": "estrutura",
@@ -2072,7 +2079,7 @@
                         {
                             "tipo": "tradicao",
                             "titulo": "Memória dos mortos de guerra",
-                            "descricao": "Soldados mortos são homenageados da mesma maneira que outras figuras importantes: através de memoriais, nomes de unidades, monumentos e registros históricos."
+                            "descricao": "Soldados mortos são homenageados da mesma maneira que outras figuras importantes: através de memoriais, nomes de unidades, mLNUmentos e registros históricos."
                         },
                         {
                             "tipo": "cerimonia",
@@ -2304,7 +2311,7 @@
                         {
                             "tipo": "celebracao",
                             "titulo": "Cerimônias de Honra",
-                            "descricao": "Eventos destinados a reconhecer feitos excepcionais de pessoas que já faleceram. Grandes inventores, militares, engenheiros, líderes e outros indivíduos podem receber monumentos, nomes de instituições ou outras formas permanentes de homenagem."
+                            "descricao": "Eventos destinados a reconhecer feitos excepcionais de pessoas que já faleceram. Grandes inventores, militares, engenheiros, líderes e outros indivíduos podem receber mLNUmentos, nomes de instituições ou outras formas permanentes de homenagem."
                         },
                         {
                             "tipo": "celebracao",
@@ -3503,7 +3510,7 @@
                         {
                             "tipo": "tecnologia",
                             "titulo": "Megaestruturas de Astroford",
-                            "descricao": "Sistemas construtivos de escala monumental que utilizam Astroford como parte fundamental de sua estrutura. São a base das grandes cidades verticais e permitem a construção de edifícios que seriam inviáveis utilizando apenas materiais convencionais."
+                            "descricao": "Sistemas construtivos de escala mLNUmental que utilizam Astroford como parte fundamental de sua estrutura. São a base das grandes cidades verticais e permitem a construção de edifícios que seriam inviáveis utilizando apenas materiais convencionais."
                         },
                         {
                             "tipo": "tecnologia",
@@ -3604,7 +3611,7 @@
                         {
                             "tipo": "controle",
                             "titulo": "Megaestruturas",
-                            "descricao": "Projetos de escala monumental exigem autorização direta, acesso a recursos específicos e reconhecimento estrutural dentro do império. Construções dessa dimensão não podem ser realizadas de forma independente."
+                            "descricao": "Projetos de escala mLNUmental exigem autorização direta, acesso a recursos específicos e reconhecimento estrutural dentro do império. Construções dessa dimensão não podem ser realizadas de forma independente."
                         },
                         {
                             "tipo": "controle",

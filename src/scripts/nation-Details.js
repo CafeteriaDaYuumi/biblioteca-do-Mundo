@@ -1,7 +1,5 @@
 /* =========================================================
    INICIALIZAÇÃO DA PÁGINA
-   Configura o evento de carregamento e inicia o fluxo de
-   carregamento dos dados da nação a partir da URL.
    ========================================================= */
 
 document.addEventListener("DOMContentLoaded", iniciarPagina);
@@ -11,29 +9,53 @@ async function iniciarPagina() {
     const id = params.get("id");
 
     if (!id) {
-        mostrarErro("Nenhuma nação foi informada na URL.");
+        mostrarErro("Nenhuma nação foi informada na URL. Use ?id=urid.");
+        return;
+    }
+
+    // Impede que o parâmetro seja usado para navegar por pastas.
+    if (!/^[a-zA-Z0-9_-]+$/.test(id)) {
+        mostrarErro("O identificador da nação contém caracteres inválidos.");
         return;
     }
 
     try {
-        const resposta = await fetch(`../../../src/data/world/nation/${id}.json`);
+        const caminhoJSON =
+            `../../../src/data/world/nation/${encodeURIComponent(id)}.json`;
+
+        const resposta = await fetch(caminhoJSON, {
+            cache: "no-cache"
+        });
 
         if (!resposta.ok) {
-            throw new Error("Arquivo JSON não encontrado.");
+            throw new Error(
+                `Não foi possível carregar ${caminhoJSON} (HTTP ${resposta.status}).`
+            );
         }
 
         const nacao = await resposta.json();
+
+        if (!nacao || !nacao.identificacao || !nacao.identificacao.nome) {
+            throw new Error(
+                "O JSON não possui a estrutura esperada para uma ficha de nação."
+            );
+        }
+
         renderizarPagina(nacao);
+
     } catch (erro) {
-        mostrarErro("Não foi possível carregar a ficha da nação.");
-        console.error(erro);
+        mostrarErro(
+            "Não foi possível carregar a ficha da nação. " +
+            "Verifique o caminho do JSON e execute o site por um servidor local."
+        );
+
+        console.error("Erro ao carregar a ficha da nação:", erro);
     }
 }
 
+
 /* =========================================================
    RENDERIZAÇÃO PRINCIPAL
-   Orquestra a renderização de todas as seções da página
-   a partir do objeto da nação.
    ========================================================= */
 
 function renderizarPagina(nacao) {
@@ -53,16 +75,16 @@ function renderizarPagina(nacao) {
     renderizarGaleria(nacao.galeria);
 }
 
+
 /* =========================================================
-   FUNÇÕES DE RENDERIZAÇÃO DE SEÇÕES
-   Cada função é responsável por uma parte específica
-   da página, tratando a exibição dos dados conforme
-   o tipo de conteúdo.
+   MÍDIA DE TOPO
    ========================================================= */
 
-/* ===== MÍDIA DE TOPO ===== */
 function renderizarMidiaTopo(midia) {
     const container = document.getElementById("midiaTopo");
+
+    if (!container) return;
+
     if (!midia) return;
 
     if (midia.youtube) {
@@ -100,25 +122,43 @@ function renderizarMidiaTopo(midia) {
     container.innerHTML = `<div class="sombra-hero"></div>`;
 }
 
-/* ===== IDENTIFICAÇÃO ===== */
+
+/* =========================================================
+   IDENTIFICAÇÃO
+   ========================================================= */
+
 function renderizarIdentificacao(nacao) {
     const container = document.getElementById("identificacao");
+
+    if (!container) return;
+
     const info = nacao.identificacao;
 
     container.innerHTML = `
         <span class="categoria-registro">${info.categoria || ""}</span>
+
         <div class="codigo-registro">${info.codigo || ""}</div>
+
         <h1>${info.nome || ""}</h1>
+
         <p>${info.subtitulo || ""}</p>
+
         <div class="tags-registro">
             ${(nacao.tags || []).map(tag => `<span>${tag}</span>`).join("")}
         </div>
     `;
 }
 
-/* ===== FONTES E VERSÃO ===== */
+
+/* =========================================================
+   FONTES E VERSÃO
+   ========================================================= */
+
 function renderizarFontes(nacao) {
     const container = document.getElementById("fontes");
+
+    if (!container) return;
+
     const fontes = nacao.fontes || [];
     const versao = nacao.versao || {};
 
@@ -147,17 +187,24 @@ function renderizarFontes(nacao) {
     `;
 }
 
-/* ===== RESUMO ===== */
+
+/* =========================================================
+   RESUMO
+   ========================================================= */
+
 function renderizarResumo(resumo) {
     const container = document.getElementById("resumo");
-    if (!resumo) return;
+
+    if (!container || !resumo) return;
 
     const midia = resumo.midia || {};
     const campos = resumo.campos || [];
 
     container.innerHTML = `
         <div class="imagem-resumo">
-            ${midia.src ? `<img src="${midia.src}" alt="${midia.alt || ""}">` : ""}
+            ${midia.src
+            ? `<img src="${midia.src}" alt="${midia.alt || ""}">`
+            : ""}
         </div>
 
         <aside class="painel-resumo">
@@ -175,10 +222,15 @@ function renderizarResumo(resumo) {
     `;
 }
 
-/* ===== ESTATÍSTICAS ===== */
+
+/* =========================================================
+   ESTATÍSTICAS
+   ========================================================= */
+
 function renderizarEstatisticas(estatisticas) {
     const container = document.getElementById("estatisticas");
-    if (!estatisticas) return;
+
+    if (!container || !estatisticas) return;
 
     container.innerHTML = `
         <h2>${estatisticas.titulo || ""}</h2>
@@ -195,9 +247,16 @@ function renderizarEstatisticas(estatisticas) {
     `;
 }
 
-/* ===== ÍNDICE DE SEÇÕES ===== */
+
+/* =========================================================
+   ÍNDICE DE SEÇÕES
+   ========================================================= */
+
 function renderizarIndice(secoes) {
     const container = document.getElementById("indice");
+
+    if (!container) return;
+
     if (!secoes || secoes.length === 0) {
         container.remove();
         return;
@@ -210,10 +269,25 @@ function renderizarIndice(secoes) {
     `).join("");
 }
 
-/* ===== CRONOLOGIA ===== */
+
+/* =========================================================
+   CRONOLOGIA
+   ========================================================= */
+
 function renderizarCronologia(cronologia) {
     const container = document.getElementById("cronologia");
-    if (!cronologia || cronologia.length === 0) {
+
+    if (!container) return;
+
+    // Ignora strings vazias e itens sem ano ou evento.
+    const itens = (Array.isArray(cronologia) ? cronologia : [])
+        .filter(item =>
+            item &&
+            typeof item === "object" &&
+            (item.ano || item.evento)
+        );
+
+    if (itens.length === 0) {
         container.remove();
         return;
     }
@@ -225,7 +299,7 @@ function renderizarCronologia(cronologia) {
         </div>
 
         <div class="linha-tempo">
-            ${cronologia.map(item => `
+            ${itens.map(item => `
                 <article class="item-cronologia">
                     <span>${item.ano || ""}</span>
                     <p>${item.evento || ""}</p>
@@ -235,9 +309,16 @@ function renderizarCronologia(cronologia) {
     `;
 }
 
-/* ===== CITAÇÕES ===== */
+
+/* =========================================================
+   CITAÇÕES
+   ========================================================= */
+
 function renderizarCitacoes(citacoes) {
     const container = document.getElementById("citacoes");
+
+    if (!container) return;
+
     if (!citacoes || citacoes.length === 0) {
         container.remove();
         return;
@@ -260,70 +341,203 @@ function renderizarCitacoes(citacoes) {
     `;
 }
 
+
+
 /* =========================================================
-   RENDERIZAÇÃO DE SEÇÕES COMPLEXAS
-   Função principal que processa todas as seções com suas
-   subseções e blocos de conteúdo variados.
+   RENDERIZAÇÃO DE SEÇÕES E PERÍODOS HISTÓRICOS
    ========================================================= */
 
 function renderizarSecoes(secoes) {
     const container = document.getElementById("secoes");
 
-    container.innerHTML = (secoes || []).map(secao => `
-        <article class="secao-nacao" id="${secao.id}">
-            <header class="titulo-secao-nacao">
-                <span>${secao.icone || ""} Registro</span>
-                <h2>${secao.titulo || ""}</h2>
-            </header>
+    if (!container) return;
 
-            ${(secao.subsecoes || []).map(subsecao => {
-                let conteudoHTML = "";
+    container.innerHTML = (secoes || []).map(secao => {
+        let conteudoSecao = "";
 
-                if (subsecao.blocos && subsecao.blocos.length > 0) {
+        /*
+         * PERÍODOS HISTÓRICOS
+         * Estrutura esperada:
+         * secao.periodos[]
+         * - tipo
+         * - periodo
+         * - conteudo
+         * - eventos[]
+         */
+
+        if (Array.isArray(secao.periodos) && secao.periodos.length > 0) {
+            conteudoSecao += `
+                <div class="lista-periodos">
+                    ${secao.periodos.map(periodo => `
+                        <article class="cartao-periodo">
+                            <header class="cabecalho-periodo">
+                                <h3>${periodo.tipo || "Período histórico"}</h3>
+                                <span class="data-periodo">
+                                    ${periodo.periodo || ""}
+                                </span>
+                            </header>
+
+                            <div class="conteudo-periodo">
+                                ${periodo.conteudo
+                    ? formatarTexto(periodo.conteudo)
+                    : ""}
+                            </div>
+
+                            ${Array.isArray(periodo.eventos) &&
+                    periodo.eventos.length > 0
+                    ? `
+                                    <div class="eventos-periodo">
+                                        <h4>Eventos históricos</h4>
+
+                                        <div class="linha-tempo">
+                                            ${periodo.eventos.map(evento => `
+                                                <article class="item-cronologia">
+                                                    <span>${evento.data || ""}</span>
+                                                    <h5>${evento.titulo || ""}</h5>
+                                                    <p>${evento.descricao || ""}</p>
+                                                </article>
+                                            `).join("")}
+                                        </div>
+                                    </div>
+                                `
+                    : ""
+                }
+                        </article>
+                    `).join("")}
+                </div>
+            `;
+        }
+
+        /*
+         * SUBSEÇÕES TRADICIONAIS
+         */
+
+        const subsecoes = (secao.subsecoes || []).map(subsecao => {
+            let conteudoHTML = "";
+
+            if (subsecao.blocos && subsecao.blocos.length > 0) {
+                if (subsecao.id === "resumo-historico") {
+                    conteudoHTML += `
+            <div class="resumo-historico">
+                ${subsecao.blocos.map(bloco => `
+                    <div class="item-historico">
+                        ${bloco.tipo
+                            ? `<h4>${bloco.tipo}</h4>`
+                            : ""}
+                        ${formatarTexto(bloco.conteudo || "")}
+                    </div>
+                `).join("")}
+            </div>
+        `;
+                } else {
                     conteudoHTML += renderizarBlocos(subsecao.blocos);
                 }
-
-                if (subsecao.texto && subsecao.texto.trim() !== "") {
-                    conteudoHTML += `<div class="bloco-texto">${formatarTexto(subsecao.texto)}</div>`;
-                }
-
-                if (subsecao.conteudo && subsecao.conteudo.trim() !== "") {
-                    conteudoHTML += `<div class="bloco-texto">${formatarTexto(subsecao.conteudo)}</div>`;
-                }
-
-                if (subsecao.faccoes && subsecao.faccoes.length > 0) {
-                    conteudoHTML += `<div class="lista-faccoes">`;
-                    subsecao.faccoes.forEach(faccao => {
-                        conteudoHTML += `
-                            <div class="cartao-faccao">
-                                ${faccao.titulo ? `<h4>${faccao.titulo}</h4>` : ""}
-                                ${faccao.descricao ? `<p>${faccao.descricao}</p>` : ""}
-                            </div>
-                        `;
-                    });
-                    conteudoHTML += `</div>`;
-                }
-
-                if (!conteudoHTML) {
-                    conteudoHTML = `<p class="sem-conteudo">Nenhuma informação registrada.</p>`;
-                }
-
-                return `
-                    <section class="subsecao-nacao" id="${subsecao.id}">
-                        <h3>${subsecao.titulo || ""}</h3>
-                        ${conteudoHTML}
-                    </section>
+            }
+            if (subsecao.texto && subsecao.texto.trim() !== "") {
+                conteudoHTML += `
+                    <div class="bloco-texto">
+                        ${formatarTexto(subsecao.texto)}
+                    </div>
                 `;
-            }).join("")}
-        </article>
-    `).join("");
+            }
+
+            if (subsecao.conteudo && subsecao.conteudo.trim() !== "") {
+                conteudoHTML += `
+                    <div class="bloco-texto">
+                        ${formatarTexto(subsecao.conteudo)}
+                    </div>
+                `;
+            }
+
+            if (subsecao.faccoes && subsecao.faccoes.length > 0) {
+                conteudoHTML += `
+                    <div class="lista-faccoes">
+                        ${subsecao.faccoes.map(faccao => `
+                            <div class="cartao-faccao">
+                                ${faccao.titulo
+                        ? `<h4>${faccao.titulo}</h4>`
+                        : ""}
+
+                                ${faccao.descricao
+                        ? `<p>${faccao.descricao}</p>`
+                        : ""}
+                            </div>
+                        `).join("")}
+                    </div>
+                `;
+            }
+
+            /*
+             * Algumas subseções também podem conter períodos.
+             */
+            if (Array.isArray(subsecao.periodos) && subsecao.periodos.length > 0) {
+                conteudoHTML += `
+                    <div class="lista-periodos">
+                        ${subsecao.periodos.map(periodo => `
+                            <article class="cartao-periodo">
+                                <h4>${periodo.tipo || "Período histórico"}</h4>
+                                <span class="data-periodo">${periodo.periodo || ""}</span>
+
+                                ${periodo.conteudo
+                        ? formatarTexto(periodo.conteudo)
+                        : ""}
+
+                                ${Array.isArray(periodo.eventos) &&
+                        periodo.eventos.length > 0
+                        ? `
+                                        <div class="eventos-periodo">
+                                            ${periodo.eventos.map(evento => `
+                                                <article class="item-cronologia">
+                                                    <span>${evento.data || ""}</span>
+                                                    <h5>${evento.titulo || ""}</h5>
+                                                    <p>${evento.descricao || ""}</p>
+                                                </article>
+                                            `).join("")}
+                                        </div>
+                                    `
+                        : ""
+                    }
+                            </article>
+                        `).join("")}
+                    </div>
+                `;
+            }
+
+            if (!conteudoHTML) {
+                conteudoHTML = `
+                    <p class="sem-conteudo">
+                        Nenhuma informação registrada.
+                    </p>
+                `;
+            }
+
+            return `
+                <section class="subsecao-nacao" id="${subsecao.id || ""}">
+                    <h3>${subsecao.titulo || ""}</h3>
+                    ${conteudoHTML}
+                </section>
+            `;
+        }).join("");
+
+        return `
+            <article class="secao-nacao" id="${secao.id || ""}">
+                <header class="titulo-secao-nacao">
+                    <span>${secao.icone || ""} Registro</span>
+                    <h2>${secao.titulo || ""}</h2>
+                </header>
+
+                ${conteudoSecao}
+                ${subsecoes}
+            </article>
+        `;
+    }).join("");
 }
 
+
+
+
 /* =========================================================
-   RENDERIZAÇÃO DE BLOCOS INTERNOS
-   Processa os diversos tipos de blocos que podem aparecer
-   dentro de uma subseção (texto, lista, citação, imagem,
-   tabela, comparação, cartão).
+   BLOCOS INTERNOS
    ========================================================= */
 
 function renderizarBlocos(blocos) {
@@ -359,7 +573,9 @@ function renderizarBlocos(blocos) {
             return `
                 <figure class="bloco-imagem">
                     <img src="${bloco.src || ""}" alt="${bloco.alt || ""}">
-                    ${bloco.legenda ? `<figcaption>${bloco.legenda}</figcaption>` : ""}
+                    ${bloco.legenda
+                    ? `<figcaption>${bloco.legenda}</figcaption>`
+                    : ""}
                 </figure>
             `;
         }
@@ -374,10 +590,13 @@ function renderizarBlocos(blocos) {
 
         if (bloco.titulo || bloco.descricao || bloco.conteudo) {
             const descricao = bloco.descricao || bloco.conteudo || "";
+
             return `
                 <div class="bloco-cartao">
                     ${bloco.titulo ? `<h4>${bloco.titulo}</h4>` : ""}
-                    ${descricao ? `<p>${formatarTexto(descricao)}</p>` : ""}
+                    ${descricao
+                    ? `<p>${formatarTexto(descricao)}</p>`
+                    : ""}
                 </div>
             `;
         }
@@ -386,31 +605,47 @@ function renderizarBlocos(blocos) {
     }).join("");
 }
 
+
 /* =========================================================
-   FUNÇÕES AUXILIARES DE RENDERIZAÇÃO
-   Tabelas, comparações, vídeo final, relacionados, galeria,
-   formatação de texto e utilitários.
+   TABELAS
    ========================================================= */
 
-/* ===== TABELA ===== */
 function renderizarTabela(bloco) {
     const colunas = bloco.colunas || [];
     const linhas = bloco.linhas || [];
 
     if (colunas.length === 0) return "";
 
-    const cabecalho = `<thead><tr>${colunas.map(col => `<th>${col}</th>`).join("")}</tr></thead>`;
+    const cabecalho = `
+        <thead>
+            <tr>
+                ${colunas.map(col => `<th>${col}</th>`).join("")}
+            </tr>
+        </thead>
+    `;
 
     const corpo = linhas.length > 0
-        ? `<tbody>${linhas.map(linha => {
-            const celulas = Array.isArray(linha) ? linha : Object.values(linha);
-            return `<tr>${celulas.map(cel => `<td>${cel}</td>`).join("")}</tr>`;
-        }).join("")}</tbody>`
+        ? `
+            <tbody>
+                ${linhas.map(linha => {
+            const celulas = Array.isArray(linha)
+                ? linha
+                : Object.values(linha);
+
+            return `
+                        <tr>
+                            ${celulas.map(cel => `<td>${cel}</td>`).join("")}
+                        </tr>
+                    `;
+        }).join("")}
+            </tbody>
+        `
         : "";
 
     return `
         <div class="bloco-tabela">
             ${bloco.titulo ? `<h4>${bloco.titulo}</h4>` : ""}
+
             <table>
                 ${cabecalho}
                 ${corpo}
@@ -419,7 +654,11 @@ function renderizarTabela(bloco) {
     `;
 }
 
-/* ===== COMPARAÇÃO ===== */
+
+/* =========================================================
+   COMPARAÇÕES
+   ========================================================= */
+
 function renderizarComparacao(bloco) {
     const ladoA = bloco.ladoA || {};
     const ladoB = bloco.ladoB || {};
@@ -427,25 +666,46 @@ function renderizarComparacao(bloco) {
     return `
         <div class="bloco-comparacao">
             ${bloco.titulo ? `<h4>${bloco.titulo}</h4>` : ""}
+
             <div class="comparacao-lados">
                 <div class="lado-a">
                     <h5>${ladoA.titulo || "Lado A"}</h5>
-                    ${ladoA.descricao ? `<p>${ladoA.descricao}</p>` : ""}
-                    ${ladoA.itens ? `<ul>${ladoA.itens.map(i => `<li>${i}</li>`).join("")}</ul>` : ""}
+
+                    ${ladoA.descricao
+            ? `<p>${ladoA.descricao}</p>`
+            : ""}
+
+                    ${ladoA.itens
+            ? `<ul>${ladoA.itens.map(i => `<li>${i}</li>`).join("")}</ul>`
+            : ""}
                 </div>
+
                 <div class="lado-b">
                     <h5>${ladoB.titulo || "Lado B"}</h5>
-                    ${ladoB.descricao ? `<p>${ladoB.descricao}</p>` : ""}
-                    ${ladoB.itens ? `<ul>${ladoB.itens.map(i => `<li>${i}</li>`).join("")}</ul>` : ""}
+
+                    ${ladoB.descricao
+            ? `<p>${ladoB.descricao}</p>`
+            : ""}
+
+                    ${ladoB.itens
+            ? `<ul>${ladoB.itens.map(i => `<li>${i}</li>`).join("")}</ul>`
+            : ""}
                 </div>
             </div>
         </div>
     `;
 }
 
-/* ===== VÍDEO FINAL ===== */
+
+/* =========================================================
+   VÍDEO FINAL
+   ========================================================= */
+
 function renderizarVideoFinal(video) {
     const container = document.getElementById("videoAntesDasConexoes");
+
+    if (!container) return;
+
     if (!video || (!video.youtube && !video.videoLocal)) {
         container.remove();
         return;
@@ -461,24 +721,33 @@ function renderizarVideoFinal(video) {
         <div class="player-video">
             ${video.youtube
             ? `<iframe src="${formatarYoutube(video.youtube)}" frameborder="0" allowfullscreen></iframe>`
-            : `<video controls poster="${video.imagemCapa || ""}">
-                           <source src="${video.videoLocal}" type="video/mp4">
-                       </video>`
+            : `
+                    <video controls poster="${video.imagemCapa || ""}">
+                        <source src="${video.videoLocal}" type="video/mp4">
+                    </video>
+                `
         }
         </div>
     `;
 }
 
-/* ===== RELACIONADOS (CONEXÕES) ===== */
+
+/* =========================================================
+   RELACIONADOS / CONEXÕES
+   ========================================================= */
+
 function renderizarRelacionados(relacionados) {
     const container = document.getElementById("relacionados");
+
+    if (!container) return;
+
     if (!relacionados) {
         container.remove();
         return;
     }
 
     const grupos = Object.entries(relacionados).filter(
-        ([_, itens]) => itens && itens.length > 0
+        ([, itens]) => Array.isArray(itens) && itens.length > 0
     );
 
     if (grupos.length === 0) {
@@ -496,7 +765,7 @@ function renderizarRelacionados(relacionados) {
             <div class="grupo-relacionados">
                 <h3>${formatarTitulo(tipo)}</h3>
 
-               <div class="lista-relacionados ${itens.length > 4 ? "carrossel" : ""}">
+                <div class="lista-relacionados ${itens.length > 4 ? "carrossel" : ""}">
                     ${itens.map(item => criarCardRelacionado(tipo, item)).join("")}
                 </div>
             </div>
@@ -504,9 +773,14 @@ function renderizarRelacionados(relacionados) {
     `;
 }
 
+
 function criarCardRelacionado(tipo, item) {
     const id = typeof item === "string" ? item : item.id;
-    const nome = typeof item === "string" ? formatarTitulo(item) : item.nome;
+
+    const nome = typeof item === "string"
+        ? formatarTitulo(item)
+        : item.nome;
+
     const url = typeof item === "object" && item.url
         ? item.url
         : gerarLinkRelacionado(tipo, id);
@@ -520,6 +794,7 @@ function criarCardRelacionado(tipo, item) {
         </a>
     `;
 }
+
 
 /* Gera o link correto para cada tipo de entidade relacionada. */
 function gerarLinkRelacionado(tipo, id) {
@@ -537,12 +812,19 @@ function gerarLinkRelacionado(tipo, id) {
 
     const pagina = rotas[tipo] || "#";
 
-    return `${pagina}?id=${id}`;
+    return `${pagina}?id=${encodeURIComponent(id)}`;
 }
 
-/* ===== GALERIA ===== */
+
+/* =========================================================
+   GALERIA
+   ========================================================= */
+
 function renderizarGaleria(galeria) {
     const container = document.getElementById("galeria");
+
+    if (!container) return;
+
     if (!galeria || !galeria.imagens || galeria.imagens.length === 0) {
         container.remove();
         return;
@@ -558,25 +840,27 @@ function renderizarGaleria(galeria) {
         <div class="grade-galeria">
             ${galeria.imagens.map(imagem => `
                 <figure class="item-galeria">
-                    ${imagem.src ? `<img src="${imagem.src}" alt="${imagem.alt || ""}">` : ""}
-                    ${imagem.legenda ? `<figcaption>${imagem.legenda}</figcaption>` : ""}
+                    ${imagem.src
+            ? `<img src="${imagem.src}" alt="${imagem.alt || ""}">`
+            : ""}
+
+                    ${imagem.legenda
+            ? `<figcaption>${imagem.legenda}</figcaption>`
+            : ""}
                 </figure>
             `).join("")}
         </div>
     `;
 }
 
+
 /* =========================================================
-   FUNÇÕES DE FORMATAÇÃO E UTILITÁRIOS
-   Tratamento de texto, títulos, URLs e exibição de erros.
+   FORMATAÇÃO DE TEXTO
    ========================================================= */
 
-/* Converte texto com markdown simples e quebras de linha
-   em parágrafos HTML, preservando formatação. */
 function formatarTexto(texto) {
     if (!texto) return "";
 
-    /* Substitui caracteres Unicode problemáticos por equivalentes ASCII. */
     let limpo = texto
         .replace(/\u2018/g, "'")
         .replace(/\u2019/g, "'")
@@ -585,46 +869,82 @@ function formatarTexto(texto) {
         .replace(/\u2013/g, "-")
         .replace(/\u2014/g, "-");
 
-    /* Converte marcação **negrito** e *itálico* para tags HTML. */
     let convertido = limpo
         .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
         .replace(/\*(.*?)\*/g, "<em>$1</em>");
 
-    /* Divide em parágrafos usando duas quebras de linha (\n\n). */
-    let paragrafos = convertido.split(/\n{2,}/);
+    const paragrafos = convertido.split(/\n{2,}/);
 
-    /* Para cada parágrafo, substitui quebras simples por <br>
-       e remove espaços em branco nas bordas. */
     return paragrafos
         .map(p => p.replace(/\r\n/g, "\n")
-                   .replace(/\n/g, "<br>")
-                   .trim())
+            .replace(/\n/g, "<br>")
+            .trim())
         .filter(p => p !== "")
         .map(p => `<p>${p}</p>`)
         .join("");
 }
 
-/* Transforma um texto em formato camelCase ou snake_case
-   em um título com espaços e primeira letra maiúscula. */
+
+/* =========================================================
+   FORMATAÇÃO DE TÍTULOS
+   ========================================================= */
+
 function formatarTitulo(texto) {
     return texto
         .replace(/([A-Z])/g, " $1")
         .replace(/^./, letra => letra.toUpperCase());
 }
 
-/* Extrai o ID de um link do YouTube e retorna a URL embed. */
+
+/* =========================================================
+   FORMATAÇÃO DE URL DO YOUTUBE
+   ========================================================= */
+
 function formatarYoutube(url) {
-    if (url.includes("embed")) return url;
+    if (!url) return "";
 
-    const id = url.split("v=")[1]?.split("&")[0];
+    try {
+        const endereco = new URL(url, window.location.href);
 
-    return id ? `https://www.youtube.com/embed/${id}` : url;
+        if (endereco.pathname.includes("/embed/")) {
+            return url;
+        }
+
+        let id = endereco.searchParams.get("v");
+
+        if (endereco.hostname === "youtu.be") {
+            id = endereco.pathname.replace(/^\//, "");
+        } else if (!id) {
+            const trecho = endereco.pathname.match(/\/(?:shorts|live)\/([^/]+)/);
+
+            if (trecho) {
+                id = trecho[1];
+            }
+        }
+
+        return id
+            ? `https://www.youtube.com/embed/${id}`
+            : url;
+
+    } catch {
+        return url;
+    }
 }
 
-/* Substitui o conteúdo principal por uma mensagem de erro
-   e um link para a página inicial. */
+
+/* =========================================================
+   EXIBIÇÃO DE ERROS
+   ========================================================= */
+
 function mostrarErro(mensagem) {
-    document.getElementById("paginaFichaNacao").innerHTML = `
+    const container = document.getElementById("paginaFichaNacao");
+
+    if (!container) {
+        console.error(mensagem);
+        return;
+    }
+
+    container.innerHTML = `
         <section class="erro-registro">
             <h1>${mensagem}</h1>
             <a href="../../index.html">Voltar para Biblioteca</a>
